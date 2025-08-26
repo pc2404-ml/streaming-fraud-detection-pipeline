@@ -1,0 +1,11 @@
+username,full_name,email,phone,transaction_amount,merchant,card_last_4,card_provider,country,address,city,state,zipcode,transaction_date,transaction_hour
+alice_johnson,Alice Johnson,alice.j@outlook.com,+1-555-234-5678,89.99,Amazon,2468,Mastercard,United States,456 Oak Street,Los Angeles,CA,90210,2024-01-16,10
+mike_chen,Mike Chen,mchen@gmail.com,+1-555-345-6789,1250.00,Best Buy,3579,Visa,United States,789 Pine Ave,Chicago,IL,60601,2024-01-17,15
+sarah_williams,Sarah Williams,s.williams@yahoo.com,+1-555-456-7890,45.50,Starbucks,4680,Amex,United States,321 Elm St,Miami,FL,33101,2024-01-18,8
+david_brown,David Brown,dbrown@hotmail.com,+1-555-567-8901,2800.50,Tesla Supercharger,5791,Visa,United States,654 Maple Dr,Austin,TX,78701,2024-01-19,22
+emma_davis,Emma Davis,emma.davis@gmail.com,+1-555-678-9012,67.25,Whole Foods,6802,Mastercard,United States,987 Cedar Ln,Portland,OR,97201,2024-01-20,12
+james_wilson,James Wilson,jwilson@outlook.com,+1-555-789-0123,5000.00,Luxury Watch Store,7913,Amex,Nigeria,123 Victoria Island,Lagos,Unknown,100001,2024-01-21,2
+lisa_garcia,Lisa Garcia,lgarcia@yahoo.com,+1-555-890-1234,123.75,Target,8024,Visa,United States,555 Broadway,Denver,CO,80202,2024-01-22,16
+robert_martinez,Robert Martinez,rmartinez@gmail.com,+1-555-901-2345,34.99,McDonald's,9135,Mastercard,United States,777 State St,Boston,MA,02101,2024-01-23,19
+jennifer_lee,Jennifer Lee,jlee@hotmail.com,+1-555-012-3456,1899.00,Apple Store,0246,Amex,United States,888 Market St,San Francisco,CA,94102,2024-01-24,11
+kevin_taylor,Kevin Taylor,ktaylor@outlook.com,+1-555-123-4567,75.50,Gas Station,1357,Visa,United States,999 Highway 1,Phoenix,AZ,85001,2024-01-25,7

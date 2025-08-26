@@ -1,0 +1,1001 @@
+username,full_name,email,phone,transaction_amount,merchant,card_last_4,card_provider,country,address,city,state,zipcode,transaction_date,transaction_hour,is_fraud
+johnsonjoshua,Noah Rhodes,garzaanthony@example.org,538.990.8386,1587.54,Suspicious Site,4657,Mastercard,Namibia,26542 Susan Junction Apt. 161,Melanieview,Arizona,96148,2025-04-19,2,1
+dudleynicholas,Sandra Montgomery,barbara10@example.net,441.731.6475,3868.45,Foreign ATM,7912,Visa,Guinea,419 Amanda Gardens,South Noah,South Dakota,90699,2025-05-12,1,1
+megan03,Renee Morales,clarksherri@example.net,837-767-2423x88496,1827.93,Unknown Store,1434,Mastercard,Cyprus,710 Eric Estate,Carlsonfurt,Missouri,78605,2025-08-25,0,1
+tasha01,Kimberly Adams,daniel62@example.com,5484281489,341.42,Starbucks,5557,Visa,United States,88095 Smith Lake Suite 303,North Jessicaland,Wisconsin,70323,2025-07-01,17,0
+donnaarroyo,Joseph Obrien,sarahcampos@example.net,546.357.8713,561.53,Target,3547,Mastercard,United States,98393 Chad Roads Apt. 310,Chadbury,Louisiana,88185,2025-04-26,12,0
+jenniferkhan,Dana Kennedy,glee@example.net,(956)467-0106x51333,90.75,Starbucks,6881,American Express,United States,47317 Brent Plains Apt. 132,Tuckerborough,Montana,08186,2025-02-09,9,0
+gallowayjoseph,Jordan Henderson,smoore@example.org,4982050097,218.97,Amazon,8527,Visa,United States,19136 Shelly Port,New Brooke,South Carolina,11246,2025-04-10,19,0
+sarah35,James Powers,stephen10@example.com,+1-791-618-3842x513,72.25,Target,6925,Mastercard,United States,8498 Elizabeth Plaza,Sarahville,Florida,35165,2025-01-28,18,0
+newtoneric,Daniel Cooper,william40@example.org,+1-264-300-5242x7868,1660.39,Unknown Store,2307,Mastercard,Belarus,059 Russell Canyon,Michaelton,Minnesota,28036,2025-06-11,3,1
+gomezanita,Valerie Brady,michellecherry@example.org,(902)756-3421x60733,2830.44,Suspicious Site,3664,American Express,Gambia,03654 Tammy Harbors,Darlenefurt,Utah,70783,2025-03-20,3,1
+wilsontara,Victor Baker,carlsonmichael@example.com,(798)816-9340x60883,175.51,Target,2169,Mastercard,United States,595 Jennifer Hills,Elizabethmouth,Montana,91885,2025-03-12,19,0
+jamesortega,Paul Thompson,richard04@example.com,969.495.7773,586.01,Walmart,7216,American Express,United States,8951 Emily Fork,East Andrew,Kansas,62778,2025-05-25,15,0
+gibsonolivia,Michelle Cruz,psanchez@example.net,5163328708,183.5,Target,1916,Mastercard,United States,78895 Salazar Stravenue Suite 872,Colebury,South Dakota,36848,2025-07-01,20,0
+rsims,Micheal Young,luis81@example.org,(936)823-1665,4317.66,Suspicious Site,2084,Mastercard,Bahamas,6909 Woods Knoll,Karenchester,Ohio,98479,2025-06-24,3,1
+tracynelson,Mr. Michael Yates,marycalhoun@example.net,+1-906-499-0162,702.33,Target,9179,Discover,United States,6537 Rogers Light,Karenchester,Kentucky,11236,2025-04-22,11,0
+cookemichael,Rachael Pearson,herringjames@example.org,+1-323-427-1937x452,122.87,Walmart,9830,American Express,United States,90496 David Flat Apt. 931,Melissaville,Oregon,05884,2025-03-24,11,0
+estanley,Gloria Atkinson,xgarcia@example.net,626.728.4987x769,348.46,Shell,6930,Mastercard,United States,47379 Rogers Park,Hunterborough,Minnesota,34363,2025-03-22,14,0
+angela83,Nathan Freeman,hannahbrewer@example.com,701.843.6349x578,412.53,Amazon,1771,Visa,United States,7444 David Fields Suite 182,East Joanna,Louisiana,95473,2025-05-20,20,0
+tina34,Christopher Smith,joshuamccann@example.net,627-910-9477x7520,505.68,McDonalds,2040,Discover,United States,67190 Edward Port,Christopherbury,Delaware,73648,2025-07-01,14,0
+kimberlyjames,Elizabeth Chapman,ntorres@example.org,+1-213-834-1232x812,480.75,Starbucks,5119,Visa,United States,974 Jesse Squares Suite 713,Kristinshire,Texas,26429,2025-04-11,16,0
+deborahkerr,Andrea Martin,brooke94@example.com,374-264-8877,3885.99,Foreign ATM,6573,Visa,Tuvalu,594 Christopher Spring Apt. 490,South April,New Hampshire,36959,2025-02-13,3,1
+fwalters,Julie Ortiz,elizabeth25@example.com,001-874-268-0715x451,353.46,Starbucks,5315,Mastercard,United States,0385 Garrett Trace Apt. 348,West Samuel,Vermont,64033,2025-01-29,8,0
+jennifercollins,Jason Walker,murraydavid@example.org,448.346.7737x8263,730.98,McDonalds,9317,Mastercard,United States,5840 Barber Villages Suite 278,Reedside,Wisconsin,71729,2025-03-31,12,0
+molly39,Scott Jenkins,julie66@example.net,+1-227-402-8951x7187,305.39,Walmart,9689,Visa,United States,217 Morgan Square Suite 158,Finleyfort,Ohio,05206,2025-05-27,16,0
+crystalmccall,Nicole Hamilton MD,wallaceheather@example.org,8504455623,266.08,Amazon,6947,American Express,United States,19693 Durham Divide,South Dana,New Jersey,33967,2025-06-08,9,0
+rsantana,Angela Landry,danielle64@example.com,836-671-3695x9440,55.76,Shell,2403,Discover,United States,097 Parsons Forks,Jefferyborough,South Carolina,33351,2025-06-10,9,0
+courtneyberger,Ellen Alexander,jessica14@example.com,001-662-732-8588x4247,4922.95,Foreign ATM,3103,Discover,Spain,1236 Davis Locks,West Amandamouth,Mississippi,88689,2025-06-27,2,1
+brenda51,Kaitlyn Harvey,rose31@example.net,446.812.0047x113,140.45,Shell,7932,Mastercard,United States,8692 Pena Village Suite 964,Lake Mitchellmouth,New Hampshire,31448,2025-07-22,17,0
+pollardmichael,Maria Brown,james17@example.org,+1-539-500-5329x31839,606.66,McDonalds,6107,Discover,United States,90422 Lindsey Creek Apt. 205,New Mario,Idaho,35283,2025-01-13,11,0
+vfox,Jerome Cox,hayesjeffrey@example.net,3849700766,356.1,Shell,2982,Mastercard,United States,15921 Joshua Roads Suite 698,Shawnchester,Connecticut,92484,2025-01-28,15,0
+russellbeasley,Ronald Ross,edwardslarry@example.com,(227)711-1161x528,60.58,Amazon,4770,Mastercard,United States,5604 Bell Ports,East Diane,Iowa,14685,2025-03-24,17,0
+danny49,Jeffrey Hoffman,lynchdiane@example.net,302-444-5502x296,1748.48,Foreign ATM,4750,Visa,Saint Vincent and the Grenadines,83667 Moore Inlet,Kimberlyshire,Rhode Island,11636,2025-07-29,1,1
+ericwilliamson,Denise Stanley,alawson@example.com,681.256.1497,4508.72,Unknown Store,4899,American Express,Cyprus,003 Dougherty Trafficway Apt. 445,North Tylerchester,Idaho,17433,2025-04-01,0,1
+vincentwhitaker,Andrea Hensley,grahamsteve@example.org,796-396-6416x05297,179.25,Walmart,8744,Mastercard,United States,36968 Randy Inlet Suite 352,New Cynthiahaven,North Carolina,25916,2025-08-03,19,0
+michael23,David Thompson,kathleenrios@example.org,001-977-699-7995x52717,647.92,Walmart,2588,Discover,United States,058 Lance Mission Apt. 054,Lake Michelleland,South Carolina,78368,2025-05-01,9,0
+ycarpenter,Amanda Stout,marcalvarez@example.org,9719518203,344.63,Starbucks,1887,Visa,United States,5466 Shelton Center,Cameronville,Oklahoma,89417,2025-04-02,19,0
+jennifer92,Kevin Thomas,kyle62@example.net,001-214-786-5281x685,2909.17,Suspicious Site,5073,Mastercard,Georgia,57332 Chris Vista,New Kellihaven,Arizona,87261,2025-03-21,1,1
+carlamoore,Michael Weber,jenniferwilliams@example.com,+1-937-994-7383x47359,433.67,Walmart,4006,American Express,United States,8862 Laurie Dam Suite 075,Lake Meghanville,Maine,11494,2025-06-30,14,0
+shannon82,Anna Lozano,bwilkerson@example.com,2687536153,207.35,Amazon,2604,Visa,United States,522 Justin Village,Hortonberg,Wisconsin,92977,2025-04-22,15,0
+bullockandrew,Chase Bentley,srodriguez@example.org,510-436-9711x7980,670.46,Amazon,4872,Mastercard,United States,0953 Lopez Skyway Apt. 851,South Morganton,South Dakota,51210,2025-08-21,20,0
+julie51,Nicholas Fuller,dennis58@example.com,+1-227-772-2170x4303,393.66,Walmart,1960,Mastercard,United States,687 Johnson Rue Apt. 450,Joshuastad,Nevada,52932,2025-06-26,14,0
+lmorgan,Jonathan Glass MD,acostachristian@example.net,(984)851-1544,11.7,Starbucks,8454,American Express,United States,757 Jessica Knoll,Hillton,California,88474,2025-06-01,12,0
+william20,Lawrence Harrington,martinezjoel@example.net,(456)790-9275x571,560.31,McDonalds,8973,Mastercard,United States,4310 Victor Loaf Apt. 447,New Justin,New York,26738,2025-01-30,20,0
+hayesrachel,Brandon Fleming,elizabeth18@example.net,742-725-8313x2370,244.4,Amazon,9883,Visa,United States,291 Kyle Stravenue Suite 866,East Teresaland,New Hampshire,61558,2025-06-11,17,0
+david89,Vincent Reynolds,guerraapril@example.com,(525)635-8414,55.16,Shell,9238,Mastercard,United States,498 Wayne Extension,East Donna,Washington,79817,2025-03-22,15,0
+bryananthony,Martin Ray,katiebutler@example.net,9783447364,4862.73,Unknown Store,2122,Visa,Portugal,76773 Lawson Island,Jessicastad,Montana,17640,2025-06-30,2,1
+floressteven,David Davis,sonia96@example.org,(959)653-2787,328.98,Shell,1651,Visa,United States,16873 Brandy Causeway Apt. 479,Mitchelltown,Connecticut,56983,2025-02-01,11,0
+jessica65,Anthony Hoffman,angela16@example.net,784.499.1216x558,529.32,Shell,6183,American Express,United States,868 Brandon Dam,Lindahaven,New Jersey,20022,2025-05-24,16,0
+markaustin,William Stevenson,brittney88@example.net,994.670.5516x9409,539.08,Target,5351,Discover,United States,097 Alexandria Stravenue,Hernandezbury,Arizona,75548,2025-08-13,11,0
+leescott,Jason Harris,vsalas@example.net,7284385786,540.64,Target,6180,Visa,United States,585 Bishop Fields Apt. 484,West Kellie,Virginia,27669,2025-06-13,15,0
+wstewart,Taylor Griffith,david86@example.com,(624)604-1574x733,3104.0,Foreign ATM,2200,Mastercard,Burundi,933 Elizabeth Pines,Lake Jesse,Connecticut,54673,2025-03-20,1,1
+xgarcia,Vincent Spence,richarddonovan@example.com,434.254.0193x8026,219.51,Target,5002,American Express,United States,2400 Bradley Coves Suite 478,Smallberg,North Carolina,61845,2025-03-06,9,0
+riverajessica,Michelle Smith,krystal93@example.org,+1-566-285-1612x275,134.62,Shell,5956,Visa,United States,3745 Aguilar Ports Apt. 453,Lake Davidport,Hawaii,53639,2025-06-12,19,0
+hannah45,Colleen Anderson,spencerzhang@example.com,(387)283-3918x78519,246.51,McDonalds,3200,American Express,United States,822 Bond Mills,Lake Jamieshire,New York,12420,2025-08-02,9,0
+dstokes,Jason Elliott,tchambers@example.net,7643039106,4613.99,Foreign ATM,3546,American Express,Mauritius,70462 Katie Stream,Brooksfurt,New Hampshire,49980,2025-03-31,0,1
+desireebailey,Joshua Rice,maryavila@example.com,386.286.3375x243,487.82,McDonalds,4335,American Express,United States,033 Craig Bypass Suite 903,South Scottside,Indiana,99379,2025-07-24,13,0
+taylorvictoria,Thomas Johnston,joel28@example.org,(744)808-9268x70568,395.94,Amazon,7939,American Express,United States,46287 Melissa Hills Apt. 708,Faulknerside,North Dakota,18076,2025-04-03,9,0
+james17,Anna Hardy,brettbennett@example.net,+1-501-539-8373x540,1512.41,Unknown Store,3647,Discover,Saint Vincent and the Grenadines,739 Randy Garden,Kimberlyfurt,New Jersey,70447,2025-06-03,3,1
+jose87,Robert Bowen,robin55@example.com,8936204899,567.48,Shell,2832,Visa,United States,53693 Pierce Spur,Jonathanfort,Washington,84609,2025-06-25,8,0
+yjackson,Charles Payne,sabrinaweaver@example.net,3804100623,441.02,Target,3426,Discover,United States,87509 Hopkins Brook,New Andreatown,Alaska,69892,2025-06-21,17,0
+andre62,Brent Hernandez,christineking@example.com,361-856-7933x410,43.04,Target,1653,American Express,United States,8700 Christopher Vista Suite 591,East Jasonshire,New Mexico,36033,2025-01-12,20,0
+cohenjuan,Mary White,alexis39@example.org,001-761-242-9396x85621,548.83,McDonalds,6794,Discover,United States,3159 Novak Islands,Lake Joshuamouth,New York,30403,2025-03-26,9,0
+rreynolds,Jamie Barton,lauren11@example.com,(662)965-5110,602.09,Walmart,3900,Discover,United States,1212 Cole Point Suite 101,Angelamouth,Missouri,02118,2025-03-11,10,0
+umaxwell,Susan Spence,ginajackson@example.com,647-521-2646x4715,2127.76,Suspicious Site,5065,American Express,Saint Helena,937 Derek Avenue Suite 596,Scottchester,Tennessee,78409,2025-02-02,23,1
+carrie37,Vincent Novak,jessica79@example.org,564-965-1939x82807,632.03,Amazon,1634,Discover,United States,167 Cynthia Garden Suite 266,South Vickifort,Pennsylvania,53035,2025-05-07,14,0
+ystephens,Meredith Burnett,rodriguezjohn@example.net,(529)509-6561x014,167.66,Starbucks,6000,Mastercard,United States,6798 Michael Burg Suite 146,North Marieberg,Minnesota,41381,2025-03-23,13,0
+adrianabailey,Nathan Chavez,evanslisa@example.org,7518238282,28.69,Walmart,6378,American Express,United States,62266 Jo Flat Suite 966,Lake Jasonview,Wisconsin,92744,2025-07-11,14,0
+raylauren,Holly Gonzalez,bakermichelle@example.net,+1-659-369-6915x5792,4884.11,Suspicious Site,9346,Discover,Peru,1341 Nathaniel Divide,Barnesberg,Oregon,50794,2025-04-11,3,1
+sreid,Tara Thompson,tracytaylor@example.com,890.950.7236x887,271.61,Amazon,5279,Mastercard,United States,772 Ariana Underpass Apt. 404,New Keith,Wyoming,60443,2025-05-15,9,0
+hdunn,Debra Daniels,amber07@example.net,361.934.0745,770.4,Target,2776,Discover,United States,39596 Christina Tunnel,Port Jamie,Arkansas,75221,2025-03-25,8,0
+candice25,Eileen Armstrong,taylorkaren@example.com,9424232536,585.55,Target,9379,Visa,United States,667 Cynthia Trafficway Apt. 684,Shawnfort,Massachusetts,76779,2025-01-01,14,0
+simonstephen,Heather Brown,brobinson@example.org,345.945.8929x7500,720.61,Walmart,1727,Discover,United States,27706 Wendy Curve,Erikview,Colorado,86299,2025-03-27,12,0
+watsonrebecca,James Torres,rubendavis@example.org,2372129387,3319.72,Foreign ATM,6967,Discover,Qatar,62713 Davis Valley Apt. 155,Derrickberg,Tennessee,89254,2025-02-03,2,1
+bishopfrank,Daniel Goodman,cjensen@example.org,412-519-6565,4821.06,Suspicious Site,6143,Visa,Falkland Islands (Malvinas),89994 Melanie Shoals,Jamiehaven,Illinois,98522,2025-04-03,0,1
+bowerslaura,James Allen,ricetiffany@example.com,626-596-5827x10910,410.63,McDonalds,6344,Discover,United States,68486 Miles Corner,West Christopher,Colorado,67518,2025-08-07,14,0
+amandamyers,Sandra Becker,collinssamuel@example.org,6314617990,447.99,Walmart,7211,Mastercard,United States,20275 Jackson Crossroad,Jessicaville,Wyoming,04348,2025-03-21,14,0
+enelson,William Burton,xgibson@example.org,292.552.4191x3800,459.59,Starbucks,1006,American Express,United States,5622 Angela Station,Walkerbury,Nebraska,94910,2025-03-17,16,0
+duncandavid,Amy Walker,finleycasey@example.com,545-918-7053x4949,176.04,Shell,6279,Discover,United States,738 Edward Lodge Apt. 385,West Aaronfurt,West Virginia,95818,2025-03-14,17,0
+alyssaallen,Anthony Shea DDS,williamsjesse@example.net,(457)519-1826x19906,359.31,Walmart,8752,Mastercard,United States,5655 Nelson Club Apt. 291,North Frank,New Jersey,41661,2025-04-07,16,0
+tami37,Derek Wilson,lindseytorres@example.net,001-690-635-2135x680,2493.25,Foreign ATM,6491,Visa,Svalbard & Jan Mayen Islands,67883 Steven Unions,North Alexander,Wyoming,29636,2025-01-31,0,1
+owatson,Angela Willis,johnsoncaleb@example.net,921.251.0702x966,541.51,Walmart,4262,Mastercard,United States,625 Rebekah Harbor Suite 720,Lake Kenneth,Nebraska,72680,2025-04-24,20,0
+ramirezderrick,Stephen Fox,mayokimberly@example.com,587.259.8564x2059,1661.75,Suspicious Site,2193,Discover,Ukraine,78593 Craig Shoals Apt. 480,New Meghan,Missouri,47005,2025-08-10,0,1
+gregorywatkins,Melissa Sloan,warnermichael@example.net,001-229-337-8427,710.05,Shell,7291,Discover,United States,93087 Martin Ridges,Port David,Virginia,23761,2025-08-06,11,0
+brian29,Brenda Rodriguez,susan56@example.net,454-752-2675,202.75,McDonalds,1090,Visa,United States,926 Gross Hill,East Jessica,Vermont,75583,2025-04-03,19,0
+whitelucas,Lisa Bowman,zunigadonald@example.net,635-552-1570,182.88,McDonalds,8611,Visa,United States,154 Jennifer Causeway,Kimchester,Hawaii,54767,2025-04-27,16,0
+ybell,John Shields,franciscojones@example.org,705-941-1526x2181,206.87,Amazon,3184,Discover,United States,2962 Craig Ford,South Heidi,Washington,96180,2025-05-09,15,0
+kenneth10,Joshua Henry,wardronald@example.com,+1-997-931-0324x17146,790.44,Shell,8251,Discover,United States,86256 Lopez Cape Suite 774,Port Joseph,Arkansas,20309,2025-06-28,13,0
+millermaurice,Tracy Lawrence,randallloretta@example.com,+1-479-337-4160,362.27,Walmart,8777,Discover,United States,23320 Miller Springs Suite 329,Luisland,Colorado,51369,2025-05-12,19,0
+melissa87,Alexandria Graves,jrodriguez@example.org,001-799-811-9148,603.9,McDonalds,9540,Discover,United States,7997 Gerald Lodge Apt. 996,South Pamelamouth,Vermont,31640,2025-01-12,12,0
+xmccall,Robert Turner,megan13@example.org,775-246-9137x3678,226.93,Amazon,5681,Mastercard,United States,48628 Glenn Wells,Port Brian,Arizona,60328,2025-01-12,19,0
+janet45,Kathy Reid,maldonadojohn@example.com,+1-272-879-8552x414,275.32,Shell,3267,Mastercard,United States,93333 Pearson Passage,Port Kimberlytown,New Mexico,17843,2025-06-03,9,0
+walkercharlene,Michelle Fletcher,rodney65@example.com,637-648-9691x085,312.6,Walmart,4505,Visa,United States,1545 Green Station,Jacobhaven,Wisconsin,31997,2025-08-02,19,0
+rguerrero,Alexander Jimenez,jordan66@example.com,001-409-693-5387x5842,332.0,Shell,7812,Visa,United States,2482 Pena Forges,Jeffreyport,Nebraska,43927,2025-03-30,15,0
+steven17,Mark Carpenter,kennedyjames@example.org,+1-768-446-0223x56972,667.98,Starbucks,1320,Discover,United States,5250 Shannon Fords,New Kathy,New York,12040,2025-01-31,20,0
+zschultz,John Smith,jessicadodson@example.com,001-683-400-3354x21689,14.66,Target,7389,Discover,United States,44789 Hamilton Spur,West Wendy,New York,47588,2025-06-27,12,0
+stacyhull,Darryl Acosta,jasonjohnson@example.net,(215)306-4890,600.54,Shell,4613,Discover,United States,16761 Wells Drives,Lake Gina,Alabama,39968,2025-04-10,20,0
+batesjoseph,Breanna Rivas,huntchristine@example.com,717-839-3483,225.62,Starbucks,7371,American Express,United States,08737 Young Bridge Apt. 197,North Kimberly,California,95339,2025-06-21,8,0
+dawn74,Anthony Li,phelpsmichael@example.net,761-710-0225x57941,582.1,Starbucks,9751,Visa,United States,66746 Marsh Run,North David,Washington,08187,2025-08-21,10,0
+dalepruitt,Mr. Jeffrey Carr,cheryl27@example.com,567-701-4508,477.6,McDonalds,2375,Discover,United States,3756 Mary Point,North Dawnburgh,North Carolina,62011,2025-07-21,8,0
+charlesvasquez,Wayne Williams,andreagray@example.org,377-997-1775,694.81,Walmart,5262,Discover,United States,66088 Margaret Turnpike,Pamelaside,Indiana,86300,2025-06-09,8,0
+michael03,Evelyn Saunders,xmoran@example.net,211.430.5548x851,177.21,Target,7211,American Express,United States,61493 David Walk Suite 373,Danielchester,Arizona,83501,2025-07-18,13,0
+bartonshannon,Tina Taylor,vsmith@example.org,+1-369-878-2922,209.29,Amazon,1317,Visa,United States,669 Joshua Junctions Suite 722,Morrisonhaven,Maryland,92447,2025-05-10,15,0
+jennifer83,Marcus Roberts,samantha22@example.net,+1-651-858-7996,187.14,Amazon,1659,Visa,United States,106 Brian Centers,West Karen,Hawaii,38068,2025-06-11,20,0
+maryvaughn,Paul Johnson,rgarcia@example.net,+1-838-863-8406,167.49,Amazon,3496,Mastercard,United States,004 Christine Tunnel Suite 359,Port Jenny,Illinois,39059,2025-04-17,17,0
+lopezglenn,Jamie Patterson,david94@example.org,372-702-5909x47985,384.11,Amazon,4571,Discover,United States,81826 Davis Forges,Lake Martin,Mississippi,38980,2025-02-21,17,0
+wbarajas,Mrs. Maureen Griffin,susanfleming@example.com,(216)648-4085x8877,615.85,Walmart,2876,Mastercard,United States,8112 Courtney Fords,Port Gina,Connecticut,27446,2025-05-08,17,0
+elucas,Brittany Stevens,benjamin10@example.org,281-893-4667x665,95.4,Amazon,7149,Discover,United States,091 Jaclyn Cliffs,Sarahville,Maine,90400,2025-03-13,12,0
+campbellsara,Rodney Johnson,amandataylor@example.com,+1-342-245-0882,70.04,McDonalds,4978,Visa,United States,968 Kevin Summit,Jasonhaven,Georgia,21597,2025-02-13,18,0
+james29,Sarah Randolph,enewman@example.com,+1-314-513-9755x23149,681.73,Shell,2983,Visa,United States,7594 Ariana Lakes Suite 620,Johnbury,Virginia,97470,2025-06-01,20,0
+mary25,Julie Howard,tony12@example.net,+1-814-528-3411x080,430.87,McDonalds,2129,American Express,United States,488 Valdez Drive,Philipshire,Washington,38642,2025-02-01,13,0
+sanderswayne,Sarah Drake,katherinetaylor@example.org,(599)327-5037,4473.51,Suspicious Site,8102,American Express,Estonia,03856 Hardin Cape Apt. 518,Maryview,Pennsylvania,71850,2025-05-16,1,1
+xvaldez,Stephanie Miller,nicholas38@example.com,(657)579-0827x231,568.77,Starbucks,9548,American Express,United States,25913 Shepherd Stravenue,South Emmafort,Indiana,77937,2025-02-08,10,0
+cjohnson,Kevin Taylor,macdonalddylan@example.org,928-969-9041x379,648.48,Shell,8921,Discover,United States,69292 Jackson Spur,Sandrashire,California,30623,2025-03-31,20,0
+danielharris,Kathy Barnes,catherinethompson@example.net,+1-808-781-1729x806,662.33,Shell,6280,Mastercard,United States,863 Clarke Light,Briannashire,Connecticut,56270,2025-02-01,12,0
+fcannon,Shawn Ortiz,adammanning@example.org,001-781-380-6356,2476.25,Suspicious Site,8613,Discover,Cape Verde,944 Cunningham Ridge Suite 636,Whiteside,Oklahoma,63908,2025-03-02,2,1
+becky62,Mary Adkins,klogan@example.org,286.358.9026,32.67,Target,8988,Mastercard,United States,9611 Walker Common,Lake Patrickfurt,South Carolina,86507,2025-05-04,10,0
+bautistalori,Jessica Harris,james98@example.net,001-739-820-5302x146,640.29,Target,5526,Visa,United States,380 Samantha Plaza Suite 895,Sylviaview,Iowa,79978,2025-08-17,12,0
+kspears,Christopher Hunter,gordonmatthew@example.org,248.994.7697x35779,758.97,Amazon,7658,Discover,United States,1633 Gutierrez Knoll,Lake Marilynbury,Maine,12691,2025-04-05,11,0
+charles27,Daniel Berry,staceyvega@example.org,333.334.3333x9521,608.95,McDonalds,9041,Discover,United States,080 Watson Island Suite 947,Port Sabrina,Louisiana,52651,2025-02-22,15,0
+brianlloyd,Joshua Shaw,xdalton@example.org,718.675.0036x915,1825.69,Unknown Store,4986,American Express,Colombia,47955 Victor Fords Suite 556,Shannonshire,Florida,75984,2025-06-12,23,1
+lelinda,Selena Gonzalez,thomassmith@example.com,428.285.7448x9061,301.53,Shell,6632,Discover,United States,7175 Ward Points,Mauricechester,Delaware,46519,2025-07-25,16,0
+barbarasantos,Veronica Mitchell,emily77@example.org,(494)772-2569x9611,271.33,McDonalds,5438,American Express,United States,5449 Nelson Mills,Juliehaven,New Hampshire,54763,2025-02-09,15,0
+martinezjimmy,Patrick Brady,garrettgarcia@example.org,680.506.8114x9216,192.13,McDonalds,6169,Visa,United States,472 Alison Extension,North Elizabethmouth,New Mexico,61736,2025-08-20,11,0
+amy28,Kyle Welch,omills@example.net,257-283-1745x6424,761.19,McDonalds,4138,Mastercard,United States,4780 Arroyo Neck,Albertchester,Maine,78751,2025-02-24,10,0
+kelleyjacob,Jessica Wright,oclayton@example.com,863-589-4484,228.43,Shell,9595,American Express,United States,24179 Nelson Road,Lopeztown,Georgia,07006,2025-08-18,20,0
+lopezcurtis,Mike Acosta,christophersmith@example.org,964-475-7051x20461,4414.2,Suspicious Site,6912,Mastercard,Congo,0136 Wright Bypass Apt. 718,South Paul,Maryland,42845,2025-02-07,2,1
+garnerandrea,John Evans,paige31@example.org,+1-965-402-4916x3009,21.18,Shell,5494,Visa,United States,32719 Galvan Trace Apt. 052,East Tonymouth,Oklahoma,84996,2025-06-29,10,0
+bquinn,Heather Taylor,washingtonsamuel@example.com,+1-673-492-8557,3436.76,Foreign ATM,9042,Visa,Bangladesh,4485 Smith Route,Grosstown,South Carolina,48221,2025-07-03,2,1
+malikbrown,Sabrina Lee,jcannon@example.net,356-951-1810x2203,3509.22,Suspicious Site,8216,American Express,Congo,96789 Williams Forges,North Sarahborough,Tennessee,64910,2025-08-09,23,1
+mcdonalddanielle,Patrick Zamora,laura09@example.com,501.441.3811x38633,772.74,Target,2869,Visa,United States,195 Park Meadow Apt. 228,Wagnerburgh,Ohio,79133,2025-04-15,15,0
+rachel85,Jennifer Schultz,charlene98@example.org,(484)657-7600x4908,398.48,Shell,1878,Mastercard,United States,3350 Ellison Pass,North Benjamin,Minnesota,20962,2025-02-02,18,0
+pamela33,Eric Duncan,jessicacummings@example.com,(379)219-4096,650.8,Target,5066,Visa,United States,6613 Cynthia Roads Suite 048,West Amberberg,Massachusetts,66351,2025-06-15,9,0
+brentdennis,Jeremy Larson,walkerkeith@example.com,(625)317-9086,613.91,Shell,4697,Discover,United States,622 Hansen Oval Suite 938,East Charles,Wyoming,56870,2025-03-18,17,0
+rodriguezrobert,Connor Cooper,carrillogary@example.com,+1-279-527-0335x211,727.72,Target,8025,American Express,United States,0514 Ruiz Isle,Lake Amanda,Indiana,72121,2025-05-05,17,0
+ana92,Mary Bennett,scottbrian@example.org,001-694-807-0164x510,500.61,Shell,2625,Mastercard,United States,8157 Jacob Parkway,Castrotown,Arizona,32927,2025-08-07,19,0
+matthew62,Michael Kelly,joel84@example.org,+1-546-808-4325x6216,219.07,Amazon,4929,Mastercard,United States,264 Cole Curve,Lake Dillon,Ohio,90160,2025-07-09,10,0
+kylethornton,Brandy Forbes,dianacunningham@example.org,618-481-2520x56647,69.3,Amazon,8381,Discover,United States,22099 Obrien Ridge,New Jesse,Utah,03919,2025-03-27,14,0
+manderson,Matthew White,ihenry@example.org,530.360.4633,35.79,Target,5632,Discover,United States,9757 Ronald Trail,New Jillfurt,Washington,41513,2025-04-04,19,0
+meyershannon,Amanda Forbes,cterrell@example.net,(280)434-7644x7264,3905.85,Suspicious Site,4241,Discover,Kyrgyz Republic,81298 Phillip Islands Suite 027,South Christopher,Massachusetts,91165,2025-06-03,0,1
+jennifermartinez,Jerry Cox,gacosta@example.net,(468)460-2592,3405.97,Foreign ATM,5352,Mastercard,Christmas Island,4474 David Curve,North Cindy,Kentucky,02101,2025-04-19,2,1
+astephens,Katherine Robinson,cchavez@example.org,+1-290-738-4983x022,1708.73,Suspicious Site,5728,Discover,Argentina,99451 Daniel Fall,Lake Justin,Texas,91139,2025-06-15,0,1
+tammycurry,Andrew Mack,miguel61@example.com,+1-814-572-1458,3140.44,Suspicious Site,5460,Discover,Qatar,019 Timothy Spurs,Ronaldmouth,Kentucky,69365,2025-05-17,23,1
+sara99,Nicholas Jimenez PhD,jeanettekrause@example.org,707-713-9660,73.55,Amazon,6280,American Express,United States,34414 Hunter Islands,North Ginamouth,Montana,95449,2025-05-15,14,0
+collierjames,Tammy Mendoza,probles@example.org,227.585.7608x4958,1819.64,Foreign ATM,1339,American Express,Morocco,1240 Terrell Road Apt. 996,New Darryl,Wisconsin,40908,2025-06-17,0,1
+jennifer46,Shawn Watson,javier42@example.org,(903)617-8078x235,41.78,Walmart,9502,Discover,United States,18230 Hughes Way Apt. 040,West Steventon,Connecticut,68734,2025-07-01,15,0
+andrew43,Corey Hill,kendra14@example.org,(741)709-8813,153.38,Shell,9056,Visa,United States,49321 Austin Junction Suite 020,Bergerton,Connecticut,50780,2025-01-13,14,0
+tmyers,Leslie Huff,tjensen@example.com,981.679.2171,284.89,Target,2713,Mastercard,United States,3329 Durham Lock Apt. 557,Johnsonfort,Delaware,46565,2025-04-24,13,0
+justinbailey,Katie Sullivan,nguyendebra@example.com,+1-476-996-3938,335.2,Starbucks,7561,Visa,United States,53966 Stephens Freeway Apt. 197,New Caitlinmouth,Oklahoma,13300,2025-07-14,12,0
+kylesullivan,Melissa Carlson,pmurphy@example.net,6138290227,79.57,Target,2899,Discover,United States,35494 Robbins Key Apt. 909,Abbottport,Arkansas,48895,2025-08-02,13,0
+smithann,Ashley Campbell,youngjacqueline@example.com,+1-856-766-6832x7238,661.69,Amazon,9889,Discover,United States,42201 Douglas Oval Suite 212,Daltonchester,South Carolina,24067,2025-04-18,18,0
+carnold,Darius Coleman,lanemelanie@example.org,001-384-968-9500x975,52.82,Shell,9167,Discover,United States,84781 John Roads,Lake Cynthiashire,Maryland,80853,2025-01-13,13,0
+amanda07,Taylor Berry,robert44@example.org,2946940792,2212.45,Foreign ATM,5719,Discover,Sudan,7128 Melissa Harbors,Davidview,Louisiana,34180,2025-01-04,2,1
+munozrenee,Mary Wood,josehaynes@example.com,(880)851-2927,105.93,McDonalds,4920,Mastercard,United States,723 Brown Greens,North Garyfurt,New Mexico,40001,2025-04-23,17,0
+noahthornton,Charles Berg,robertslaura@example.com,+1-658-801-8569x45441,445.16,Shell,2527,Mastercard,United States,393 Byrd Falls Suite 800,North Roberthaven,Connecticut,90350,2025-04-16,14,0
+jessicaking,Manuel Brown,stephanielittle@example.net,619-626-9212,3115.07,Unknown Store,9165,American Express,Lao People's Democratic Republic,746 Scott Tunnel,West Kimberlyfurt,Missouri,44102,2025-08-25,2,1
+stephanie42,John Mcfarland,fwhite@example.org,(286)339-1741,567.28,Starbucks,8736,Mastercard,United States,470 Hernandez Route,North Elizabethview,Georgia,92258,2025-03-20,15,0
+gandrews,Patricia Mendoza,xanthony@example.org,+1-730-667-1985,445.5,Starbucks,9327,Mastercard,United States,15851 Hodges Highway Apt. 280,Guerreroport,Vermont,51632,2025-08-01,11,0
+tom73,Corey Cortez,tracybrown@example.net,+1-547-987-0050x5061,2466.87,Suspicious Site,9318,American Express,Wallis and Futuna,931 Jill Overpass,South Rebeccaton,Kansas,92421,2025-06-03,3,1
+jacksonbrendan,Riley Bryant,marybrown@example.org,879-793-1365,2489.94,Suspicious Site,9022,Mastercard,British Indian Ocean Territory (Chagos Archipelago),3092 Brown Harbor,Port Robert,Vermont,48988,2025-05-12,0,1
+lsanchez,Brett Boone,bstrickland@example.com,400-521-9467,435.48,Target,9903,Discover,United States,487 Allen Extensions,New Hectorfort,South Carolina,12038,2025-05-29,13,0
+michael08,Bruce Moreno,montgomerymichelle@example.net,237.734.0312x77220,746.95,Walmart,4912,Discover,United States,64597 Dan Center Apt. 207,North Pattymouth,Pennsylvania,76491,2025-03-19,19,0
+julievillanueva,Brian Perez,joankane@example.com,917.497.0623,686.25,Starbucks,6213,Discover,United States,2735 Harris Crossroad Apt. 904,North Melissa,New Jersey,55318,2025-02-10,8,0
+jeffrey49,Robert Cisneros,belindatran@example.org,268-873-9774,315.0,McDonalds,3492,Discover,United States,56939 Robin Avenue,Bairdton,New Mexico,96639,2025-07-02,20,0
+simmonsphillip,Melissa Garcia,jallen@example.org,001-963-225-4310x742,1941.86,Foreign ATM,2644,Discover,Korea,62570 Paul Spurs Suite 804,Mullinsside,Oregon,27652,2025-07-06,3,1
+olivermatthew,Kayla Kent,pamela16@example.com,590.355.2818x325,3340.83,Suspicious Site,3361,Discover,Pakistan,933 Gomez Grove Suite 401,Michaelfort,North Carolina,69534,2025-07-16,1,1
+rmckinney,Stephanie Hayes,lauren13@example.com,316-424-1124,69.11,Target,7512,Visa,United States,38046 Thomas Manor Suite 043,North Monicabury,North Dakota,84999,2025-03-21,13,0
+diana57,Melissa Wilkinson,kellis@example.org,424-637-5402x5472,683.35,Shell,6188,Discover,United States,22310 Andrews Mill,Mikeborough,Oklahoma,93186,2025-01-09,14,0
+tiffany25,William Ferguson,knapprichard@example.com,001-927-752-0885x47492,38.36,Amazon,5708,Mastercard,United States,702 Kyle Locks,South Michael,Massachusetts,07714,2025-05-25,11,0
+brandywalker,Diana Johnson,frhodes@example.net,(837)759-9805x6265,3018.9,Unknown Store,8269,Mastercard,American Samoa,5478 Jason Mills Suite 742,Chandlerchester,Florida,77463,2025-05-22,1,1
+jaredwells,Victoria Jones,adavis@example.net,962-287-9232x648,723.71,Amazon,1919,American Express,United States,478 Walker Turnpike Apt. 244,Martinezport,Nebraska,24011,2025-04-27,13,0
+anthonyhubbard,Wesley George MD,qcunningham@example.net,+1-471-758-9042x90257,306.12,Walmart,9702,Discover,United States,45650 Carter Route,New Jamesburgh,Wisconsin,12888,2025-05-22,11,0
+amybrennan,Melinda Turner,cody95@example.org,3285457652,548.62,Walmart,3868,Visa,United States,338 Robert Club,Port Davidtown,New Mexico,46141,2025-03-15,10,0
+don79,Tracy Jackson,anthony13@example.org,001-923-842-3216x110,697.96,Shell,4945,Discover,United States,10890 Wilson Glen,North Kevintown,Wisconsin,13149,2025-07-05,18,0
+brianagonzalez,Alyssa Thomas,stacy55@example.org,293.389.1190x83342,123.06,Starbucks,5161,Discover,United States,759 Scott Coves,Port Michael,Missouri,56087,2025-02-20,18,0
+rickjuarez,John Stone,tfarmer@example.com,+1-601-957-1647,536.8,Starbucks,9955,Mastercard,United States,646 Melissa Ville,Crosbystad,Idaho,02176,2025-08-25,12,0
+zpowers,Matthew Miller,ralphneal@example.org,001-621-653-5396x1367,3046.05,Suspicious Site,5901,Discover,Saudi Arabia,7967 Hernandez Motorway Apt. 147,Hallberg,Alaska,13556,2025-06-24,0,1
+jimenezanthony,Larry Murphy,christy11@example.net,001-287-273-4778x48588,370.9,Target,7302,Discover,United States,67567 Johnson Fall Suite 276,West Jennifer,New York,14837,2025-05-15,11,0
+rkeller,Julie Hart,williammyers@example.com,001-269-454-5009,2330.22,Foreign ATM,5847,American Express,Taiwan,9056 Ronnie Knolls Suite 503,East Deborah,Pennsylvania,11634,2025-08-04,3,1
+meltondanny,Joshua Johnson,abradley@example.com,3799056965,4922.81,Foreign ATM,5497,Visa,Bolivia,7852 Cox Mews,South Cynthia,California,70733,2025-02-20,23,1
+brandon96,Lori Rubio,vargasjoshua@example.net,876.635.1484x68536,693.4,McDonalds,9138,American Express,United States,820 Barbara Forest Suite 489,Michaelton,North Dakota,26800,2025-03-28,8,0
+johnfrancis,Sarah Jenkins,waltersmeghan@example.com,924-993-6312x3034,489.58,Target,4115,American Express,United States,0324 Anthony Turnpike Suite 820,Caseyton,Colorado,41645,2025-05-23,11,0
+lesterrichard,Matthew Davis,joelduncan@example.net,389-784-7139,506.32,McDonalds,1645,American Express,United States,636 Drew Extensions Apt. 476,Michelleton,New York,70423,2025-03-30,18,0
+stewartrodney,Tracey Suarez,michaelbaldwin@example.com,7903034864,36.36,Target,3153,Visa,United States,6064 Davis View,West Jason,Hawaii,58021,2025-05-30,19,0
+rmccormick,Samantha Shepard,vmclaughlin@example.net,(412)948-1569x85700,268.11,Starbucks,4289,Mastercard,United States,63459 Daniel Gateway,Port Brooke,Nebraska,42365,2025-04-18,10,0
+jorgemcdaniel,Rebecca Gonzalez,zrichardson@example.com,001-530-608-9317,702.4,Target,9221,American Express,United States,69694 Christopher Land,New David,Virginia,69423,2025-04-14,16,0
+fwilcox,Micheal Lee,keith76@example.org,(939)534-3626x20443,213.01,Starbucks,5835,American Express,United States,710 Anderson Islands Suite 366,Charlesside,Arkansas,07331,2025-03-20,20,0
+thomasgomez,Megan Pham,smithwilliam@example.com,965-428-0924x2875,3139.16,Unknown Store,4696,Discover,Benin,862 Wilson Cape Apt. 745,Campbellview,South Carolina,35072,2025-05-03,2,1
+ustafford,Katherine Dodson,jbrown@example.org,920.274.2761,298.96,Starbucks,5332,Visa,United States,8777 Meghan Way Apt. 151,Port Justin,Hawaii,98796,2025-05-01,8,0
+anna93,Valerie Fox,robertjones@example.com,+1-915-904-1659x15201,301.18,McDonalds,5295,Discover,United States,490 Booker Shoal Suite 592,Port Brandon,Tennessee,37588,2025-03-18,18,0
+manningamy,Anna Scott,tammyglenn@example.org,9328664214,95.59,Walmart,1410,American Express,United States,925 Marilyn Passage Apt. 776,Adamschester,Colorado,99655,2025-04-11,15,0
+christina66,Jose Mcpherson,deborahreeves@example.com,881.647.6174x22438,184.88,Amazon,8606,American Express,United States,108 William Loop,South Donnashire,Kentucky,47091,2025-03-02,18,0
+mackallen,Julie Hartman,awilliams@example.net,659-377-9452x3219,102.17,Amazon,5986,Discover,United States,006 Alexander Shoal Suite 769,Turnerstad,Vermont,88817,2025-08-17,8,0
+fballard,Adrian Rodriguez,hortonjacob@example.org,972.436.8314,1840.17,Foreign ATM,7367,Discover,Lebanon,12277 Smith Mission Apt. 349,Williamstown,Connecticut,83130,2025-07-20,2,1
+fpetty,Linda Spencer,benjamin67@example.net,001-797-330-8069,539.68,McDonalds,9850,Discover,United States,671 Dean Rue Suite 760,West Jessica,New Mexico,45569,2025-04-14,19,0
+brianacohen,Sarah Espinoza,sanderson@example.net,001-466-557-2934x172,596.39,Walmart,2622,Discover,United States,716 Torres Fords,North Michaelview,Minnesota,89227,2025-02-07,14,0
+romanmatthew,Darrell Hoffman,vscott@example.com,001-308-242-8910x77119,332.41,Target,7070,Mastercard,United States,13524 Gill Parks,East Deborahmouth,Florida,16620,2025-07-21,8,0
+xmontes,Danielle Lamb,justin21@example.com,(965)732-8632x666,361.31,Walmart,2627,American Express,United States,2081 Matthew Locks,South Bryan,Wisconsin,05362,2025-06-06,13,0
+rachelbrown,Michelle Guerrero,robert84@example.net,001-955-704-8926x7389,722.34,McDonalds,1992,Discover,United States,41085 Hardy Streets Apt. 884,North William,Maryland,68833,2025-03-22,13,0
+andrewzamora,Deanna Collier,jessica81@example.net,6542851017,159.95,Amazon,2501,Mastercard,United States,3998 Michael Haven Apt. 683,West Zacharyborough,Wyoming,47853,2025-04-18,15,0
+jenniferpoole,Antonio Beasley,elewis@example.com,+1-486-498-8649x76776,777.16,Amazon,6464,Mastercard,United States,7288 Heather Motorway,Johnsonburgh,Oklahoma,48910,2025-08-07,20,0
+guzmanricky,Kenneth Williams,davidtorres@example.com,947-202-2960x4432,631.71,Walmart,4394,Mastercard,United States,510 Olson Inlet,Mcculloughfurt,New Mexico,94877,2025-07-17,9,0
+kathleenwagner,Jerry Cole,christopher99@example.com,(336)358-0741x2094,269.56,Walmart,1046,American Express,United States,890 Karen Parkway,North Dominiqueside,Idaho,02987,2025-03-07,20,0
+johnthornton,Jill Roman,richard07@example.org,662-460-8564x11182,790.15,Shell,3858,Visa,United States,1246 Brian Islands,North Jennifer,Maryland,51611,2025-01-24,12,0
+robertnguyen,Ronald Martinez,johnharper@example.org,288.861.4057x8617,1961.31,Suspicious Site,6304,Visa,North Macedonia,48913 Kevin Lodge,Millerhaven,Indiana,19161,2025-03-30,2,1
+kimberlymedina,Thomas Hayes,hesssusan@example.net,620-207-4946x5398,219.64,Walmart,7897,Visa,United States,891 Davis Square,Port Donaldside,Louisiana,57119,2025-02-19,19,0
+nicole54,Michelle Nelson,matthew79@example.com,9208970026,3166.86,Suspicious Site,2786,Discover,Mauritania,180 Chambers Knoll,Careystad,Missouri,23725,2025-07-18,0,1
+martinezmitchell,Adam Paul,erin53@example.org,+1-543-837-5047x930,185.02,Shell,9543,American Express,United States,9872 Donna Port,North Brianna,West Virginia,09027,2025-01-31,8,0
+nicoledaniel,Ryan Johnson,erin70@example.com,+1-505-266-4187x7580,518.24,Amazon,8847,Discover,United States,8750 Lee Common Apt. 361,East Frank,Maryland,08738,2025-05-29,8,0
+johnsonryan,Robert Mcconnell,john73@example.com,9583319971,552.02,Starbucks,8267,Visa,United States,06512 Samantha Mills,West Cherylchester,California,13847,2025-06-10,19,0
+phillipspatrick,Paul Hall,chavezsteven@example.com,+1-291-350-7859x311,2627.39,Unknown Store,3067,American Express,Nauru,284 Fisher Stream,Lopezberg,Arizona,08429,2025-01-31,1,1
+ppalmer,Emily Mcclure,dylanparker@example.com,550-589-2038x8065,510.13,Shell,6327,Discover,United States,53779 Christian Port,Christinachester,Michigan,21771,2025-01-25,19,0
+crawfordsamantha,Melissa Owens,johnnavarro@example.com,001-463-662-0501x5081,429.14,Starbucks,8048,Visa,United States,95003 Justin Forges Suite 258,East James,Idaho,34814,2025-08-04,16,0
+deckerderrick,Stacey Morgan,kevinallen@example.com,+1-728-896-1122x33865,4484.77,Foreign ATM,4522,Discover,North Macedonia,99384 Mark Center,Moniquehaven,Pennsylvania,64593,2025-02-19,0,1
+muellerkrystal,Carol Hughes,victor72@example.com,001-558-577-7496x903,711.59,Starbucks,8430,Discover,United States,63466 Selena Landing Suite 812,West Seanstad,Iowa,77042,2025-01-10,13,0
+ronald76,Robert Stewart,cjohnson@example.org,315-314-8881x431,586.39,Target,6120,American Express,United States,83535 Turner Via Suite 392,Alanport,Maine,45934,2025-07-05,14,0
+lbautista,Alexandra Valdez,michelleperez@example.net,001-837-838-9877x5153,763.34,McDonalds,2099,Visa,United States,7805 Barbara Crossroad,Sherrytown,New York,86857,2025-07-17,15,0
+jeremiah66,Melissa Evans,bradleyantonio@example.org,(859)399-9663,1826.31,Unknown Store,3131,Visa,Martinique,71597 Davis Cove Apt. 097,East Jamesfurt,Maine,27487,2025-02-25,3,1
+gibsonmiguel,Gabriel Browning,hmoore@example.org,+1-867-916-3234,765.73,Shell,3002,Discover,United States,949 Wayne Spur,Hilltown,Georgia,58923,2025-01-16,13,0
+pjacobs,Susan Suarez,cford@example.net,547-454-6926,700.15,Starbucks,1842,American Express,United States,6291 Hale Cape Apt. 248,Elizabethland,Vermont,95729,2025-06-21,19,0
+reginajenkins,Barbara Wood,gordonkimberly@example.com,824.538.0701x765,256.83,Amazon,9313,Mastercard,United States,04125 Washington Cliff Apt. 837,South Lori,Hawaii,22860,2025-07-18,17,0
+thompsondavid,Caroline Powers,byrderic@example.com,(830)683-7081,528.82,Walmart,6736,American Express,United States,90063 Nicholas Garden Apt. 106,North Matthewborough,Utah,88181,2025-01-15,9,0
+roblesmaria,Christopher Perry,ochoamarcus@example.net,393.786.6133,4169.12,Foreign ATM,8030,Visa,Gibraltar,65063 Robinson Shoals,Debrastad,Arizona,09326,2025-07-29,2,1
+mturner,Dr. Micheal Moody DVM,johnathandavis@example.com,+1-862-552-5715x0997,743.98,McDonalds,1474,Mastercard,United States,09143 Todd River,North Devinfort,Maine,26979,2025-02-05,12,0
+dawnyoung,Virginia Wallace,dennis50@example.net,(740)435-5338x03396,565.13,Target,6751,Visa,United States,017 Stephanie Center Apt. 321,New Ana,Indiana,31474,2025-05-01,13,0
+thardy,Craig Coleman,kevinray@example.net,947.815.6627,697.19,Shell,7566,Visa,United States,70661 Larson Drives Apt. 467,Shawnfurt,Oklahoma,79933,2025-04-24,18,0
+derrick73,Colton Smith,travis66@example.net,(567)849-1601x692,595.37,Amazon,9691,Mastercard,United States,587 Horton Run Suite 633,Johnsonstad,South Dakota,93111,2025-06-10,9,0
+josegibson,Dawn Guzman,alexanderwise@example.net,001-866-691-8362x644,341.67,Target,7062,American Express,United States,119 Olsen Grove Apt. 640,Port Travis,Connecticut,09655,2025-07-03,10,0
+pwarren,Jeffrey Thompson,janegonzalez@example.org,317.493.2302x34679,623.7,Shell,2391,Visa,United States,1614 Matthew Prairie,South Todd,Wisconsin,13714,2025-01-03,17,0
+karen09,Amanda Clark,bennettabigail@example.com,275.796.5555x3566,134.35,Shell,2336,American Express,United States,07620 Misty Harbors Apt. 579,Robertsonborough,Alabama,84134,2025-08-15,8,0
+allen50,Nancy Gregory,catherineross@example.net,456-271-6493,532.93,Starbucks,8242,Discover,United States,1487 Peggy Crescent,Batesbury,Kansas,28241,2025-02-10,17,0
+garciavictoria,Timothy Nguyen,omiranda@example.net,771-828-7153x991,180.3,Shell,6655,Discover,United States,863 Jonathon Highway Apt. 115,Lake Sheri,Oregon,48701,2025-01-31,9,0
+stephanie90,Kevin Lee,uwhitney@example.com,+1-528-999-3160x87524,2491.36,Foreign ATM,8972,American Express,Pitcairn Islands,94209 Parker Spurs Apt. 497,South Kelly,Missouri,08209,2025-08-21,0,1
+eric33,Amy Grimes,melissaluna@example.com,+1-620-586-5675x66184,2271.81,Foreign ATM,1125,Mastercard,Reunion,25904 Pena Ports Apt. 774,East Jeffery,West Virginia,26145,2025-06-24,1,1
+coxmelissa,Richard Garrison,bclements@example.net,(701)857-2018,756.81,Walmart,5186,American Express,United States,630 John Overpass,Haileyburgh,Tennessee,98175,2025-03-30,20,0
+stricklandmichelle,Denise Delgado,alexander11@example.org,983.809.9974x1926,104.79,Starbucks,8055,Mastercard,United States,215 Jennifer Wall Apt. 606,Brownshire,Ohio,94053,2025-07-14,19,0
+molinajared,Autumn Atkins,adamwest@example.com,202-393-2184,310.36,McDonalds,9196,American Express,United States,458 Rodney Shoals,East Kevinhaven,Maine,86898,2025-05-07,11,0
+barbaraneal,Victoria Bell,haileybates@example.org,503.724.3298,2889.75,Foreign ATM,8147,Visa,Fiji,961 Green Run,South Stephen,Kentucky,89174,2025-04-11,1,1
+amandajones,Whitney Terry,jenniferelliott@example.net,392.862.5660x93141,737.72,Target,8033,Discover,United States,1554 Misty Fork,Alejandrofurt,Iowa,50129,2025-08-14,17,0
+thompsonjessica,Roberto Burns,jackie48@example.com,+1-910-425-6258x896,238.72,Starbucks,6321,Mastercard,United States,82226 Brown Stream Suite 396,Whitestad,New Jersey,66329,2025-03-09,8,0
+tmeyer,Robin Torres,mezarichard@example.com,611-931-2901,373.48,McDonalds,2443,Discover,United States,8277 Richard Ridges,Port Julie,Virginia,56203,2025-06-16,13,0
+john89,Jerry Jackson,gregoryrichardson@example.org,650.967.6251x53814,2351.61,Foreign ATM,9584,Visa,French Polynesia,09634 Savannah River Suite 050,Murphystad,Connecticut,01176,2025-03-24,23,1
+richardsmith,Craig Rice,robertgentry@example.org,(443)676-5456,697.71,McDonalds,4630,American Express,United States,7225 Smith Ways,North Jake,Arizona,18022,2025-04-04,13,0
+rachel23,Tina Bird,fisherandrea@example.net,001-725-268-6211x022,70.34,McDonalds,9693,Mastercard,United States,56906 Roberts Oval,Port Royberg,Washington,67510,2025-02-14,9,0
+katie43,Jessica Wells,hayneswayne@example.org,592.431.2604,287.37,McDonalds,4871,Visa,United States,93106 Warren Squares Apt. 356,Brownchester,Tennessee,07271,2025-03-14,10,0
+michael56,Steven White,williamsjulie@example.org,374-291-6247x5541,212.21,Walmart,3504,Visa,United States,5598 Allen Harbor,New Patrick,Connecticut,17603,2025-05-30,17,0
+williamstanya,Ruth Lee,eschaefer@example.net,+1-654-773-8202x368,761.52,McDonalds,8601,Discover,United States,1617 Mills Parkway Apt. 294,West Brandon,Oregon,08469,2025-07-08,15,0
+joysanders,Sheila Mata,samuelhicks@example.net,001-966-694-3202x93908,517.96,Shell,6179,Mastercard,United States,44812 Brandon Freeway Suite 024,West Morgan,Arkansas,84703,2025-08-21,13,0
+amandasmith,Larry Wood,pottsnicole@example.com,001-226-394-5005x3424,63.95,Starbucks,5961,American Express,United States,498 Lisa Forges Suite 439,Moorebury,Washington,95696,2025-04-13,18,0
+racheldavis,Cody Huffman,ashleyharding@example.org,+1-540-942-2693x1216,54.38,Shell,6085,Discover,United States,82091 Cruz Creek Apt. 023,West Douglastown,Alabama,14439,2025-05-09,9,0
+melissa13,Peter Stafford,kylemendoza@example.org,6843810018,39.71,Target,2257,Visa,United States,03036 Hernandez Shoal Suite 361,Jacksonville,Iowa,13835,2025-08-15,12,0
+michael95,Thomas Gillespie,munozgregory@example.net,392-262-4945x14754,479.32,Starbucks,1672,Discover,United States,252 Griffin Underpass,Briggsville,Oregon,56528,2025-08-16,15,0
+duane52,James Flores,aolson@example.net,+1-552-836-6878x8788,524.95,Target,8792,Mastercard,United States,689 Jacqueline Freeway,Aarontown,Mississippi,73688,2025-04-23,17,0
+samanthabrown,Samuel Delacruz,kenneththomas@example.net,(333)930-2126x06501,3076.83,Suspicious Site,9266,Mastercard,Taiwan,25213 Alexander Village,Hernandezburgh,New Mexico,97960,2025-02-03,1,1
+theodore57,Melissa Mitchell,brianday@example.net,001-828-420-6678x49843,2367.1,Suspicious Site,9586,Mastercard,Faroe Islands,623 Montgomery Forges,Whiteside,Rhode Island,10620,2025-07-13,23,1
+pwoods,Samantha Martin,deborah34@example.org,315-395-0342,304.55,Target,7697,American Express,United States,043 Danielle Bypass,West Christopher,Oregon,74530,2025-01-11,14,0
+uwilliams,Eric Hooper,susan83@example.com,001-965-221-5681x82096,51.37,McDonalds,6482,Visa,United States,27113 Lindsey Shoal Apt. 288,Sethberg,Michigan,38622,2025-03-27,18,0
+twilliams,Jasmine Clark,rubioashley@example.com,702-448-1717,84.66,McDonalds,5655,American Express,United States,14955 Charles Station Suite 474,Santosberg,Delaware,75046,2025-04-26,14,0
+michele66,Sylvia Anderson,william95@example.com,268-474-0903,699.89,Target,3317,American Express,United States,6296 Jeffrey Well,Caldwellstad,New Jersey,61906,2025-06-02,9,0
+lrodriguez,Sylvia Nielsen,vgonzalez@example.org,559-773-7147x08272,774.48,McDonalds,7421,Mastercard,United States,605 Irwin Forest,East Mirandachester,Louisiana,33540,2025-05-31,18,0
+thomasjoshua,Shane Hayes,qwarren@example.com,(801)965-4235,569.98,Amazon,7171,American Express,United States,265 Morrow Points Apt. 199,West Elizabeth,Washington,97866,2025-07-15,12,0
+alexis72,Mr. Ricky Craig III,mcneilsherry@example.org,+1-779-510-3368x2963,539.39,McDonalds,9624,Visa,United States,905 Smith Inlet,Lake Victormouth,Nebraska,54291,2025-03-25,18,0
+wmills,Timothy Ellis,gregory92@example.net,(964)364-9111x10961,411.71,Amazon,6060,Mastercard,United States,904 Lewis Trail Suite 861,Port Terrence,Delaware,46456,2025-08-18,13,0
+pgutierrez,Natalie Smith,kimberly84@example.com,+1-744-763-0600x02589,279.97,Starbucks,4711,Mastercard,United States,638 Lee Row,Pooleshire,Nevada,17392,2025-08-11,11,0
+lmadden,Evan Moore,coryowen@example.net,396-248-2531,70.96,Amazon,9843,Visa,United States,92098 Ashley Burg Apt. 752,Lake Rachael,Maryland,25906,2025-05-07,16,0
+jessicaroman,David Williams,donovancourtney@example.net,001-611-479-1124,702.35,Shell,7172,Mastercard,United States,75361 Pope Loop,South Susanland,Indiana,90591,2025-04-10,10,0
+cynthia72,Adam White,wilsonmatthew@example.com,299.480.2841x3908,152.87,McDonalds,3712,Discover,United States,1305 Jeffrey Stream,West Joshua,Illinois,12555,2025-03-24,20,0
+stuart76,Jennifer Lee,jamesmathis@example.net,661-799-4237x676,2938.01,Foreign ATM,8277,American Express,Nigeria,663 Brooks Roads,South Garyton,North Carolina,33670,2025-05-20,2,1
+cassandra85,Brian Lamb,wgibbs@example.org,235-752-5105,194.86,Walmart,8684,Mastercard,United States,9538 Paul Rapids,New Jeff,Oklahoma,36945,2025-06-19,12,0
+berrydebbie,Jessica Li,jameslang@example.com,8465117295,545.86,Shell,8564,American Express,United States,0907 Anderson Lodge,New Samanthaton,Michigan,85013,2025-01-04,15,0
+zdavis,Eric Stewart,richard85@example.com,+1-206-247-7159x103,407.3,Starbucks,4271,Mastercard,United States,56321 Jennifer Valleys,Lisaside,Alabama,90710,2025-07-25,10,0
+nicole01,Eric Baker,knelson@example.org,001-371-525-2967,51.22,Starbucks,2680,Visa,United States,745 Perez Greens Suite 158,Lake Deborah,Indiana,91591,2025-01-19,13,0
+abrown,Julie Cruz,ngarcia@example.net,001-588-854-7281x23567,76.26,Walmart,8361,Mastercard,United States,46249 Dylan Wells,Lake Danieltown,New Jersey,25015,2025-03-05,12,0
+cstanley,Bryan Pierce,ryan26@example.net,(885)407-4510x66343,82.45,Walmart,6727,Visa,United States,978 Rodriguez Causeway Apt. 131,North Barbarabury,California,70248,2025-01-24,15,0
+nicolelyons,James Robinson,tyler23@example.com,+1-749-340-1289x7432,52.07,Shell,4862,Discover,United States,57207 Cook Fall,Nicoleburgh,Utah,01776,2025-05-21,13,0
+faguilar,Kaitlyn Williams,bradleyveronica@example.org,682.721.1457x75847,2812.19,Unknown Store,2623,American Express,Kuwait,4589 Rodriguez Spur,East Tiffanybury,Texas,19065,2025-03-26,3,1
+sanchezjoyce,Heather Garner,samanthagray@example.org,687-582-4556x964,118.7,Target,3273,Discover,United States,859 Ryan Motorway,Keithtown,New York,90354,2025-02-04,15,0
+alexandraroberts,Carla Tucker,marshalexis@example.org,749.210.7406,496.13,Amazon,5193,Mastercard,United States,2548 Stephanie Station,Douglasborough,Nevada,77207,2025-08-06,8,0
+jeffery75,Michael Hughes,grasmussen@example.com,594-629-6592x3426,443.56,McDonalds,9647,Discover,United States,49782 Patton Village Suite 128,Bensonhaven,Utah,93902,2025-03-26,17,0
+ronald66,Thomas Johnson,idavis@example.net,839-285-2989x4062,4216.6,Unknown Store,2996,Visa,Kyrgyz Republic,10415 Lynn Port Suite 501,Lake Jamieberg,Oklahoma,97549,2025-08-18,3,1
+jeffreylowe,Elizabeth Collins,shaffercindy@example.org,510-329-1813,341.66,Shell,2029,Visa,United States,87601 Sullivan Ferry Apt. 849,Villarrealville,Nevada,19669,2025-05-31,15,0
+donaldgarner,Jorge Lyons,thomasroberts@example.net,897-854-6617,481.42,Amazon,9443,Mastercard,United States,47196 Beverly Bypass,Williamsstad,Florida,61830,2025-07-29,18,0
+khill,Scott Gordon,rachel86@example.net,622-859-5724,240.1,Amazon,6780,Mastercard,United States,767 Barbara Parkways,Davidmouth,Pennsylvania,76617,2025-03-24,17,0
+bjones,Caitlin Davis,portererin@example.com,001-933-712-6610x94101,339.09,McDonalds,2402,American Express,United States,51762 James Overpass,Sheltonbury,Illinois,97776,2025-02-08,18,0
+christopherjohnson,Anne Johnson,patriciaward@example.com,001-981-752-8733,4836.91,Foreign ATM,9316,Visa,Guinea-Bissau,76619 David Path,Craigfort,Iowa,07248,2025-05-23,0,1
+andrew44,Hunter Brennan,tammyjones@example.net,389.984.6908,699.93,Amazon,7338,American Express,United States,005 Green Isle Apt. 238,Sandraton,Kansas,65192,2025-01-18,18,0
+reedchad,Patrick Noble,rpotts@example.net,6105783567,600.38,Target,2106,American Express,United States,03896 Angela Center,Cannonberg,Nevada,92426,2025-04-12,20,0
+darrellwilson,Stephanie Bell,samuel03@example.org,590-236-8900,589.02,McDonalds,6447,Mastercard,United States,27240 Bailey Shoal,West David,Montana,63245,2025-06-05,9,0
+jonesshawna,Michael Li,scottturner@example.com,001-984-638-4588x10569,2733.05,Suspicious Site,8612,Discover,Belgium,83483 Nathan Via,North Tiffany,Vermont,58209,2025-06-04,2,1
+bbenton,Mr. Donald Cruz PhD,brownmelissa@example.com,606.267.0336x2680,651.08,Amazon,8498,Visa,United States,95493 Matthew Village Suite 601,Farleyport,Ohio,61253,2025-04-11,19,0
+francisco67,Tammy Anderson,campbellfelicia@example.com,638-745-9609,169.26,Walmart,6170,American Express,United States,490 Kurt Shore Suite 427,Smithtown,New Jersey,05351,2025-08-17,8,0
+jlittle,Anthony Mcmillan,penny85@example.org,524.344.7232x290,324.6,Shell,5150,Visa,United States,87950 Bruce Station,Theresatown,Utah,46813,2025-05-09,15,0
+burkemichael,Jeremy Dixon,jameshudson@example.net,(216)442-0595x56574,236.03,Amazon,6438,American Express,United States,42901 Lindsey Pass Suite 369,Lake Jessicafurt,Wisconsin,85594,2025-01-19,18,0
+benjaminvictoria,Yolanda Mccoy,hryan@example.net,6975887543,4297.7,Suspicious Site,8204,Discover,Greenland,3751 Sean Lodge,Christopherside,North Carolina,10520,2025-08-05,23,1
+cjacobs,Crystal Carey,sarasanchez@example.com,+1-992-594-4551x16682,779.24,Starbucks,9151,American Express,United States,0216 Cannon Station,Newtonberg,Arizona,57048,2025-01-06,19,0
+veronicaanderson,Tamara Strong,david83@example.net,915-859-9910x1576,220.71,Amazon,7955,Visa,United States,2298 Edwin Avenue Suite 765,Thompsonshire,Louisiana,13201,2025-02-25,19,0
+kpeterson,Kelly Romero,ymitchell@example.com,001-422-303-6849x95154,485.94,Walmart,5813,American Express,United States,7732 Crosby Green Apt. 342,East Andreahaven,Wisconsin,22632,2025-01-07,16,0
+moyeramber,Adriana Wall,woodjuan@example.net,(678)327-4117x67412,1780.24,Foreign ATM,6021,Discover,Guinea,315 William Harbor,Mccoyhaven,Utah,10211,2025-06-17,3,1
+patricia06,Michael Boyd,mckenzieguerrero@example.net,9034296334,576.95,Walmart,8272,American Express,United States,74231 Aaron Cliff Suite 893,North Robert,Kentucky,80897,2025-04-01,19,0
+danawashington,Catherine Evans,nancycontreras@example.com,+1-769-558-7413x1467,43.46,Target,8126,American Express,United States,27515 Bush Trail Suite 796,North Kelly,North Carolina,28695,2025-07-30,17,0
+xbrown,Michael Jenkins,qcoleman@example.org,573-350-4763x928,1762.64,Foreign ATM,6952,Mastercard,Yemen,98006 Kimberly Isle Suite 810,West Amanda,Hawaii,70716,2025-04-04,23,1
+kellymartin,Jason Tran,shelbyjohnson@example.org,001-681-386-7024x40330,1999.73,Foreign ATM,1570,Mastercard,Suriname,624 Charles Parkways Suite 008,North Jill,Montana,25966,2025-07-17,23,1
+kristen68,Elizabeth Stevens,bakerdiana@example.com,(846)213-6847x4883,2325.98,Foreign ATM,6933,Discover,Luxembourg,8173 Ray Fort Suite 579,Lake Lanceberg,South Dakota,11463,2025-01-23,3,1
+jaredmcmahon,Angela Powell,kmills@example.org,8742645205,35.58,Walmart,8371,American Express,United States,387 Edwards Run Apt. 577,North Ronaldland,Missouri,17184,2025-06-29,18,0
+aprilmartinez,Sergio Wilson,osimpson@example.net,728.466.0416x4485,360.71,Amazon,3255,American Express,United States,8395 Kennedy Fords,Saraberg,Hawaii,69232,2025-06-19,17,0
+asmith,John Holder,collinsjacob@example.net,487-351-0979,258.36,Target,2858,Visa,United States,835 Sarah Harbor Suite 694,Claudiafurt,Kentucky,74047,2025-05-09,11,0
+chrishernandez,Diana Baker,martinezalexa@example.net,001-365-499-9497x32033,404.24,Starbucks,2929,American Express,United States,70510 William Mill,Ortegamouth,Maryland,66086,2025-06-30,16,0
+annbennett,John Collins,alyssa93@example.org,+1-242-768-7741x8652,566.19,Walmart,5678,Discover,United States,563 Patrick Fall Apt. 375,North Brenda,Michigan,12835,2025-08-04,17,0
+wesley09,Matthew May,swilliams@example.net,340-290-7977x278,106.88,Amazon,3828,Discover,United States,92221 Flowers Crest Apt. 705,Port Amyborough,Tennessee,80979,2025-06-24,15,0
+mary52,Laurie Blackburn,shepardrichard@example.net,+1-801-438-2412x70493,4336.8,Suspicious Site,2063,American Express,North Macedonia,4851 Owens Villages,New Sarahland,Delaware,12371,2025-02-13,3,1
+lopezbrittany,Pamela Kramer,danastevens@example.net,643.424.0642,682.58,McDonalds,3852,American Express,United States,3343 Tiffany Green Suite 417,Bethstad,Wyoming,84626,2025-05-04,19,0
+benjamindavenport,Joshua Clark,zreed@example.net,235-388-4183x4374,187.15,Walmart,3275,Mastercard,United States,2795 Elliott Shoals,West Jacquelinestad,Alabama,21308,2025-04-10,20,0
+matthew12,Elizabeth Owens,karengonzales@example.net,899.666.7345x957,30.76,Shell,7044,Discover,United States,81664 Watkins Estates,West Olivia,Vermont,69193,2025-02-17,17,0
+davidcook,Tracy Parker,laurieellis@example.org,302.532.4412x336,112.52,Amazon,6067,Discover,United States,850 Moore Courts,Piercefurt,Vermont,28352,2025-08-05,9,0
+tguerra,Thomas Hughes,kathryn26@example.com,569-768-1579x0392,425.3,Starbucks,2208,Mastercard,United States,8099 Melendez Rue Apt. 273,East Kevinland,Michigan,50841,2025-06-05,17,0
+thernandez,Roberto Johnson,zwhite@example.net,917.215.1602x52986,517.45,Starbucks,9476,American Express,United States,660 Coleman Streets Apt. 978,Kimberlymouth,Ohio,48324,2025-01-27,15,0
+tinaschmidt,Michael Hernandez,stacy94@example.org,797.660.7401x77509,703.59,Shell,3981,Mastercard,United States,4084 Kelly Mall Apt. 754,New Danielton,Ohio,97321,2025-04-04,18,0
+christopherdavis,Mackenzie Jordan,michael79@example.org,001-389-770-1550x2916,407.26,Amazon,9488,Mastercard,United States,6024 Mary Meadows Apt. 394,Christinaside,Kansas,91498,2025-07-09,9,0
+ashley36,Michael Lopez,jacobsrenee@example.net,340-563-0624x4795,140.08,Target,4694,American Express,United States,53194 Matthews Roads,Amberfort,Oklahoma,02148,2025-03-23,19,0
+michael72,Patrick Clark,emilyscott@example.org,+1-991-278-5138x54457,716.99,Amazon,4216,American Express,United States,929 Cunningham Mall,Port Teresaside,West Virginia,64825,2025-08-23,12,0
+imorse,Travis Martinez,hrobinson@example.net,322-768-6536x9455,503.77,Shell,2530,Mastercard,United States,67747 Sandra Fall Suite 408,Kathrynburgh,Utah,13388,2025-04-01,16,0
+amccann,Allen Walker,greenejessica@example.org,493-929-7150x96883,753.87,Walmart,6531,Visa,United States,327 Marcus Hill Apt. 039,Stevensmouth,Kansas,23684,2025-08-19,10,0
+laramary,Susan Sanchez,smithantonio@example.net,(287)661-6481x98077,1784.28,Foreign ATM,5336,Mastercard,Sudan,056 Patterson Crossing Apt. 249,Lake Garychester,Texas,45043,2025-02-03,0,1
+lauraclark,Martin Jones,wgoodwin@example.com,247-557-4949x02284,339.1,McDonalds,9159,American Express,United States,544 Ashley Inlet Suite 742,East Catherine,Missouri,34226,2025-05-31,8,0
+rosalesbrandy,Adam Diaz,kwoods@example.com,+1-929-885-8567x2872,391.53,McDonalds,5873,Discover,United States,153 Clark Drive,Charlotteville,Tennessee,26314,2025-03-26,14,0
+ohudson,Sara Singleton,judithcox@example.org,(515)581-4888x1079,3910.15,Unknown Store,7809,Discover,Equatorial Guinea,337 Billy Rest,Andrealand,West Virginia,25406,2025-06-23,23,1
+escobardavid,Daniel Sanchez,imarshall@example.org,913-671-7173x18939,171.18,Shell,6121,American Express,United States,617 Brianna Roads,Gayview,Wisconsin,53869,2025-05-23,10,0
+vwelch,Kayla Bean,joseph83@example.com,988-447-1270x587,780.55,Walmart,7070,Visa,United States,64175 James Coves,East Kyle,Maryland,42446,2025-07-01,20,0
+tgarcia,Christine Powers,eric62@example.org,+1-725-487-9643x474,200.97,Amazon,8366,Mastercard,United States,5574 Elliott Track Suite 060,Gomezberg,New Jersey,36441,2025-01-05,12,0
+jasonmoran,James Morris,jnguyen@example.net,439.787.4113,86.48,Target,7850,Mastercard,United States,970 Watts Squares Suite 349,Brownton,South Dakota,45418,2025-03-07,14,0
+samuel41,Stanley Jones,jholloway@example.net,693-281-7359x8488,652.65,Shell,6123,Mastercard,United States,55732 Mcdonald Mount,Masonview,Kentucky,79618,2025-06-27,19,0
+taylordawn,Robert Yates,durhamwilliam@example.org,001-760-385-8749,403.63,Shell,9171,American Express,United States,181 Lauren Vista,New Sandraborough,Wisconsin,10080,2025-07-01,15,0
+dmeyers,Spencer Stevenson,charles95@example.com,460.669.4096x00356,28.31,Starbucks,8491,Mastercard,United States,587 Kayla Ports,Patriciashire,Georgia,25253,2025-07-03,16,0
+kylegarcia,Terry Williams,amberblevins@example.com,333-834-2643x35027,470.84,Amazon,5609,Discover,United States,3607 Ross Ford,Lawrenceville,Colorado,23451,2025-05-01,8,0
+martinjason,Natalie Howard,robert31@example.net,(774)781-7006x661,707.05,McDonalds,8710,American Express,United States,64316 Smith Harbor Suite 023,New Albert,North Dakota,20916,2025-02-03,18,0
+dfarmer,Christine Singh,nathan62@example.com,(928)522-5120,16.46,Amazon,3194,American Express,United States,5495 Krista Isle Apt. 702,Williamsfurt,Wisconsin,78948,2025-06-21,14,0
+ericsmith,Anna Mcneil,novaksteven@example.com,+1-472-790-4774,613.45,Target,7563,Visa,United States,177 David Passage Apt. 231,Lake Richardville,Kansas,30152,2025-03-01,8,0
+mark79,Laura Stephenson,markbrooks@example.org,001-506-403-2020,453.84,Target,5728,Visa,United States,0977 Lopez Ways Suite 737,Amyville,West Virginia,37110,2025-06-05,16,0
+matthew24,Shane Ingram,qalvarado@example.com,001-684-415-6082x13711,408.36,Shell,2946,Mastercard,United States,7681 Raymond Pass Apt. 230,Lake Julie,North Dakota,79266,2025-07-04,12,0
+mcbridemichael,Travis Schmidt,erik29@example.org,001-928-796-3406x46867,2878.66,Suspicious Site,6990,Mastercard,Burkina Faso,14843 Brian Loop Apt. 272,South Kristie,Tennessee,55421,2025-04-03,0,1
+johnbell,Travis Taylor,vmartinez@example.net,+1-923-572-4501x84819,485.95,Starbucks,1659,Visa,United States,1897 Chad Throughway Suite 406,Danielmouth,Nevada,77175,2025-02-09,16,0
+oblake,Ann Dennis,john76@example.com,7143448564,1979.63,Suspicious Site,9508,Discover,American Samoa,739 Walker Mews,Daltonfort,Oklahoma,80014,2025-07-18,23,1
+qobrien,Kyle Garza,johnstondavid@example.org,(899)866-0577x980,488.95,Shell,6373,American Express,United States,92051 Knapp Unions,Lake Stephenview,Minnesota,90024,2025-03-23,10,0
+joshuabowers,Michael Walters,jasontownsend@example.net,+1-656-352-7155x9835,320.43,Shell,5902,American Express,United States,659 Fowler Throughway,Harrisfort,Minnesota,44672,2025-07-10,19,0
+kari25,Colton Collins,katherine82@example.com,+1-813-411-9642x585,664.35,Shell,5911,Discover,United States,49915 Scott Canyon Apt. 824,South Jeffreybury,Kansas,30101,2025-04-15,15,0
+dustinphillips,Shannon Webb,jperry@example.net,762.689.6964,2789.25,Foreign ATM,7824,American Express,Jersey,3585 Susan Dale Suite 389,North Tina,North Carolina,93346,2025-04-23,1,1
+daniel93,Michelle Newman,stevenandrews@example.org,297.779.6120x878,3589.18,Suspicious Site,4728,Visa,Lesotho,51494 Jennifer Overpass,Padillaberg,Montana,28708,2025-06-06,0,1
+amanda45,Robert Romero,ithomas@example.net,001-350-890-5911,389.55,Shell,7229,Mastercard,United States,339 Mary Burgs,Chandlermouth,Colorado,12842,2025-08-13,18,0
+yballard,Brenda Cooper,collinsgregory@example.com,371-624-6335x157,34.94,McDonalds,4125,Visa,United States,080 Davis Alley,North Markport,Alaska,74960,2025-05-14,9,0
+sosajacob,Catherine Robinson,collin29@example.com,001-227-328-2709,257.82,Walmart,4340,Discover,United States,1529 Rachel Parks Apt. 929,Sharonside,Missouri,59212,2025-08-12,14,0
+morganmichael,Robert Lopez,dwilliams@example.com,+1-691-781-5899x88683,622.23,Starbucks,2020,Mastercard,United States,3466 Bennett Overpass,South Damonside,New Mexico,80410,2025-04-03,19,0
+xgay,Michael Brown,lopezchristopher@example.net,001-298-825-0800x4635,173.8,Target,8837,Discover,United States,503 Stephen Ferry,Lake Luke,Virginia,27188,2025-04-28,18,0
+williamspatrick,Audrey Roberts,donnaherman@example.com,(563)656-0229,765.78,Starbucks,6608,American Express,United States,943 Ortiz Branch Suite 664,Port Kimberly,Kentucky,79161,2025-01-03,16,0
+xwilliams,Matthew Walker,wilsonrachel@example.com,628-652-4648,491.96,Walmart,5571,American Express,United States,16318 Gonzalez Path Apt. 771,East Benjaminfurt,Idaho,11459,2025-06-30,11,0
+allenchristina,Charles Harper,bateswilliam@example.org,001-835-809-0254x25730,753.77,Target,5735,Mastercard,United States,8132 Matthew Stravenue,Johnsonmouth,California,32715,2025-05-23,20,0
+angela28,Amy Cohen,bholmes@example.net,001-825-350-2130x6090,260.46,Target,5480,American Express,United States,098 Andrew View,Pinedafurt,Maine,90365,2025-05-27,16,0
+pkent,Lisa Reed,jmendoza@example.com,+1-753-224-2642,3507.17,Foreign ATM,7464,American Express,Jersey,07683 Martinez Road Suite 366,Murraymouth,New Hampshire,51414,2025-04-20,23,1
+mark62,Christine Robinson,ashleygould@example.net,+1-995-678-6543x62718,239.46,Target,2294,American Express,United States,33582 Giles Meadows Apt. 703,Bradleyburgh,Louisiana,98277,2025-06-11,19,0
+danielleandrews,Brittany Stewart,mirandaanderson@example.com,799-580-1110x00515,528.22,McDonalds,4505,Mastercard,United States,41595 Alvarez Squares,West Kevin,Oklahoma,21447,2025-08-02,15,0
+frankwilson,Jennifer Hoffman,rgraves@example.net,812.971.0267,224.19,Shell,5450,Mastercard,United States,95799 Seth Brooks,Pottsshire,Minnesota,45036,2025-08-23,19,0
+casey29,James Hernandez,suzanneflores@example.net,759-670-9962,3654.87,Foreign ATM,4972,Visa,Congo,075 Brett Garden Suite 476,Billymouth,Texas,11018,2025-03-20,2,1
+andersontiffany,Morgan Smith,egonzalez@example.com,(504)965-5866x5254,188.28,Walmart,2641,Discover,United States,1715 Andrew Crossroad Apt. 312,Calvinshire,Kansas,11954,2025-07-24,8,0
+sharpjill,Terry Jones,vwelch@example.net,391-202-3121,576.71,Amazon,3252,Visa,United States,330 Paul Road Apt. 737,South Keith,Utah,78070,2025-07-25,18,0
+ramoswilliam,William Baker,hollywarner@example.org,825.632.6949,782.55,Walmart,8793,Discover,United States,4538 Diana Springs,Juanburgh,California,08577,2025-01-15,14,0
+raven09,Jessica Craig,vsmith@example.net,959-759-1945,607.17,Target,5676,Visa,United States,7475 Jeremy Extension Apt. 567,Nguyenfurt,New Jersey,61369,2025-04-18,13,0
+joanncruz,Shelley Kramer,ofritz@example.org,(450)662-2923x1067,3783.05,Unknown Store,1611,Mastercard,Guadeloupe,76248 Perez Oval,Reynoldsburgh,New York,87767,2025-01-15,0,1
+jonesmarcus,Dylan Young,alara@example.com,4426549691,706.97,Walmart,7504,Discover,United States,525 Brown Mission Suite 633,Haleymouth,South Dakota,62915,2025-07-06,8,0
+barbara53,Tracie Harrington,jeanlynch@example.org,997.905.8162x9518,749.92,Target,1151,American Express,United States,76342 Abbott Circle Suite 330,Michaelfort,Oklahoma,19653,2025-07-05,8,0
+todd59,Christina Cochran,susanharper@example.org,403-688-4366x0443,486.2,Target,8444,Discover,United States,61572 Garrett Point,New Sean,Massachusetts,14623,2025-08-11,12,0
+thill,Dominique Willis,stephanie10@example.com,+1-775-825-6806,682.34,Starbucks,4159,Visa,United States,9045 Nicole Centers,South Caleb,California,18839,2025-02-05,12,0
+shelbyyoung,Valerie Morgan,ecooper@example.com,(680)586-6281x3721,138.37,Starbucks,5215,Mastercard,United States,80037 Bobby Trace,East Stephanie,Florida,66113,2025-03-17,18,0
+qavila,Jordan Roberts,caldwellheidi@example.net,203-790-3397,4078.16,Suspicious Site,4164,Mastercard,Reunion,582 Lewis Plain,Lake Julieport,Louisiana,73411,2025-03-30,0,1
+mmoore,Dawn Gonzalez,philip47@example.org,698.563.2106x133,686.36,Starbucks,9442,American Express,United States,7039 Robinson Burg Suite 032,Jamiefurt,Washington,43408,2025-04-19,14,0
+kguzman,Karen Carlson,chrisrodriguez@example.org,4903040476,2902.92,Unknown Store,3303,Discover,Austria,36514 Valdez Hills Apt. 142,Stephenborough,Delaware,83955,2025-06-26,2,1
+beardsarah,Brian Hardy,lkane@example.net,+1-344-809-7123,749.3,Amazon,7284,Mastercard,United States,07676 Teresa Ports Apt. 144,Harrisview,Alaska,88482,2025-03-06,12,0
+jimmywest,Matthew Russo,shansen@example.com,404.751.9577,605.47,Target,1187,American Express,United States,882 Moss Key Suite 296,Taylorstad,Wyoming,38832,2025-02-04,12,0
+alowe,Jeffrey Guzman,marvinhoward@example.com,482.505.8295x829,557.29,Amazon,2936,Discover,United States,61880 Barbara Glens Apt. 357,West Jessicastad,Oklahoma,52269,2025-05-04,18,0
+wrobinson,Melissa Travis,daniellechavez@example.net,001-330-581-7214x36438,136.18,McDonalds,6095,Visa,United States,04132 Carl Mission,South Shirleyfurt,Alabama,91965,2025-05-22,16,0
+paul34,Kevin Mendoza,sheltontiffany@example.com,850-247-6816x99570,300.36,Walmart,3188,Discover,United States,74811 Jennifer Stravenue Apt. 765,New Tracey,Arizona,42820,2025-03-15,11,0
+arobinson,Michael Watkins,wallssean@example.net,(374)996-8049,369.43,Shell,7813,Discover,United States,4204 Simmons Spur,Port Chase,New Mexico,64234,2025-03-01,13,0
+zparsons,Cassandra Bennett,ian59@example.com,271.912.2299,643.58,Walmart,5054,Visa,United States,6085 Robert Bypass Suite 686,North Christopherstad,New Mexico,53103,2025-05-01,20,0
+rebeccahutchinson,Christopher Hudson,seanbarajas@example.com,+1-247-512-9618,362.93,McDonalds,2279,Visa,United States,42605 William Bridge,New Elizabethshire,North Dakota,01661,2025-03-13,13,0
+luissanchez,Mr. Matthew Mendoza,coryhughes@example.net,+1-581-822-8217x8192,4400.71,Foreign ATM,9792,Mastercard,Taiwan,46060 Norman Burgs Apt. 567,Lake Rebecca,New Mexico,81096,2025-08-14,2,1
+wlucas,Daisy Boyd,bmejia@example.net,8616812054,269.21,Shell,2904,Mastercard,United States,548 Calhoun Walk Suite 876,South Matthew,Vermont,64683,2025-08-20,15,0
+kingjoseph,Dylan Palmer,sara53@example.net,854.535.8644,396.17,Shell,1911,Discover,United States,435 Harris Mountain,North Jenny,Maine,84202,2025-02-28,15,0
+isaac75,John Nelson,jmedina@example.com,+1-914-616-8601x347,415.47,Starbucks,1945,Discover,United States,40679 Thomas Loaf Suite 122,West Kathleenton,Arizona,09712,2025-03-07,17,0
+david16,Steven Knight,rodrigueztiffany@example.net,546-433-3999x485,581.39,Starbucks,1049,Mastercard,United States,953 Linda Views,Harristown,Hawaii,12451,2025-05-16,12,0
+lisa11,Jason Allen,patricialowery@example.com,503-546-9967,67.69,Starbucks,2044,Visa,United States,67726 Johnson Track,Jamiefort,Nevada,69174,2025-03-23,13,0
+porterchristina,Lisa Watson,burkeholly@example.com,(663)535-5643,4951.48,Suspicious Site,5703,Discover,Hong Kong,93170 Armstrong Lake Suite 076,Blankenshipland,Nevada,33914,2025-03-24,1,1
+michael47,Daniel Richards,meghanwerner@example.com,3316219804,617.49,McDonalds,7887,American Express,United States,42642 Robert Expressway Apt. 319,New Diamondburgh,Maine,72320,2025-04-22,19,0
+pjacobson,Tyrone Morrison,jonescraig@example.org,+1-517-285-2282,364.34,Starbucks,2314,Mastercard,United States,48088 Phillip Expressway Apt. 722,Port Chelsea,Mississippi,75718,2025-07-05,14,0
+lsanchez,Michelle Martin,jonesnicholas@example.org,878-676-8868x7859,103.72,Shell,9664,Mastercard,United States,87203 Carol Land Suite 196,Bennettstad,Alaska,41729,2025-04-26,14,0
+lewiskimberly,Joanna Garza,deborahturner@example.org,(703)574-7677,669.51,Amazon,8585,Discover,United States,60321 Brooks Keys Suite 661,Michaelhaven,Oklahoma,63036,2025-01-10,12,0
+vjones,Thomas Martin,thomasjennifer@example.com,7089385076,309.63,Walmart,8546,American Express,United States,545 Laurie Prairie Apt. 776,Lake Kimberlyshire,North Carolina,09320,2025-08-25,11,0
+sarahgray,Jessica Sharp,douglas31@example.net,(846)430-0402x3693,227.76,McDonalds,2848,Visa,United States,943 Vickie Estates Apt. 471,South Rose,Hawaii,88661,2025-04-27,20,0
+caldwelllisa,Nicholas Watson,qsosa@example.net,+1-585-558-2984,495.79,Amazon,4376,Visa,United States,7458 Porter Stream,Williamsshire,Maryland,34270,2025-01-26,11,0
+angelarichard,Tyler Marshall,saraterry@example.net,(366)769-5413x297,3578.8,Suspicious Site,1797,Mastercard,Vanuatu,6626 Good Isle,Davidbury,New York,64970,2025-08-08,0,1
+zchapman,David Sanchez,matthewharper@example.net,(211)911-0286x7120,2907.93,Unknown Store,4559,Visa,Christmas Island,45591 Frederick Inlet,Craigshire,Colorado,05680,2025-05-26,0,1
+kristineprince,Katherine Adams,christina81@example.net,221-879-4281x7934,408.08,Target,6224,American Express,United States,277 Lynn Inlet Suite 663,Elizabethborough,Kansas,60962,2025-02-05,11,0
+benjaminbrown,Brittany Bolton,edwardjones@example.com,001-959-237-6618x943,248.39,Walmart,9540,Mastercard,United States,63510 Maureen Unions Suite 627,Barrettfurt,Virginia,42913,2025-04-17,18,0
+julie65,Nicole Parrish,adrianlogan@example.com,(817)252-0238x97432,247.4,Amazon,3869,Discover,United States,559 Rogers Cove,Ingramhaven,Illinois,28165,2025-02-05,16,0
+alyssa89,Lisa Graham,gibsonjennifer@example.net,587-704-5069x1767,401.54,Target,7244,American Express,United States,4403 Foster Avenue,North Jeffrey,New Hampshire,31824,2025-04-05,18,0
+ewilliams,Denise Olsen,usmith@example.net,790-479-3884x1368,332.52,Target,4012,Discover,United States,61537 Cory Summit,Garyport,Texas,34198,2025-04-09,14,0
+kharris,Phillip Roberts,joneseric@example.org,9313421751,680.98,Target,3365,Discover,United States,941 Mccormick Knoll Apt. 638,Jessicaland,California,21772,2025-02-04,19,0
+alexanorris,William Todd,anthony66@example.org,763.723.9791x37876,3468.35,Suspicious Site,9683,Mastercard,Congo,73095 Vanessa Landing,Roberttown,Massachusetts,61250,2025-01-21,0,1
+wheeleranna,Chad Snyder,david05@example.org,786-840-1042x4624,201.86,Walmart,2295,Discover,United States,517 Rodgers Lodge,North Tinamouth,Idaho,93798,2025-01-23,13,0
+sarahmorrison,Heidi Davis,katrina51@example.org,001-339-613-0448,83.05,McDonalds,1844,American Express,United States,60461 Adams Center Apt. 119,North Patriciaton,New Mexico,47834,2025-04-07,11,0
+bakerbrittany,Rebecca Miller,jacobhull@example.net,207-632-2836,542.2,Shell,2192,Mastercard,United States,8306 Christina Loaf,Port Allison,Minnesota,18354,2025-04-06,8,0
+sbartlett,Luis Preston,mscott@example.com,3165934292,582.2,Shell,8854,Mastercard,United States,033 Jessica Spur,Andersonborough,Louisiana,15261,2025-05-17,11,0
+jennifergreer,Brian Clark,dylanwong@example.org,(556)568-4732x365,249.52,Amazon,4113,Visa,United States,4604 Ryan Estate Apt. 078,Jamesville,Maine,18942,2025-03-09,11,0
+ronaldsmith,Kendra Willis,kevin37@example.org,001-947-864-2737x203,732.41,McDonalds,4350,Discover,United States,821 Griffith Pike,Hannahview,Texas,68197,2025-07-09,17,0
+ksmith,Ashley Roach,lisa89@example.net,527.480.2058x69507,446.14,Target,8639,American Express,United States,464 Willis Road,Santiagoshire,Oregon,47278,2025-01-23,14,0
+pweber,Scott Kelly,amandasnyder@example.com,+1-501-919-2360,216.63,Shell,8635,Visa,United States,118 Higgins Forges Apt. 351,West Alexandershire,Nebraska,16266,2025-08-23,15,0
+forozco,David Wilson,kylie83@example.org,548.620.7365x1189,611.69,Target,7073,American Express,United States,5578 Anthony Court,Lake Joshuaburgh,Hawaii,31200,2025-06-24,11,0
+jamesclark,Joel Stanley,christinejohnson@example.net,001-235-446-2127x6025,46.12,Walmart,3390,Visa,United States,12312 Rodriguez Forks Apt. 488,Oliviaburgh,Rhode Island,70342,2025-06-06,19,0
+stephaniecoleman,Rebecca Ramirez,catherine03@example.com,968-871-9120x3818,447.12,Shell,7841,American Express,United States,82832 Rebecca Pass,East Amberland,Michigan,69323,2025-05-08,17,0
+jose82,Amanda Henry,donaldtyler@example.net,+1-618-729-7168x1572,164.99,Walmart,5026,Discover,United States,00001 Martin Summit,North Haileyfort,Connecticut,58038,2025-07-05,14,0
+brian90,Virginia Edwards,nortonwilliam@example.com,001-344-421-8299x87478,527.14,McDonalds,5216,Discover,United States,8905 Harrison Parkways,Mcdonaldton,Rhode Island,06904,2025-01-01,13,0
+nina65,Ann Ramsey,alyssa66@example.net,236-724-8355,374.05,McDonalds,6770,Mastercard,United States,96080 Brown Fords Apt. 699,Montgomerytown,Wyoming,82342,2025-07-04,20,0
+davidbrown,Tanya Grimes,mary18@example.net,001-304-842-8773x8363,579.05,Starbucks,9882,Visa,United States,21269 Barber Pike Suite 642,East Natashaberg,Mississippi,95167,2025-06-21,10,0
+tlewis,Darlene Murray,shortkelly@example.net,(625)554-0263x5582,36.72,Amazon,1794,Visa,United States,176 Jenkins Harbors,Williamhaven,North Carolina,03449,2025-07-02,18,0
+richardsonangela,Cassandra Haas,jessica27@example.net,001-505-604-0433x335,118.62,McDonalds,2113,Mastercard,United States,163 Linda Course Apt. 978,Griffithville,Ohio,06835,2025-05-24,11,0
+johndavis,Katherine Taylor,yvonne06@example.org,001-211-298-7561x7868,2265.52,Suspicious Site,1990,Discover,United States Minor Outlying Islands,00915 Rodriguez Crossroad,East Haleymouth,New Mexico,83972,2025-06-16,3,1
+jessica91,Susan Rangel,peterlynch@example.com,(601)349-1189,22.43,Shell,7739,Visa,United States,36875 Brenda Throughway Suite 322,New Carolyn,Georgia,10134,2025-02-26,16,0
+matthew61,Timothy Dominguez,david86@example.net,2503537666,3352.96,Suspicious Site,5697,Visa,Brazil,0030 Michael Locks,Port Monicatown,Missouri,20685,2025-06-12,0,1
+floresjulie,Christopher Robinson,michael68@example.net,(569)617-7682,652.39,McDonalds,3937,Visa,United States,013 Kemp Avenue Suite 354,South Michelle,Oklahoma,97056,2025-07-31,14,0
+ricklewis,Lisa Martinez,estradashannon@example.net,6904859914,3335.35,Unknown Store,9625,American Express,Vietnam,749 Richard Rapid,Wangshire,Missouri,86585,2025-03-12,2,1
+hdavis,Joseph Diaz,kwalsh@example.org,(559)414-0849,221.19,Starbucks,7112,Discover,United States,23426 Elliott Centers,Deantown,Oklahoma,62495,2025-02-06,9,0
+bryantrobert,Maria Thompson,kylehahn@example.net,489.235.9538,456.35,McDonalds,5914,Visa,United States,56129 Peterson Plaza Apt. 695,South Donna,Colorado,72671,2025-04-01,11,0
+ocooper,Ronald Smith,gstokes@example.net,+1-523-685-9514x34682,1827.25,Suspicious Site,8798,Visa,Thailand,002 Goodwin Alley Apt. 869,Solomonfurt,California,07729,2025-01-28,23,1
+egordon,Corey Salazar,williamscarl@example.net,9948149150,3959.96,Unknown Store,8109,American Express,Singapore,839 May Road,North Jessica,Iowa,84059,2025-03-08,23,1
+huangscott,Jeanette Brown,umcclure@example.com,001-362-692-5081x77602,782.09,Amazon,1697,Mastercard,United States,8841 James Motorway,North Sharon,Massachusetts,47408,2025-06-19,16,0
+jamesmoon,John Ho,ksmith@example.net,519-720-6136,722.01,McDonalds,8790,American Express,United States,7895 Martinez Forge,Jonesside,Maine,40752,2025-03-04,17,0
+barbergary,Amber Lin,william16@example.com,903-473-4167x8127,4734.56,Foreign ATM,9897,Visa,United States Virgin Islands,02179 Curtis Fields,Aprilchester,Hawaii,75542,2025-05-10,3,1
+rmueller,Cynthia Simmons,nancyryan@example.org,828.856.0539x70798,743.73,Target,4394,Mastercard,United States,7067 Rachel Path,Port Laura,Mississippi,00796,2025-03-31,8,0
+christopherpittman,Mark Murphy,christopherlong@example.net,(405)387-1469x218,743.81,Target,4939,Discover,United States,9679 Angela Place,Joeside,Maine,72161,2025-07-25,10,0
+davidsellers,Rebecca Bean,eileendaniels@example.net,+1-348-642-4959x881,272.07,McDonalds,2284,American Express,United States,8870 Davis Fall Apt. 867,Woodsside,Wyoming,86579,2025-02-14,10,0
+xhill,Lucas Ball,isimpson@example.com,(582)999-6872x2589,1841.9,Unknown Store,6580,Discover,San Marino,858 Raymond Ferry,West Brett,Louisiana,04419,2025-06-07,1,1
+karla66,Evelyn Bryant,johnsondavid@example.com,+1-925-854-4286,33.4,Target,8381,Discover,United States,59423 Frances Streets,Kristinebury,Illinois,72090,2025-08-16,20,0
+petersonfrank,Michael Murphy,jennifer72@example.com,(529)326-9335x8951,291.09,Starbucks,4043,Discover,United States,5078 Huber Vista Suite 095,Mejiaport,Kentucky,29888,2025-01-02,14,0
+courtney18,Angela Collier,kgeorge@example.org,585.893.4015,4202.59,Suspicious Site,2204,Visa,Gambia,4715 Harris Forge,West Christine,Indiana,55483,2025-04-23,2,1
+allenronald,Amber Moyer,stephanie21@example.com,001-210-452-7698x19878,131.83,McDonalds,3527,Discover,United States,45238 Morales Dam Suite 866,West Michelleshire,North Carolina,54963,2025-07-07,20,0
+rryan,Christopher Vasquez,william48@example.net,896-755-9428x24911,294.95,Amazon,6050,Discover,United States,00024 Fowler Radial,North Susan,Florida,84734,2025-07-27,8,0
+lloydmiranda,Aaron Morgan,boydcynthia@example.com,+1-821-844-4889,611.46,Amazon,2430,Mastercard,United States,73677 Day Drive Apt. 258,West Keith,California,69422,2025-02-21,10,0
+jasminemorton,Casey Huff,jamesthomas@example.net,5498106018,364.59,Shell,7685,Visa,United States,2387 Johnson Expressway Suite 681,Thompsonburgh,Minnesota,63425,2025-04-21,16,0
+julie58,Karen Gray,nguyenchristine@example.net,001-376-983-1608x27172,1813.67,Foreign ATM,6315,Discover,Poland,73992 Mark Extensions,New Stephanie,South Carolina,28563,2025-06-25,1,1
+stephanieoconnor,Mary Richards,joel82@example.org,(655)639-8358,2521.47,Suspicious Site,4977,Mastercard,Israel,7732 Roberts Brooks,Joseview,Oregon,65790,2025-05-25,1,1
+whitesean,Shannon Gonzales,ashleyalexander@example.org,9537978713,143.91,Target,5397,Discover,United States,883 Edward Valleys,East Laurafurt,Washington,95673,2025-07-24,12,0
+glenware,Julian Obrien,gstone@example.net,553.258.5238x600,59.98,Starbucks,7899,American Express,United States,3619 Rodriguez Cliff Suite 239,North Kimberlyshire,Hawaii,96152,2025-08-12,12,0
+elizabeth14,Donald Parrish,brianmorrow@example.org,001-367-413-9719,628.31,Target,5040,Discover,United States,22132 Michelle Squares Suite 672,North Catherineland,Delaware,15274,2025-04-01,12,0
+andersonhenry,Nathan Griffin,dorothy87@example.org,793.504.9366,497.17,Starbucks,3219,American Express,United States,274 Edward Tunnel,Gregoryland,Maine,03477,2025-07-07,9,0
+igarrett,Shannon Ray,tina29@example.com,(720)493-5561x0399,4820.88,Suspicious Site,7224,American Express,Slovakia (Slovak Republic),13712 Lee Knolls Suite 856,Kathrynberg,Indiana,04045,2025-03-03,0,1
+beasleykimberly,William Conrad,nmartinez@example.org,838.274.0299x0716,274.44,McDonalds,3230,American Express,United States,22481 Flores Way Apt. 034,East Briantown,South Carolina,48104,2025-08-04,17,0
+kfrye,Margaret Richardson,cindy57@example.net,+1-255-346-2347x12476,486.54,McDonalds,8848,American Express,United States,018 Benjamin Burg,Spencerville,New Hampshire,52751,2025-03-07,11,0
+burnsrodney,Adam Davis,seth29@example.org,001-215-907-1380x6713,772.01,Target,9044,Mastercard,United States,1045 Vasquez Flats,Thompsonborough,Alaska,02785,2025-05-14,12,0
+michaelvillarreal,Jillian Warner,tyler31@example.net,8538396274,307.08,Starbucks,2865,Mastercard,United States,15918 Mariah Squares Suite 000,Richardchester,Connecticut,41212,2025-08-17,13,0
+fischerlaura,Kevin Estrada,sloanbenjamin@example.net,+1-349-738-8194x9053,797.84,Walmart,1440,Discover,United States,49980 Lucas Rapid,Noblefurt,Rhode Island,69862,2025-08-23,18,0
+deborahgonzalez,Melinda Cervantes,vmorrison@example.com,966-912-3740,356.38,Target,2133,Discover,United States,32562 Jillian Passage Suite 991,Romanland,Virginia,35118,2025-02-09,19,0
+qcharles,Daniel Williams,iweiss@example.org,316-502-0418,119.95,Target,5139,Mastercard,United States,998 Lester Creek Apt. 708,Sarahhaven,Alaska,09755,2025-08-19,11,0
+tshannon,Caitlyn Martinez,alejandra39@example.com,957.308.2004x80675,633.37,Amazon,8851,Discover,United States,69149 Davis Rue,East Williamfort,Utah,77889,2025-03-06,15,0
+carolhenderson,Brittany Barber,qlane@example.com,+1-804-209-5314x19615,410.22,McDonalds,9907,Visa,United States,327 Craig Valley Apt. 565,Port Sarahshire,Texas,88322,2025-06-01,14,0
+kellywilliams,Jennifer Bowman,preyes@example.net,496-704-7842x170,564.29,Shell,2392,Visa,United States,2259 Margaret Lodge,Amyberg,Alabama,66368,2025-08-18,17,0
+josephross,Crystal Williams,qtaylor@example.com,328.579.9160x9114,529.51,Target,1725,Discover,United States,359 Yolanda Well,Lake Richard,Iowa,28464,2025-04-23,10,0
+vkline,David Hull,angela16@example.com,001-202-554-4724x19165,772.92,Starbucks,1172,Visa,United States,0966 Theodore Streets Suite 182,Brookeshire,Wisconsin,72147,2025-05-30,9,0
+clinesteven,Anne Miller,robert13@example.com,+1-826-964-8698x939,185.38,McDonalds,4621,Discover,United States,694 Mark Radial Suite 501,New Dennisburgh,Arkansas,90606,2025-07-05,16,0
+john60,Benjamin Miller,perezcaitlin@example.net,(236)853-6218x9455,319.0,McDonalds,9199,Mastercard,United States,00994 Kenneth Prairie Suite 204,Lutzview,West Virginia,73475,2025-05-26,17,0
+djimenez,Jeffrey Martin,leroy57@example.com,580-797-4533x89062,798.19,Starbucks,5840,Discover,United States,6226 Haynes Center Apt. 659,Jeremyton,Alabama,91568,2025-08-09,9,0
+lmartin,Christian White,epatterson@example.net,+1-374-362-5916x01124,1906.24,Foreign ATM,6707,American Express,Holy See (Vatican City State),860 Kathleen Plain Apt. 179,Olsonfort,Oklahoma,17258,2025-02-16,2,1
+thompsoncaitlin,Jill Floyd,galvanjoshua@example.org,001-664-526-1212x038,369.71,Walmart,8912,American Express,United States,3659 Delacruz Place Apt. 785,West Tonya,North Carolina,23416,2025-03-15,16,0
+powersheather,Frederick King,brandon64@example.com,+1-654-975-2311x2327,87.12,McDonalds,8412,American Express,United States,7633 Newman Springs,South Geoffrey,Illinois,73257,2025-05-08,19,0
+lorihurst,Adam Daniels,lawsonpaul@example.org,4456306935,2550.92,Foreign ATM,1370,American Express,Nigeria,3400 Xavier Stravenue,Alexanderhaven,Maine,67896,2025-08-03,1,1
+lreed,David Santiago,jose60@example.net,385.217.9937,3869.99,Unknown Store,9454,Mastercard,Norway,91287 Sawyer Street Suite 999,Mcneilhaven,North Carolina,20817,2025-07-29,2,1
+torrestricia,Dr. Ryan Garcia,qbecker@example.com,401.598.6424,136.51,Shell,8570,Mastercard,United States,728 John Turnpike,East Theresaside,New York,04444,2025-04-03,14,0
+sherryknight,Ms. Kayla Williams,garymartinez@example.org,9238200186,507.51,Walmart,8080,Discover,United States,00898 Espinoza Crossing Apt. 814,West Patrick,Colorado,38349,2025-01-15,18,0
+rachaelroberts,David Harding,hartmanjoshua@example.net,+1-923-854-6951x0030,4080.86,Unknown Store,8037,Discover,United States Virgin Islands,54596 Flowers Isle,Lake Brandonchester,Texas,51610,2025-04-11,23,1
+jonesrebecca,Jacob Dillon,padillapatricia@example.org,207-785-1699x4970,3966.57,Unknown Store,2025,Visa,Sierra Leone,6834 Nicholas Stream,Mooremouth,Alabama,69701,2025-02-25,3,1
+hgrant,Krystal Kennedy,eharrington@example.com,9598625719,157.7,Target,8496,Visa,United States,932 Sherry Curve,Ibarrastad,New Jersey,83215,2025-05-04,11,0
+omarturner,Scott Juarez,sarah17@example.com,485-317-7741x27469,539.85,Starbucks,6134,Discover,United States,824 Charlotte Ramp,Casechester,Louisiana,23704,2025-02-08,16,0
+lcook,Anthony Mann,jennifer54@example.org,485-245-7056,320.11,Amazon,6766,Discover,United States,57090 Bryan Locks,Lake Rachel,Nebraska,36560,2025-08-14,13,0
+ijackson,Sean Braun,samanthacarr@example.net,300-417-8822x473,146.3,McDonalds,5873,Visa,United States,68507 Brian Keys Apt. 119,Theresaburgh,New Jersey,14815,2025-08-21,19,0
+edwardsronald,Amanda Cox,kbrown@example.org,200.971.6950,257.42,Walmart,2916,Mastercard,United States,189 Hoffman Islands Suite 329,Gutierrezside,Oregon,28463,2025-07-25,12,0
+mcooper,Tyler Miranda,fhuff@example.net,001-282-473-4813x1045,557.81,Shell,7852,Mastercard,United States,963 Casey Hill Apt. 574,West Monica,Georgia,55639,2025-05-06,14,0
+iatkins,Patrick West,veronicadavies@example.com,+1-683-884-2536,313.13,Walmart,9804,Mastercard,United States,055 Sean Mills,Janetfurt,Mississippi,59350,2025-05-27,15,0
+christopher62,Clayton Summers,fernandezmathew@example.com,307-340-9131,141.82,Target,4065,American Express,United States,619 Douglas Valley Suite 760,East Cynthia,Montana,94490,2025-05-28,10,0
+lesliegillespie,Todd Fleming,orozcoelizabeth@example.org,759.550.0260x151,499.33,Target,8939,Mastercard,United States,9479 Johnson Haven,Port Travismouth,Virginia,25570,2025-07-20,8,0
+dlarson,Michelle Lawrence,dawn31@example.org,3642934039,654.02,Shell,9109,Discover,United States,2036 William Square Suite 118,Courtneyville,Iowa,86214,2025-03-21,16,0
+susanhoward,Dana Brooks,dwayne56@example.org,8062799006,338.35,Starbucks,3740,Visa,United States,677 Williams Square,South Vincent,Vermont,89658,2025-01-30,15,0
+eileenhudson,Kevin Richmond,michelle00@example.com,576.825.5032x5017,34.38,Walmart,1535,American Express,United States,2624 Stephen Glens Apt. 902,East Kristina,Maryland,43889,2025-07-22,12,0
+smithkristin,Maria Stafford,kellyadam@example.net,+1-868-843-0211,434.71,Walmart,8492,Discover,United States,29045 Cook Wells Suite 592,East Brittneyshire,Wyoming,56009,2025-03-15,20,0
+pwilliams,Robert White,dyerdonald@example.com,(382)314-7709x207,413.54,Shell,5389,American Express,United States,38023 Graves Extension Apt. 921,Rebeccahaven,Delaware,68953,2025-05-16,9,0
+rsharp,Brandon Rodriguez,gordonjason@example.com,288-219-5977x21688,659.86,Amazon,8231,Mastercard,United States,78931 Franklin Drives Suite 284,Suzanneport,Arkansas,86662,2025-01-23,20,0
+garywebster,Anthony Arnold,amanda32@example.net,(404)314-4743,90.91,McDonalds,5055,American Express,United States,5993 Emily Street,East Barryborough,Arkansas,36807,2025-08-11,20,0
+jefferyanderson,Kathleen Jefferson,heathergarcia@example.com,001-530-228-1650x646,3074.06,Suspicious Site,8193,Visa,Pitcairn Islands,9377 Kelly Prairie,New Amandaberg,Wyoming,09812,2025-06-12,1,1
+vickidavis,Robin Good,harrisonnicholas@example.net,6293831043,175.8,McDonalds,6744,Discover,United States,2291 Sheila Manor Suite 080,Richardstad,Nebraska,52045,2025-04-20,17,0
+reyesjackie,Angela Hunt,dcox@example.com,001-644-540-7663,496.76,Walmart,1972,American Express,United States,650 Holland Lane,South James,Hawaii,51008,2025-02-01,11,0
+davistanya,Richard Wade,shelley85@example.com,+1-521-688-0879x91962,232.06,Shell,6302,American Express,United States,996 Walker Points,Lindaberg,Washington,37428,2025-08-13,10,0
+pamelaestrada,David Sanchez,stacyjohnson@example.net,611.758.7605,462.46,Shell,2560,Mastercard,United States,694 Rivera Motorway Suite 945,West Tammy,Nevada,49091,2025-05-14,18,0
+phillip98,Robert Jordan,david25@example.com,(808)409-5948x152,735.83,Target,3078,Mastercard,United States,9664 White Walk Apt. 074,East Micheal,Virginia,77637,2025-08-22,18,0
+hunter14,Michael Baker,johnmerritt@example.com,545-943-0796,125.53,Target,7434,Discover,United States,00817 Gillespie Divide,North Michealside,New Hampshire,12609,2025-08-06,11,0
+lucas35,Mary Stevenson,ryanbullock@example.com,447-501-7320x865,466.17,Target,7786,Discover,United States,7296 Fleming Lodge Apt. 370,West Rhondaton,Wisconsin,82984,2025-06-15,18,0
+lisarandolph,Timothy Richardson,johnsonsamantha@example.com,+1-522-314-2573x16094,69.66,Amazon,9447,American Express,United States,8172 James Flat,Deanstad,Virginia,20708,2025-05-03,14,0
+uthompson,Matthew Johnston,wbowers@example.org,001-459-253-3222x7393,369.21,Starbucks,1040,Visa,United States,7353 Jeremy Meadow Apt. 850,Sanderston,Oklahoma,60678,2025-01-11,13,0
+pauljimenez,Pamela Roman,patrickgarcia@example.com,426-315-8388,511.52,McDonalds,2037,Discover,United States,648 Chan Neck Apt. 574,East Jason,Indiana,91052,2025-08-21,13,0
+stephaniegillespie,Madison Webster,jon25@example.net,+1-292-822-5606x29535,774.82,Walmart,5399,American Express,United States,731 Amanda Groves,Suttonfort,Louisiana,14203,2025-07-16,15,0
+washingtonleslie,Tiffany Barton,eddie13@example.com,(760)884-6397,276.83,Shell,8951,American Express,United States,4705 King Cliffs,Lake Donna,Mississippi,11835,2025-04-12,10,0
+charles95,Devon Hudson,johnstonnicholas@example.org,001-257-487-5207,1660.8,Foreign ATM,1266,Visa,Andorra,62019 Davis Stream Apt. 241,New John,Virginia,56861,2025-08-03,23,1
+kford,Jennifer Knight,klewis@example.com,973.819.2276x0759,358.62,Amazon,4314,Mastercard,United States,39431 Crystal Light Suite 430,Hunterville,Georgia,06488,2025-02-07,14,0
+bellandrew,Robert Nelson,anna74@example.com,6008268764,135.59,Target,6905,American Express,United States,4979 Mclean Corners Suite 365,Vazquezton,Kentucky,43836,2025-01-08,9,0
+usanchez,Julie Johnson,kproctor@example.com,+1-727-571-1952x963,2801.45,Foreign ATM,1848,Discover,Australia,702 Bailey Estates Apt. 763,Evansland,Massachusetts,80989,2025-03-10,2,1
+cheryl54,Jeffrey Evans,karen43@example.com,001-541-649-1699x939,583.53,Walmart,2494,Visa,United States,743 Wiley Greens Apt. 882,East Brandon,Michigan,66103,2025-04-10,14,0
+ncummings,Maureen Patel PhD,cory21@example.org,001-597-620-2170x75485,2246.97,Unknown Store,4705,Discover,Norfolk Island,5792 Benjamin Branch Apt. 449,Charlesfurt,California,19949,2025-06-21,2,1
+ashleymorrow,Omar Kelly,kimberlyharris@example.com,365-589-6359x57086,1528.22,Suspicious Site,7919,Mastercard,Western Sahara,5843 Dominguez Locks,Walkerland,Iowa,71547,2025-05-11,1,1
+dyerkenneth,Ronald Moore,arthurwright@example.com,842.846.3104x379,65.95,Starbucks,2678,Visa,United States,85294 Mullins Causeway,Port Desiree,Tennessee,87357,2025-08-19,9,0
+esmall,Cole Johnson,mckenziebrown@example.org,+1-850-722-8946,300.37,Target,7270,Mastercard,United States,5233 Abigail Drives,North Derek,Florida,43779,2025-04-06,10,0
+lewisnatalie,Daniel King,ualexander@example.net,767-750-7627,64.05,Shell,3688,Discover,United States,024 Clark Common,East Jessica,Oklahoma,34358,2025-07-13,8,0
+jimmyrobinson,Tiffany Anderson,amberellis@example.net,001-601-972-2240x5076,580.72,McDonalds,3480,Discover,United States,7546 Cindy Village,West Brendan,Mississippi,84363,2025-05-09,19,0
+rmoore,Charles Wagner,whitelevi@example.org,001-556-968-4482,552.39,Walmart,2646,Mastercard,United States,379 Laura Courts,North Christopher,Arkansas,16128,2025-05-06,9,0
+youngmichael,Jennifer Hull,caldwellpatricia@example.org,607.740.3925x199,3563.51,Suspicious Site,8035,American Express,Christmas Island,171 Gregory Park Suite 433,Whitetown,Mississippi,38415,2025-02-05,3,1
+bennettnicholas,Robert Garza,mhorn@example.org,001-908-733-4447x0488,205.75,McDonalds,5065,American Express,United States,7020 Austin Lane,Charlesmouth,Illinois,89875,2025-04-17,9,0
+claire26,Matthew Moore,robert42@example.com,375.422.5920x6165,4467.62,Foreign ATM,4366,Mastercard,Sudan,59229 Wilson Islands,Robinsonberg,Pennsylvania,42148,2025-03-16,3,1
+phall,Nathan Moore,njackson@example.net,320-566-1549x8085,243.48,Amazon,4921,Discover,United States,138 Bradley Ports,Lake Melissa,California,84697,2025-01-20,20,0
+clintonpoole,Jacqueline Phillips,dawsonamanda@example.com,+1-368-776-4019,99.07,Starbucks,2163,Visa,United States,806 Zhang Terrace Apt. 006,New Sarah,New York,58466,2025-06-01,18,0
+usanchez,Patty Moyer,zcampbell@example.net,419-362-3421x9262,747.8,Walmart,7895,American Express,United States,04104 Cheryl Place,Port Teresa,Maine,96542,2025-04-26,14,0
+davismichelle,Roger Sullivan,barbara81@example.net,(883)818-0036,549.52,Starbucks,2195,Visa,United States,200 Michael Flat,New Matthew,Ohio,52409,2025-02-14,20,0
+smithcrystal,Christopher Sanchez,andreasmith@example.com,+1-926-892-9900,63.35,Target,1652,Visa,United States,76332 Nicole Parkway Suite 337,Mcculloughland,North Carolina,44570,2025-05-31,11,0
+dthompson,Jeffrey Torres,smithcharles@example.org,+1-382-933-9218x83527,410.22,McDonalds,9209,Discover,United States,067 Cruz Run Apt. 659,North Cynthia,Ohio,69005,2025-01-24,19,0
+john19,Lawrence Huber,murraywesley@example.org,(496)898-3845x720,564.43,Amazon,9791,Mastercard,United States,6862 Andrews Court Apt. 573,Christinashire,Oregon,21801,2025-03-23,18,0
+carrielambert,Alexa Wallace,olivia99@example.org,847.929.6694x179,76.04,Amazon,4329,Mastercard,United States,089 Parker Springs,Scottstad,Utah,81478,2025-07-21,16,0
+richard18,Lee Gordon,daniel73@example.com,285.636.9881x649,268.13,Shell,2083,American Express,United States,0928 Liu Islands Apt. 102,Taylormouth,Arizona,52498,2025-04-05,18,0
+smithamy,Roy Howard,carrilloaaron@example.net,001-583-905-7488,586.67,Walmart,5005,Visa,United States,185 Joyce Freeway Apt. 275,North Aaronton,Utah,45709,2025-06-20,8,0
+xgarcia,Maria Smith,paul18@example.com,001-993-478-4679x08701,101.63,Shell,1901,American Express,United States,001 Ronald Spurs Apt. 034,Kevinview,Florida,79334,2025-05-22,17,0
+longjoshua,Javier Barrera,xcardenas@example.org,706-822-1559x9672,104.36,McDonalds,1185,Mastercard,United States,21905 Jason Roads,Scotttown,Kentucky,65893,2025-03-14,10,0
+storres,Erika Harper,gnguyen@example.org,+1-735-507-1245,762.88,Shell,5247,Mastercard,United States,90036 Dominique Course,Lake Kimberlybury,Wyoming,84399,2025-02-03,16,0
+bsimpson,Kimberly Gardner,christinapeters@example.net,+1-358-752-2942x52516,110.28,Target,2934,Visa,United States,9171 Matthew Center Apt. 549,West Shaneport,Louisiana,62316,2025-02-24,19,0
+danielle52,Shane Dennis,daniel71@example.com,001-249-773-4493,647.62,Target,2046,American Express,United States,8803 David Forge,Millerland,Vermont,26851,2025-02-26,16,0
+ronaldjohnson,Joseph Thompson,gomezgrant@example.net,630.848.6251x5217,505.75,Starbucks,9368,American Express,United States,353 Burnett Tunnel Apt. 189,West Rogerfort,Illinois,38844,2025-03-08,15,0
+vcrawford,Patrick Mahoney,echapman@example.com,836.629.9946,3248.64,Foreign ATM,7024,Mastercard,United Kingdom,99990 Daniel Place Suite 739,New Rebeccamouth,Hawaii,12979,2025-06-16,2,1
+salvarado,Carolyn Phillips,jill88@example.com,+1-797-495-7285x759,620.93,Shell,2889,Mastercard,United States,022 Scott Prairie,Simonland,Florida,39722,2025-05-06,18,0
+daniellesolomon,Bradley Smith,karen84@example.com,214-536-7286x81123,12.03,Amazon,1753,Discover,United States,8119 Chelsea Overpass Apt. 459,Port Andrewshire,South Dakota,22380,2025-07-17,11,0
+dmcdonald,Charles Hensley,orichards@example.com,458-880-7053,312.55,Walmart,1579,Discover,United States,119 Kristin Common,East Susanside,Florida,75671,2025-08-22,10,0
+dennis55,Nathaniel Williams,vaughnmark@example.net,581-904-5024,264.22,Starbucks,6241,American Express,United States,1587 Nicholas Locks,South Christian,Vermont,46203,2025-05-01,19,0
+ncarroll,Robert Brown,simsamy@example.com,554-973-1566,3500.38,Unknown Store,1862,Mastercard,Montenegro,5116 Sanchez Springs,Lake Dennishaven,Kansas,62306,2025-04-26,0,1
+kjohnson,Jennifer Cannon,vortiz@example.org,928-716-4416x1019,645.43,Amazon,2129,Discover,United States,8464 Theresa Crossing,East Elizabethside,Alabama,18244,2025-04-27,14,0
+alanthomas,Jay Peck,bakerjonathon@example.com,218.893.9530x969,621.09,Target,2415,Discover,United States,4909 Glen Plain Suite 987,Monicastad,Delaware,93157,2025-02-26,13,0
+amanda72,Barbara Adams,andrewfaulkner@example.net,+1-311-964-0343,2791.22,Suspicious Site,5979,Mastercard,Costa Rica,5833 Richard Trace Suite 704,East Jennifertown,South Carolina,15275,2025-08-12,0,1
+james60,Carl Anderson,kristin04@example.org,+1-323-219-0577x2044,300.94,Starbucks,4201,Mastercard,United States,794 Annette Estate,Nathanbury,Oklahoma,84812,2025-01-18,20,0
+tklein,Mark Thomas,amy70@example.net,001-987-626-4963x2251,15.04,Starbucks,4817,American Express,United States,40432 Garcia Place,North Jamesfurt,North Dakota,57074,2025-01-24,8,0
+elewis,Joshua West,brianconrad@example.org,7955366219,4828.47,Unknown Store,6038,Visa,Ireland,57795 Brian Park,East Matthew,Oregon,02116,2025-01-07,23,1
+drobinson,Paul Johnson,fjackson@example.org,986.490.8716,428.55,Walmart,9061,Visa,United States,04546 Yolanda Creek,New Lindsey,California,62624,2025-07-17,14,0
+pscott,William Thomas,katherinecarter@example.org,(552)616-0252,572.21,Amazon,4792,Discover,United States,09447 Ware Lane,East Emilychester,Tennessee,82487,2025-03-25,8,0
+walkerdavid,Matthew Morrison,jennifer02@example.com,(359)785-1602x119,372.18,McDonalds,2565,Mastercard,United States,68649 Scott Point,Moodyhaven,Utah,55721,2025-01-31,9,0
+dgray,Kathryn Adams,ggreen@example.net,678.419.1907,69.12,Shell,8126,Mastercard,United States,4006 Phillip Stream,Port James,Massachusetts,30708,2025-03-08,8,0
+william47,Amanda Moore,audreyrose@example.com,762-720-2123x720,240.42,Target,7438,American Express,United States,30000 Wright Highway,Chavezshire,Delaware,80741,2025-01-02,20,0
+martinezdavid,Allison Friedman,cruzkaren@example.net,(932)273-7989,367.68,Walmart,4321,Mastercard,United States,85481 Castillo Green Suite 300,New Lisashire,North Carolina,36851,2025-06-12,9,0
+ryanzamora,Dana Griffin,millschristopher@example.org,+1-298-354-5829x42034,96.09,Amazon,8365,Discover,United States,53466 Sean Lane Suite 494,Reynoldsberg,Virginia,07535,2025-01-23,10,0
+josephschneider,Charles Carrillo,barkeredwin@example.org,+1-338-979-4026x2085,331.14,Shell,4401,Discover,United States,527 Kristine Knolls Apt. 642,West Wendy,Alaska,01604,2025-03-11,13,0
+christineriddle,Brenda Haynes,dunnglenda@example.org,+1-425-559-0461x0079,376.04,Amazon,3582,American Express,United States,6600 David Gardens,South Christopher,Colorado,95319,2025-07-28,9,0
+jamesstrong,Wanda Burton,belldavid@example.net,285-607-6653x446,41.86,Target,2494,Mastercard,United States,76346 Daniel Corners,Joelstad,New York,94765,2025-06-26,10,0
+tamaraparker,Debbie Bailey,amiller@example.net,(225)812-7267,323.03,Amazon,5896,American Express,United States,656 Melissa Harbor Apt. 976,Dixonview,South Carolina,38964,2025-04-23,18,0
+batesbelinda,Heidi Johnson,drakekevin@example.net,442.323.5434x0466,34.55,Starbucks,5093,Visa,United States,56495 Michael Ports,North Tara,Texas,91066,2025-03-07,15,0
+dawn11,Michael Snyder,amymiller@example.org,430.363.4359x488,90.51,Walmart,1195,Visa,United States,680 Sullivan Way Apt. 511,East Christopherstad,Maryland,26200,2025-06-05,9,0
+christopher23,Bailey Morales,cheryl86@example.org,472.218.6003,113.27,Starbucks,2376,American Express,United States,97899 Christopher Valley,Antoniotown,Indiana,39536,2025-08-06,13,0
+pli,Michael Adkins,jgill@example.com,3166259084,1576.3,Unknown Store,8265,Mastercard,Tanzania,550 Chase Mill Suite 358,Lake David,New Mexico,22320,2025-05-13,2,1
+amills,Richard George,espinozataylor@example.com,460-588-1972,4667.77,Suspicious Site,1699,Discover,Philippines,7718 Todd Villages Apt. 076,North Ianport,Oklahoma,02457,2025-06-09,1,1
+kristen78,Christopher Scott,james23@example.com,(721)969-0696,2087.96,Foreign ATM,7471,Discover,Eritrea,706 Fleming Knolls Apt. 691,New Melissa,Mississippi,91855,2025-06-27,23,1
+christopherbrown,Jason Evans,paulsmith@example.org,335.508.4243,2839.55,Suspicious Site,6799,Mastercard,Morocco,8481 Andrew Hollow,Lake Ronaldland,Alabama,41971,2025-07-23,2,1
+hernandezmicheal,John Diaz,zwolfe@example.net,239.753.4811,227.24,Starbucks,1567,Mastercard,United States,47642 Wagner Valley,Foleyville,Massachusetts,62427,2025-02-28,10,0
+manuel12,Angela Cole,grivera@example.org,695.497.8155,404.12,Shell,1999,Visa,United States,097 Jeremy Lights Apt. 244,Changstad,Wyoming,37225,2025-04-11,15,0
+cmcdonald,Jeremy Johnson,bruceporter@example.org,(664)578-3703x175,312.58,Starbucks,9614,Mastercard,United States,74148 Thornton Skyway,South Brendan,Oregon,23144,2025-03-20,11,0
+zjennings,Dr. Charlene Black,wendy76@example.com,820-976-3271x353,637.93,Starbucks,6883,Discover,United States,259 Jeffery Pines Suite 879,South Paulatown,Kentucky,68266,2025-08-06,20,0
+ogarza,Michael Deleon,jordanreed@example.org,+1-289-727-3961x59764,627.33,Target,9231,American Express,United States,567 Jillian Parkway,Portermouth,Minnesota,33883,2025-02-07,17,0
+willismichelle,Richard Green,thomasdalton@example.net,(373)320-2227,223.64,Amazon,4588,Visa,United States,5769 Tanya Coves,Martinport,Hawaii,81344,2025-07-29,13,0
+daniel48,Juan Johnson,shelbyhouston@example.net,2393220269,56.29,Starbucks,6856,Mastercard,United States,64710 Payne Ways Apt. 770,Port Whitney,Montana,25931,2025-04-16,16,0
+beasleygina,Doris Gonzalez,robertellis@example.com,269-531-7294x763,89.11,McDonalds,5366,Visa,United States,654 Eric Keys,Danielbury,West Virginia,79761,2025-02-23,11,0
+whaynes,Joshua Miller PhD,shortjeffrey@example.net,8497602667,464.8,Starbucks,3846,Mastercard,United States,2845 Brianna Greens,Andrewtown,North Carolina,72083,2025-04-14,13,0
+barnestyler,Jason Pitts,bradleysmith@example.net,692-590-2215,478.09,McDonalds,6878,Visa,United States,4890 Glenn Estate,Susanbury,Indiana,23217,2025-01-02,19,0
+johnjones,James Pearson,maurice01@example.net,001-535-545-0369x8884,758.57,Shell,4084,Discover,United States,24362 Anderson Valleys,West Anneside,Tennessee,30711,2025-01-30,10,0
+karen12,Amy Deleon,nedwards@example.net,+1-620-712-3763x177,254.15,Starbucks,2478,Visa,United States,10629 Davidson Port Apt. 759,New Davidfurt,New Hampshire,10464,2025-06-16,8,0
+olsonjesse,Tony Wyatt,thomas28@example.net,(446)612-0961x7300,485.31,Amazon,8831,Visa,United States,40321 Michael Forks Suite 505,West Jasonberg,Connecticut,76770,2025-06-01,16,0
+john08,Karina Garza,josejacobs@example.org,(442)221-8834x581,735.14,Walmart,3137,American Express,United States,770 Vasquez Light Apt. 332,Gomezstad,South Carolina,07993,2025-02-09,20,0
+qmoran,Jeffrey Brown,dana58@example.net,282.656.7262,735.84,Target,1359,Mastercard,United States,2925 Bradshaw Wall Suite 519,Jacksonburgh,Idaho,24561,2025-07-26,8,0
+fischeramanda,Robert Peck,tjackson@example.com,(486)439-4201,566.71,Walmart,2817,American Express,United States,1499 Brooke Turnpike,New Jacquelinechester,Montana,22814,2025-07-17,20,0
+awilliams,Dennis Guerra,maria09@example.com,(532)517-4003x91019,2807.57,Foreign ATM,2655,American Express,Heard Island and McDonald Islands,922 Kenneth Mountain,North Stefaniebury,Missouri,01259,2025-06-14,23,1
+hhanna,John Johnson,hcampbell@example.net,001-760-576-2643x8500,264.86,Walmart,8157,Discover,United States,34617 Hopkins Walks Apt. 133,Wilsonview,Maine,93896,2025-01-23,19,0
+mevans,Jasmine Hill,darren37@example.org,676.485.7606x349,147.62,Shell,6846,Mastercard,United States,6175 Garcia Plaza,Smithland,New York,81729,2025-05-26,19,0
+geraldterry,Christopher Castro,xparker@example.com,872-634-5653,653.42,Starbucks,5825,Mastercard,United States,025 Mejia Land Apt. 626,West Haleyburgh,Illinois,68097,2025-04-13,12,0
+bryan00,Crystal Baxter,timothy42@example.org,(643)859-9009x3781,585.78,McDonalds,7415,Visa,United States,7614 Stanley Pike,Joshuamouth,Arkansas,52429,2025-06-22,17,0
+danielsshannon,Savannah Johns,paula72@example.net,(236)281-5418x5899,485.89,Shell,2705,Discover,United States,7291 Kimberly Inlet,Blakemouth,Tennessee,74176,2025-04-02,11,0
+theresa56,Jessica Rogers,perezjohn@example.com,(498)433-0677x30671,271.62,Amazon,6682,American Express,United States,6794 Christina Trail,Romerohaven,Nevada,43636,2025-02-21,11,0
+erica06,Daniel Perry,erin28@example.net,+1-387-960-5504x922,512.59,Amazon,6500,Discover,United States,8618 Vega Mills,South Peterburgh,Arkansas,09640,2025-04-06,19,0
+beckyhayden,Alexis Lee,katiehicks@example.net,798-527-1826,2428.24,Unknown Store,6742,American Express,Sierra Leone,1708 Short Inlet,Georgeshire,Maine,21175,2025-01-08,1,1
+teresamiller,Tina Turner,rodriguezmichael@example.net,+1-567-206-9219x587,4021.45,Unknown Store,8179,Discover,Heard Island and McDonald Islands,824 Anna Passage Suite 302,South Jennyville,Nebraska,62298,2025-04-29,23,1
+hughesnicholas,Mary Byrd,nicole89@example.org,564-992-8150,708.8,Starbucks,6754,Discover,United States,70926 Williams Causeway,North William,Ohio,04622,2025-05-03,14,0
+gibsonrichard,Lindsay Perry,denisetownsend@example.com,350.307.2889x59274,4400.82,Foreign ATM,3664,Discover,Italy,9196 George Mountains,Myerstown,Oklahoma,04838,2025-05-06,2,1
+allendavid,Peter Thompson,qlee@example.com,435-296-2458x701,4297.18,Unknown Store,1328,American Express,Saint Pierre and Miquelon,242 Lewis Ranch Apt. 912,South Michael,Alabama,24439,2025-05-11,3,1
+ashley60,James Juarez,andersonkaren@example.org,(952)740-5536x4818,761.81,Amazon,3787,Discover,United States,036 Pittman Pass Apt. 159,Boltonbury,North Dakota,48924,2025-03-07,13,0
+mjenkins,Crystal Johnson,mroman@example.net,664.491.2594x97220,588.27,Shell,6536,Discover,United States,26992 Patrick Locks Apt. 799,Thompsonstad,Missouri,80490,2025-08-22,9,0
+briannamclaughlin,Morgan Wright,karen76@example.net,477.279.2560x41348,3009.63,Foreign ATM,8113,Mastercard,Mali,315 Carrie Summit Apt. 912,South Alejandro,Alabama,09217,2025-03-10,2,1
+pearsondominique,James Larsen,fryekevin@example.net,+1-730-449-1341x03897,1854.4,Unknown Store,7705,American Express,United Arab Emirates,09986 Wall Lights Suite 224,West Christineberg,Arkansas,68473,2025-02-13,2,1
+marie09,Wendy Patterson,deanjose@example.net,(529)280-5682x0175,244.95,Amazon,7437,Discover,United States,661 Armstrong Neck Apt. 404,Port Sheila,New York,34268,2025-01-29,8,0
+louisbrandt,Karen Montgomery,ddavis@example.com,273.421.7503x6192,53.06,Amazon,2435,American Express,United States,991 Zachary Fields Apt. 703,Jessicaport,Maryland,36553,2025-07-20,14,0
+andrea04,Alexander Brady MD,kimedwards@example.org,7763519170,389.46,Amazon,4390,Mastercard,United States,328 Miller Knoll Suite 340,New Laurahaven,Alabama,45630,2025-03-24,8,0
+daniellindsey,Russell Green,pcaldwell@example.net,+1-716-607-7004x09304,781.88,Starbucks,6052,Discover,United States,403 Gregory Unions,Lake Jasonfurt,Montana,21514,2025-07-01,9,0
+allennathan,Kristen Cohen,courtney07@example.net,+1-802-665-2951,396.39,McDonalds,2493,Discover,United States,933 Matthew Mall Apt. 303,Evanstown,North Carolina,66984,2025-08-02,12,0
+gfreeman,Lisa Webb,carlsonblake@example.net,001-819-891-8431x132,303.11,Starbucks,4056,Discover,United States,58485 Matthew Union,Allenville,Delaware,78357,2025-06-05,13,0
+phillipsshawn,Victoria Thomas,jeremiah70@example.com,645.844.7082x3171,2421.54,Suspicious Site,4706,American Express,Samoa,953 Fisher Turnpike,Larachester,Florida,53905,2025-02-12,3,1
+jacqueline96,Heidi Cherry,kaitlynjones@example.net,702-257-8703x6860,58.7,McDonalds,2584,Visa,United States,06636 Nathan Curve Apt. 640,North Micheleshire,Arizona,78143,2025-01-29,18,0
+brianyang,Briana Taylor,matthew37@example.com,001-279-253-1926,648.46,Starbucks,4727,Visa,United States,27574 Scott Groves Apt. 054,Heathermouth,Iowa,67845,2025-01-22,20,0
+mccoydavid,Jean Soto,justincombs@example.com,001-756-862-2952x17970,656.54,Starbucks,8779,Mastercard,United States,36162 Weaver Burgs Suite 047,Port Robert,Montana,02602,2025-02-01,16,0
+lauren15,Alyssa Brooks,erinjones@example.org,+1-416-471-5605x87905,246.09,Starbucks,1568,Mastercard,United States,1339 Parker Port Suite 064,Jasonmouth,Vermont,61782,2025-05-19,19,0
+jennifer19,Angela Day,vgraham@example.com,001-969-636-5618x335,4822.39,Suspicious Site,3738,Mastercard,Niue,8057 Kelsey Gardens Suite 718,Johntown,Tennessee,13642,2025-05-14,2,1
+anthonyward,Daniel Jefferson Jr.,rlewis@example.org,796.544.0282,109.69,Starbucks,8133,Mastercard,United States,7699 Jonathan Mill,Sellersburgh,Iowa,94994,2025-05-07,9,0
+denise02,Clarence Johnston,haley01@example.com,+1-433-228-4423x471,668.95,Target,2097,Visa,United States,5154 Martinez Loaf Apt. 756,East Andreabury,Delaware,04361,2025-01-01,13,0
+pkramer,Christopher Ayala,uhaney@example.org,(277)877-3316,449.53,Shell,5525,Discover,United States,7070 Angelica Center Apt. 605,Gavinhaven,Maryland,18231,2025-05-30,13,0
+lunabenjamin,Michael Luna,rachaelnelson@example.net,+1-867-458-2676x2590,4252.93,Foreign ATM,9561,Discover,American Samoa,63856 Bautista Stream,West Ashleyview,Massachusetts,78490,2025-04-26,0,1
+danschaefer,Miss Laura Washington,megan91@example.com,+1-486-809-9550x493,2950.55,Unknown Store,2641,Visa,Singapore,3223 Barry Courts Apt. 128,Lake Michelleville,Michigan,81230,2025-03-10,0,1
+jeremy00,Catherine Cole,derricklee@example.net,447.442.2567x87188,625.84,Target,6633,Discover,United States,8870 Sandoval Vista,Carloshaven,Arkansas,50887,2025-06-15,16,0
+heidiscott,Jennifer Mcdonald,peter58@example.com,+1-879-349-6383x09723,312.6,Starbucks,8750,Visa,United States,092 Miller Locks,North Corey,Massachusetts,47205,2025-08-02,17,0
+acohen,Erin Wade,wmorris@example.com,951.724.7640x0068,227.58,Walmart,7581,Visa,United States,240 Jones Light Suite 451,East Patricia,Maryland,34581,2025-01-17,17,0
+afitzpatrick,Ryan Harris,bbarr@example.org,635.470.1703x63094,712.76,Target,4892,Visa,United States,602 Laura Isle,New Cherylside,Iowa,04485,2025-08-21,19,0
+julie34,Alexandria Carrillo,colonthomas@example.com,001-572-745-2841,737.46,Target,6535,American Express,United States,480 Stewart Canyon Suite 356,Evanshaven,Alabama,75610,2025-03-18,8,0
+ashleyrhodes,Lauren Burton,taylortoni@example.org,(494)742-0315,231.47,Starbucks,2609,Mastercard,United States,073 Hernandez Forks Apt. 977,Mitchellchester,New Jersey,48024,2025-05-25,19,0
+douglascarl,Nancy Holder,jamesmason@example.net,(895)486-8419,247.38,McDonalds,6257,American Express,United States,326 Jillian Lake,Moranview,Hawaii,60695,2025-04-10,15,0
+hcarter,Samuel Ramos,cruzhunter@example.net,415.618.1788,487.93,Amazon,8237,Mastercard,United States,5594 Dean Ramp,South Sarahbury,Florida,60816,2025-06-21,11,0
+desireewilson,Theresa Johnson,nicoleperez@example.net,001-600-965-4870,595.35,Shell,1920,Mastercard,United States,541 Fisher Island Suite 398,Port Natalieside,Ohio,82331,2025-06-12,13,0
+dcurry,Heather Brown,jmorrison@example.net,958-896-2683x8488,2588.93,Foreign ATM,3222,Visa,Costa Rica,07612 Brittney Springs,East Dannytown,South Dakota,44244,2025-06-24,23,1
+mooreashley,Kelly Hughes,dixondennis@example.org,+1-970-466-9010x7923,162.28,Walmart,5087,Visa,United States,8933 Whitehead Pass,Stanleymouth,Arizona,32300,2025-06-19,8,0
+fishermark,Jennifer Stone,wendylee@example.com,001-770-277-3123x155,49.94,Target,4262,American Express,United States,0521 Williamson Spring Apt. 844,Bradleystad,North Carolina,70938,2025-02-19,19,0
+collinskyle,Mr. Thomas Garcia,sharonlevine@example.com,3362871568,660.57,Shell,3029,Visa,United States,9780 Jesse Hollow Suite 568,Josefort,Oregon,38963,2025-01-06,14,0
+lorihenderson,Tiffany Olsen,reynoldssharon@example.net,473-978-3159x75729,304.25,Shell,3909,Discover,United States,86830 Annette Corners,Angieport,Tennessee,21954,2025-08-25,15,0
+jeremyevans,Willie Watson,courtney48@example.org,001-966-607-3446,445.55,Target,5237,Visa,United States,15958 Santos Road Suite 491,Browntown,Michigan,02221,2025-08-13,10,0
+chasebeck,Juan Brewer,patricia13@example.com,476-409-4837x740,31.69,Amazon,4511,Mastercard,United States,3302 Nixon Roads Suite 099,Mannburgh,Delaware,73616,2025-07-31,10,0
+dbennett,Paul Fritz,egraham@example.org,(456)534-2022,545.38,Target,7709,Visa,United States,980 Rachel Fords Suite 683,Freemantown,Connecticut,62675,2025-07-24,18,0
+murphycynthia,Jamie Hill,jensenjason@example.com,274-365-6426,3159.34,Unknown Store,1138,Mastercard,Mexico,72631 Moss Row Suite 955,Lake Ian,Utah,57998,2025-03-31,2,1
+lisa49,Daniel Garrison,aaron25@example.com,434-544-8672,490.59,Target,5511,Discover,United States,7331 Buckley Harbor,Simonland,Mississippi,90499,2025-04-25,19,0
+eduardodavis,Richard Ellis,ulawrence@example.org,920-940-9543,682.75,Starbucks,4575,Discover,United States,1830 Shaw Circle Apt. 873,West Jamieland,Massachusetts,12572,2025-08-11,12,0
+jeremy78,Mark Landry,tuckeramy@example.net,210.896.8564x257,544.98,Shell,2676,Visa,United States,69331 Mcmahon Fall,North Richard,Arkansas,24708,2025-02-16,14,0
+susanreynolds,Matthew Dunlap,leonardruth@example.org,(941)214-2066,799.55,Target,5631,American Express,United States,1459 Andrew Wall,Colemanbury,Indiana,97518,2025-05-04,16,0
+derektaylor,William Hall,jackthompson@example.com,(520)319-0113x4843,3186.08,Suspicious Site,6327,American Express,Congo,252 Moses Crescent,East John,Rhode Island,33814,2025-03-21,3,1
+vshelton,Eric Mason,kendra49@example.com,(502)849-8663x42095,528.33,McDonalds,4086,Mastercard,United States,734 Thompson Mountains Apt. 561,Haleyfurt,Montana,49119,2025-07-12,12,0
+adamskathryn,Christopher Cobb,harveyrobert@example.com,447-653-3695,614.72,Amazon,7620,American Express,United States,6653 Clark Prairie Suite 298,Julieberg,Maine,27049,2025-07-27,20,0
+lsnyder,Brian Wells,danielleboyer@example.net,(238)835-4346x85863,579.81,McDonalds,5843,American Express,United States,8249 Lawrence Freeway,South Colebury,Utah,66049,2025-01-20,15,0
+gprince,Melissa Davis,andrewdrake@example.com,(860)972-0148,329.63,McDonalds,4111,American Express,United States,264 David Crossing,Raymondborough,Pennsylvania,39540,2025-07-05,8,0
+usanders,Sara Goodman,paulpark@example.com,001-663-339-1729x94036,552.19,McDonalds,8794,American Express,United States,66497 Christine Mission,South Evelynside,Iowa,29133,2025-03-19,20,0
+johnsonstephanie,Gregory Ayala,wilsonkimberly@example.org,001-694-690-1333,247.15,Walmart,3967,American Express,United States,6734 Juan Views,Christopherton,California,57407,2025-04-27,18,0
+benjaminmcknight,Anna Morales,beth91@example.org,3428028866,3147.73,Foreign ATM,3999,American Express,United States Virgin Islands,199 John Divide,Port Kaylaview,North Carolina,97850,2025-08-10,3,1
+angela20,Craig Coleman,qcunningham@example.org,391.538.6015x7117,2277.89,Unknown Store,7889,American Express,Turkey,194 Wendy Hollow,Caldwelltown,Hawaii,68757,2025-05-12,3,1
+robertsdavid,Julia Chen,derrick71@example.net,567.385.7646,215.84,Target,2929,Discover,United States,107 Mendez Creek,Martinezshire,Maine,22694,2025-03-01,15,0
+davidcampbell,Michael Miller,jeff06@example.net,+1-662-361-6845x52527,4532.38,Foreign ATM,2166,Discover,Afghanistan,547 Sarah Mountain,Abigailstad,Nevada,51675,2025-05-24,0,1
+tinajohnson,William Haynes,ryan56@example.org,(458)742-2717x266,405.38,McDonalds,9680,American Express,United States,0460 Johnson Canyon Apt. 441,North Valerie,Missouri,67248,2025-06-03,14,0
+qcallahan,Michael Wallace,mcdowelladam@example.net,(468)590-4172x82076,52.71,Walmart,4281,American Express,United States,52232 Henry Point,West Alexander,Louisiana,62241,2025-03-19,10,0
+aliciahoward,Linda Johnson,christopher84@example.com,+1-913-451-1350x535,789.88,Starbucks,6183,Mastercard,United States,892 Latasha Mews,Davidstad,New York,73445,2025-08-21,10,0
+bwarren,Joshua York,jacobsoncurtis@example.com,001-953-841-9528x144,3206.53,Foreign ATM,6134,Visa,South Georgia and the South Sandwich Islands,2802 Darlene Spring Apt. 063,Tylerside,Tennessee,93610,2025-08-18,2,1
+stevenrichards,Charles Walker,pking@example.net,(699)205-5855x7599,3082.19,Unknown Store,3595,Discover,Mayotte,90696 Hannah Knolls Apt. 898,Smithland,Washington,06854,2025-04-03,2,1
+ostevens,Donald Wallace,millerlucas@example.com,(613)568-1498x02530,1952.92,Suspicious Site,7609,Discover,Lesotho,929 Phillips Hollow Suite 725,New Julianburgh,Kansas,98011,2025-02-03,23,1
+grant48,Andres Miller,kylecortez@example.com,669.215.8557,312.82,Amazon,4267,American Express,United States,79602 Martin Mission Apt. 333,New Laura,Utah,79115,2025-03-10,16,0
+sarahcharles,Joshua Cochran,rperez@example.org,(496)362-9917,4622.02,Foreign ATM,1293,Visa,Libyan Arab Jamahiriya,92204 Richard Plains Apt. 153,South Patrick,Indiana,62739,2025-07-23,2,1
+fostervalerie,Nicole Maddox,combsbrenda@example.net,3482502206,188.75,Target,3112,Visa,United States,333 Montgomery Overpass,Millerton,Alabama,08120,2025-06-03,12,0
+jeannewong,James Lopez,nicholas47@example.org,555.494.0799x23045,407.64,Target,2069,Visa,United States,67781 Rivera Highway,Grossbury,New Hampshire,02185,2025-07-05,10,0
+mendezsierra,Michael Lyons,moraelizabeth@example.com,(366)750-5276x12092,759.29,Starbucks,9524,American Express,United States,061 Eric Gardens Apt. 167,Johnsonfort,South Dakota,56544,2025-02-18,19,0
+derekgonzalez,Mr. Kevin Jones,nicholasreid@example.net,285-263-7114x2943,711.5,Walmart,9031,American Express,United States,375 Ashley Plain,Port John,Vermont,10088,2025-02-19,13,0
+samuel98,Jamie Clark,ifischer@example.net,417-283-7659x153,140.26,Starbucks,4742,Mastercard,United States,40652 Long Ferry,Wallacebury,Mississippi,08838,2025-07-10,8,0
+rwhite,Gregory Rivers,tracydavenport@example.net,(456)497-6487x8496,176.84,Amazon,9267,Mastercard,United States,451 Kurt Road Apt. 506,New Robert,Missouri,70471,2025-08-09,17,0
+thomasemily,Pamela Christensen,ldawson@example.net,450.397.9344,2783.07,Foreign ATM,7147,American Express,Bulgaria,6502 Kristin Highway,Murraytown,Maine,45706,2025-08-19,1,1
+ihodge,Sean Carter,stevensjames@example.net,+1-282-614-7823x372,502.28,Shell,2771,Visa,United States,67670 Gonzalez Roads Apt. 286,North Daniel,Florida,20364,2025-01-07,8,0
+vancejennifer,Kathy Adams,xmontoya@example.net,433.867.9608,3914.12,Suspicious Site,7230,Visa,Luxembourg,360 Bowman Glen,Pamelaberg,Alaska,74201,2025-08-22,23,1
+tramirez,Ashley Lopez,christy19@example.org,(200)211-5461x758,209.66,McDonalds,4366,Visa,United States,890 Scott Cliff,West Bryanbury,California,46188,2025-04-07,10,0
+charles35,Mark Garcia,thomasellis@example.com,903.909.0168x56471,342.49,Amazon,9524,American Express,United States,19027 Richard Rest Apt. 716,North Michaelfurt,Nevada,68312,2025-08-20,18,0
+millerashley,Janice Kelly,elizabethmoore@example.org,705.805.8353x4581,488.45,Walmart,2718,Visa,United States,2853 Crane Gateway Apt. 426,Hopkinsville,New Jersey,92303,2025-04-25,14,0
+jonesmark,Tanya Patterson,njacobs@example.org,001-530-628-5327x27669,100.07,Amazon,4254,Mastercard,United States,50252 Harding Meadow Apt. 308,Meyerstown,Ohio,74465,2025-08-07,15,0
+normakirby,Pamela Walker,stephanieleon@example.com,211.284.2527x863,666.88,Walmart,7713,American Express,United States,1210 Jennifer Harbors,East Kenneth,Maine,64576,2025-02-21,13,0
+baileydonna,Melissa West,ndavis@example.net,(819)697-1659x65667,41.13,Starbucks,8875,American Express,United States,968 James Tunnel,Allenstad,Georgia,21666,2025-08-10,11,0
+sierra65,Jimmy Gonzalez,daviddavis@example.org,001-743-990-7054x73601,12.16,McDonalds,2809,Discover,United States,50101 Fletcher Drive,Smithhaven,Arizona,18136,2025-04-06,9,0
+elizabethkirk,Linda Boyer,jeffreyroberts@example.net,001-335-671-9214x967,760.06,Shell,2659,American Express,United States,86643 Andrew Fords Apt. 726,Diazhaven,Georgia,41182,2025-04-04,9,0
+joseph92,Kathleen Anderson MD,norrisjessica@example.net,(708)360-1460,370.83,Target,8606,Visa,United States,543 Tyler Crescent,Bestborough,Washington,07974,2025-07-28,12,0
+vanessaflores,Matthew Robinson,lisadavis@example.org,9093089931,4346.12,Unknown Store,6901,American Express,Saint Lucia,8028 Matthew Harbors,West Amyburgh,South Carolina,90015,2025-01-12,3,1
+brandonbaker,Jeremy Coleman,kaylalong@example.net,+1-608-912-2681x5947,593.45,Amazon,1751,Visa,United States,3110 Becker Forest,North Michelle,Nevada,65669,2025-08-09,20,0
+smontgomery,Anna Richards,burgessdonald@example.com,+1-937-965-0167x671,534.05,Walmart,6857,Discover,United States,88363 Gardner Shores Suite 016,South Sandra,Idaho,78111,2025-02-07,13,0
+creynolds,Melissa Smith,sethsanders@example.com,322-489-8907x49935,221.96,McDonalds,7105,American Express,United States,9777 Ryan Rapids Suite 640,New Mike,West Virginia,70257,2025-01-06,9,0
+glasssamantha,Donna Mejia,mcclainkimberly@example.com,989.339.1295x6518,99.93,Starbucks,5453,Discover,United States,8600 Ayala Avenue,West Joseph,Virginia,84203,2025-02-12,15,0
+fhoffman,Joel Williams,dawnschroeder@example.net,801.212.5018,641.92,McDonalds,3732,Visa,United States,2906 Hernandez Falls Apt. 336,Port David,Oklahoma,02555,2025-04-02,20,0
+smithstephanie,Alicia Taylor,kristen66@example.org,697-853-7405x714,559.97,Amazon,2699,Discover,United States,7406 Mccormick Lake Suite 453,Markland,Louisiana,50415,2025-06-05,10,0
+ggomez,Paul Adams,kristinhoffman@example.org,+1-458-262-6736x64853,391.31,Shell,8178,Mastercard,United States,5870 Sanchez Trail Suite 983,Kevinchester,Rhode Island,91007,2025-03-21,18,0
+kellykathryn,Emma Brown,carlsonamanda@example.com,920.907.3429x390,310.0,Target,1472,Mastercard,United States,729 Nelson Turnpike,Elizabethtown,Kansas,74193,2025-08-08,17,0
+fishermatthew,Ashley Johnson MD,evansmatthew@example.net,(981)643-5312,737.11,Amazon,8220,Visa,United States,79531 Daniel Garden,Barbaraview,Hawaii,53074,2025-03-26,14,0
+jmontoya,Sara James,lindacooper@example.net,7856738385,2415.65,Suspicious Site,9598,Mastercard,Guam,6091 Mario Common,Wadeport,Minnesota,47356,2025-03-16,1,1
+haleyhale,Jennifer Wells,perryjames@example.com,361-421-5756x264,420.09,McDonalds,2560,Discover,United States,84818 Myers Bridge Apt. 693,New Marisabury,Alaska,31286,2025-08-07,19,0
+stephanie67,Emily Johnson,jennifer98@example.org,(267)631-2343,390.72,McDonalds,7305,Mastercard,United States,42025 Richard Lakes Apt. 282,North John,Florida,62285,2025-03-27,18,0
+scott72,Amy Higgins,brittany44@example.org,383-243-6953,714.73,Shell,1190,Mastercard,United States,977 Erika Coves,Alfredberg,Utah,77118,2025-01-28,8,0
+yjacobs,Toni Lamb,klewis@example.net,462-491-0873,680.59,Starbucks,2226,Discover,United States,836 Kristin Mills,Lake Steven,Wyoming,63945,2025-01-27,10,0
+howardannette,Katherine Ramos,michael99@example.net,453-204-4500,200.3,Target,9305,Mastercard,United States,683 Peters Bypass,Lake Shelby,South Dakota,45880,2025-07-28,8,0
+brookeshaw,James Young,nelsoncassandra@example.net,546.875.4182,518.22,Starbucks,2291,Discover,United States,13827 Charles Well,Craigbury,Louisiana,49691,2025-01-15,11,0
+erik01,Matthew Jackson,glennwise@example.net,516.381.6360,643.0,Starbucks,9166,Discover,United States,69078 Wong Meadow Suite 200,West Davidview,Vermont,94515,2025-01-24,9,0
+levyrobin,Jeffrey Adams,monica08@example.net,612-737-0851x19194,103.78,Starbucks,1291,Visa,United States,6972 Cooper Loaf Apt. 927,Jimenezbury,New Hampshire,58978,2025-06-24,19,0
+wattsemma,Nicole Mathis,brendamorales@example.org,001-566-978-3055x7371,335.75,Shell,1002,Visa,United States,22346 Kevin Turnpike Suite 627,Harrisborough,Alabama,39410,2025-08-14,16,0
+jonesstephen,Melinda Thompson,brookskenneth@example.org,296-686-3647,770.91,McDonalds,9328,Mastercard,United States,6896 Mcintosh Forge Suite 883,North Joshuabury,New York,90011,2025-05-23,12,0
+richardperez,Pamela Ray,juliethomas@example.net,+1-612-270-6593x410,760.78,Target,4652,Discover,United States,291 Amy Extension Apt. 824,Martinezborough,Alaska,11970,2025-05-08,8,0
+xhorton,Jennifer Brown DVM,erica89@example.net,001-484-497-4997x9905,452.52,Shell,8751,American Express,United States,1148 Gibbs Mall,Zacharyville,Oklahoma,81740,2025-05-07,17,0
+cooleypatricia,Billy Lewis,richard31@example.com,812.397.5572,100.08,McDonalds,1035,American Express,United States,496 Tony Points Apt. 193,South Alyssaburgh,Vermont,06708,2025-01-27,11,0
+dawnsmith,William Bailey,dannywalker@example.net,661.231.7985,665.61,Target,9552,American Express,United States,9037 Carolyn Summit,Nathanmouth,North Carolina,29980,2025-03-22,16,0
+pmckee,Sylvia Kelley,hernandezmelissa@example.net,392.425.5174,1660.22,Unknown Store,3301,Discover,Gibraltar,476 Rebecca Coves,Lake Jacob,Arizona,16428,2025-06-15,23,1
+mhall,David Summers,lucas15@example.com,709.230.7968,2390.01,Unknown Store,2978,Discover,Pakistan,459 Taylor Harbors Apt. 899,Lake Daniel,New Mexico,83869,2025-07-04,2,1
+markbautista,Jennifer Romero,wileyjason@example.net,636.470.7217x3402,371.07,Walmart,6536,Visa,United States,241 Lisa Circle,Nunezbury,Idaho,96644,2025-02-25,19,0
+kyle01,Ariel Gibbs,joseph48@example.com,(902)843-5094,46.74,McDonalds,3018,Discover,United States,118 Sandoval Junction Suite 409,Dakotafort,Minnesota,25719,2025-05-28,18,0
+merritttaylor,Ronald Anderson,veronica90@example.net,(661)410-3565,530.18,Shell,9172,Visa,United States,23766 Aguilar Manors,Port Gary,Minnesota,31136,2025-02-24,10,0
+qdavis,Austin Carson,chelseasmith@example.net,442.542.4066,591.61,Shell,8912,Mastercard,United States,3348 Stephanie Glens Apt. 751,Grahamview,Washington,05387,2025-05-01,14,0
+lisa24,Justin Reyes,angelacooper@example.com,635-909-5288x959,147.18,Walmart,7347,American Express,United States,96964 Clark Rapid,Port Michellefurt,Michigan,06373,2025-03-03,9,0
+langalexandra,Philip Yates,joshua88@example.com,944.696.6866,706.3,Starbucks,5067,American Express,United States,61706 Christopher Green Suite 110,Port Alexandra,Virginia,59225,2025-01-25,17,0
+wcastillo,Nicholas Smith,chase86@example.org,+1-716-274-4923x43596,771.24,Target,3185,Mastercard,United States,0566 Todd Inlet Apt. 242,Jonesside,Pennsylvania,22497,2025-08-02,15,0
+cmartinez,Erin Baird,ambersavage@example.com,(226)848-1638x49368,485.99,McDonalds,5897,American Express,United States,8530 Andrew Common,South Andrea,Missouri,79286,2025-03-21,16,0
+aaroncarter,Shannon Hernandez,hstevens@example.com,001-670-536-5620x36344,509.74,Walmart,5760,American Express,United States,8963 Daniel Cliffs Apt. 335,Frazierland,New Mexico,94094,2025-07-19,11,0
+westjeffrey,Jeremy Ramirez,steven62@example.net,(926)636-7850x89897,785.26,McDonalds,9255,American Express,United States,9443 Combs Station Suite 295,South Kara,Kentucky,04105,2025-08-17,10,0
+thomasowens,Diana Baker,andrewdelacruz@example.com,951.549.7534x115,4162.71,Foreign ATM,7839,American Express,Pakistan,99000 Rodgers Underpass,Watsonstad,Washington,66854,2025-02-05,23,1
+jennifer53,Tina Cook,vdiaz@example.org,226.360.0047,648.56,Shell,1414,Discover,United States,34956 Christian Spurs,Bassland,Colorado,72278,2025-01-25,9,0
+wayne74,Billy Cross,fwest@example.net,+1-268-770-4796x6682,51.92,Amazon,5374,Mastercard,United States,6599 Smith Row,West Jenniferbury,Vermont,30851,2025-01-01,11,0
+audreylopez,Dustin Smith,mary39@example.net,(622)914-0513x18660,549.88,Walmart,5835,Mastercard,United States,3389 Jon Street Suite 247,Michelleberg,Alabama,25139,2025-03-19,8,0
+julian02,Courtney Wagner,marygay@example.net,001-566-247-7413x1351,35.52,Starbucks,4675,Discover,United States,8534 Barton Place,West Jasonhaven,Wyoming,71013,2025-03-28,9,0
+heatherburns,Hailey Dean,lambalexandra@example.net,+1-512-586-5581x67592,413.63,McDonalds,1769,Discover,United States,348 Amy Stravenue,Lake Brianborough,Ohio,09024,2025-07-14,12,0
+ilopez,Vicki Thompson,curtisfranklin@example.com,001-773-409-1218,339.09,McDonalds,1881,Visa,United States,41146 James Corner Suite 553,North Malikton,Illinois,08219,2025-07-11,13,0
+alex78,Michael English,jward@example.com,+1-355-476-6345x41829,170.44,Starbucks,7025,Mastercard,United States,945 Brian Inlet Apt. 910,Bonillafurt,Tennessee,50378,2025-06-13,11,0
+smithpaula,Sarah Acosta,ernestwright@example.net,968-726-8221,242.4,Walmart,2220,Mastercard,United States,69962 Allison Roads Suite 791,North Michaelbury,Florida,87277,2025-07-09,18,0
+travis28,Amber Harris,anthonychoi@example.net,448.759.7243x871,590.71,Amazon,1665,Discover,United States,5205 Jasmine Drive,Smithfurt,Arizona,38254,2025-05-11,14,0
+laceydecker,Jason Howard,olivia47@example.com,001-895-809-0418x985,449.71,Walmart,5178,Visa,United States,01655 Trujillo Forges Suite 888,Lunafurt,Minnesota,56281,2025-06-15,10,0
+charlesprice,Jennifer Anderson,meganjohnson@example.org,938-360-4794,378.4,Walmart,3518,American Express,United States,80351 Vincent Pike,Jessicaside,Hawaii,94644,2025-05-15,8,0
+charles14,Justin Williams,jesus72@example.net,795.516.7309,50.18,McDonalds,5934,Discover,United States,670 Lin Trace,Briggshaven,West Virginia,54747,2025-07-17,17,0
+norman29,Holly Alvarado,moniquemoore@example.org,001-780-818-3235x306,444.63,Amazon,6207,Mastercard,United States,676 Shaw Ridge Suite 458,South Teresa,Washington,37296,2025-05-17,20,0
+fcook,Mark Miller,wmorris@example.net,001-359-628-9748x741,421.28,Shell,7814,Discover,United States,267 Hodges Villages Apt. 997,Scottbury,Louisiana,80864,2025-04-07,10,0
+charles56,Brian Powell,uyoung@example.org,5932582016,2722.91,Unknown Store,6424,American Express,Belize,722 Thomas Pine Suite 834,South Patrick,Oklahoma,06899,2025-05-15,3,1
+ryan01,Shelly Arellano,alan33@example.com,+1-801-853-7358,182.57,Shell,8780,Visa,United States,55446 Michael Prairie Apt. 609,Washingtonview,West Virginia,53309,2025-05-31,16,0
+tylerwilliams,Daniel Schaefer,claire11@example.net,001-728-756-7285x021,3841.28,Suspicious Site,4994,Visa,Saint Helena,307 Peterson Island,North Robin,Missouri,24407,2025-04-09,2,1
+sherriwood,Jose Roberts,jsmith@example.net,001-707-351-9919x81775,311.28,Amazon,5203,American Express,United States,441 Munoz Expressway,Jamieville,Nevada,36623,2025-05-27,14,0
+abigailchambers,Richard Rogers,cnelson@example.com,(565)690-7055x494,4689.68,Suspicious Site,9335,Discover,Cyprus,771 Heath Union Apt. 209,Katrinaton,New York,53574,2025-08-13,0,1
+kennethrodriguez,Kirk Owens,beckdaniel@example.com,+1-447-473-4943x1487,44.64,McDonalds,6248,Visa,United States,7856 Garcia Junctions Suite 741,Fergusonstad,New Jersey,28549,2025-05-27,11,0
+edward28,Jake Tran,todd94@example.com,(481)566-0284x136,2085.88,Foreign ATM,1120,Visa,Croatia,0407 John Valley Suite 147,Lebury,Maine,16817,2025-05-12,0,1
+ashley08,Kathryn Campbell,djohnson@example.org,296.210.1759,539.56,Walmart,7950,Visa,United States,0679 Andrews Overpass,Haynesburgh,North Dakota,41474,2025-03-16,18,0
+sandersjane,Robert Lane,elizabethtownsend@example.net,(276)935-3673x55896,434.83,McDonalds,8130,Visa,United States,2288 Joseph Corner,East Lauren,Connecticut,99235,2025-02-15,19,0
+jonesjake,Susan Collins,nreid@example.org,(263)957-9671x48030,28.76,McDonalds,1620,Visa,United States,6582 Holloway Passage,Port Matthew,Texas,54906,2025-02-26,13,0
+qpacheco,Rebecca Thomas,lpatterson@example.org,422-832-1425,1689.94,Suspicious Site,2154,Mastercard,Belize,789 Megan Valleys,Phillipmouth,New Hampshire,35117,2025-05-30,0,1
+nicholas53,Michael Stewart,sandra18@example.org,001-385-513-6738x05203,332.03,Starbucks,7626,Discover,United States,684 Amanda Harbors Suite 146,East Anthony,California,34715,2025-06-06,18,0
+jamesmorris,Stephanie Rodriguez,njackson@example.com,2302876477,23.34,McDonalds,9762,Visa,United States,761 Kimberly Lane Apt. 950,Fisherfort,Vermont,09109,2025-05-31,9,0
+susanporter,Joshua Singleton,qhoffman@example.com,686-793-0326,59.96,McDonalds,1745,Visa,United States,9674 Brianna Corner Suite 053,South Kristenview,Oregon,04851,2025-08-17,17,0
+obrewer,George Stanley,thorntoncaitlyn@example.net,8184158913,743.16,Amazon,5937,Visa,United States,0742 Susan Gateway Apt. 936,Port Nancy,Hawaii,53130,2025-07-08,12,0
+granthenderson,Nicole Pierce,rrichardson@example.net,6295335838,614.57,Starbucks,7473,Visa,United States,65735 Timothy Junction,Nicholasborough,Wyoming,90975,2025-06-17,14,0
+johnsonfrank,Anthony Morton,hernandezamy@example.org,295-558-9799,133.5,Walmart,7406,American Express,United States,717 Miller Oval Apt. 305,Masonton,Oregon,40276,2025-01-18,10,0
+renee60,Victor King,kathleenwelch@example.net,233-276-8418x76776,245.46,McDonalds,7113,Visa,United States,3459 Rhodes Skyway Apt. 173,East Jeremiahview,Pennsylvania,55577,2025-06-27,18,0
+wcook,Dr. Deborah Oneill,chankevin@example.com,+1-709-847-3181,701.07,Walmart,1684,Visa,United States,4270 Wheeler Vista,Lisaport,New Mexico,54706,2025-07-17,9,0
+rodrigueztimothy,Kaitlyn Parker MD,emily56@example.com,728.697.2269x348,481.36,Shell,2394,American Express,United States,90984 Rice Keys,Smithchester,Missouri,95340,2025-05-20,16,0
+sandrafinley,Jennifer Robinson,sarahcasey@example.com,2975777957,601.15,McDonalds,4469,Discover,United States,63779 Natasha Valley Suite 110,Malonestad,Delaware,17542,2025-05-12,13,0
+qjackson,Jennifer Rasmussen,karlmartin@example.org,+1-830-623-9934x46060,122.54,Walmart,5140,Mastercard,United States,069 Pena Field,Samuelfurt,Massachusetts,18926,2025-05-22,11,0
+taylormatthew,Dr. Andrew Reyes,jon85@example.com,+1-675-431-1980,2134.75,Foreign ATM,9992,Discover,Guyana,2805 Terri Loop Suite 255,South Angelachester,Oklahoma,69973,2025-06-01,1,1
+bstephens,Amanda Bowen,garywright@example.org,901.995.8663x9928,67.78,McDonalds,5107,Visa,United States,731 Solis Valley,Ashleychester,Idaho,76034,2025-07-13,9,0
+ksexton,Eric Simmons,jameswhite@example.net,407.200.5102x87451,583.22,Starbucks,6851,Mastercard,United States,201 Ward Lakes,Carlview,North Dakota,65812,2025-05-27,13,0
+brownpamela,Carlos Owens,chanmichael@example.com,+1-597-544-2036x07854,89.04,Shell,4170,American Express,United States,587 Rachel Spurs,South Amanda,Tennessee,01872,2025-04-12,9,0
+linmatthew,Brittany Taylor,vjones@example.net,+1-258-319-7015,366.01,Shell,6008,Mastercard,United States,9720 Michael Ports Apt. 018,New Jennifer,Minnesota,17059,2025-02-26,18,0
+taracole,Derrick Holland,karenrichards@example.net,(891)558-5511,457.82,Target,3762,Visa,United States,49207 Rivas Mount Suite 142,Annamouth,Kansas,76892,2025-04-08,14,0
+manderson,Timothy Young,thompsondenise@example.com,001-673-967-7244x3435,204.48,Walmart,8145,American Express,United States,96571 Mckee Terrace Suite 380,New Ruth,Arkansas,30174,2025-03-06,19,0
+davidsondavid,Sean Woodward,leashley@example.org,+1-816-457-3762x426,116.1,McDonalds,8863,Discover,United States,4920 Robert Rapid,North Caitlin,Colorado,94588,2025-08-15,13,0
+gaineserika,David Raymond,goodwinjack@example.org,(441)547-5690x0184,293.41,Target,2783,Mastercard,United States,9847 Martin Ports,Port Laura,Wisconsin,85354,2025-06-30,15,0
+scohen,Mr. Timothy Bird,michellesmith@example.org,(262)547-3650,74.76,Target,9824,Mastercard,United States,909 Jacqueline Roads,South Kevinmouth,Nebraska,09355,2025-07-24,10,0
+kevin78,Ryan Thornton MD,kleinjustin@example.net,916.797.9206,589.5,McDonalds,2235,Visa,United States,393 Blanchard Spur Suite 904,Melissashire,Idaho,90795,2025-03-24,9,0
+ogrant,Craig Wilcox,mcclainjohn@example.com,645.333.0236,508.98,Shell,7637,Mastercard,United States,47409 Lee Viaduct,Moorebury,Iowa,45962,2025-01-11,17,0
+rossdavid,Erin Fuentes,xerickson@example.com,387-309-4042x24564,3430.58,Foreign ATM,8734,Mastercard,Nauru,5125 William Via,South Kelliland,Pennsylvania,12445,2025-07-20,0,1
+rebecca53,Emily Woodward,jensennancy@example.org,575-257-1663x28246,320.07,Shell,5767,Mastercard,United States,62185 Young Curve Apt. 076,West Bobberg,Arkansas,41709,2025-05-24,19,0
+wmason,Jennifer Griffin,torresgina@example.net,(408)909-0101x46103,405.89,Amazon,6961,Visa,United States,930 Lloyd Lock,South Shawnaside,North Dakota,15427,2025-04-07,14,0
+uzimmerman,Joseph Cohen,cgalvan@example.com,+1-209-265-6882x6728,679.91,Shell,3717,Mastercard,United States,72081 West Roads Apt. 735,Campbellmouth,North Dakota,29766,2025-06-22,18,0
+chungjeffrey,Lindsey Farley,dakota45@example.com,+1-883-867-1467x490,135.79,Shell,3395,Discover,United States,5185 Barry Corner Suite 456,West Elizabethstad,Montana,27662,2025-08-25,17,0
+saradavis,Mario Gonzales,allenjohnson@example.com,956.953.3777x30316,41.93,Starbucks,2029,American Express,United States,261 Campbell Orchard,North Melissa,Georgia,34923,2025-06-07,11,0
+stephaniemoses,Frank Barrett,kenneth08@example.net,001-909-498-3976x7388,194.87,McDonalds,9485,American Express,United States,1630 Lauren Trail Suite 383,North Anthonyland,Maine,29782,2025-03-16,11,0
+christine30,William Ramirez MD,redwards@example.com,001-762-489-7351x89622,381.04,Starbucks,1653,American Express,United States,6002 John Curve Apt. 405,Manningmouth,Connecticut,24677,2025-03-27,8,0
+april04,Jose Fuller,rogersrobert@example.com,6816239278,3963.08,Foreign ATM,5314,Mastercard,Libyan Arab Jamahiriya,863 Miller Dam,Myersmouth,Oklahoma,37443,2025-03-13,3,1
+alexismoore,Melissa Hernandez,elee@example.org,437.814.5031x180,526.4,Target,2275,American Express,United States,914 Cassandra Gateway Suite 061,West Shawnland,North Carolina,74931,2025-07-17,17,0
+rivaslisa,Lisa Gross,rhuber@example.net,(247)568-8341,778.41,Walmart,7649,American Express,United States,41318 Daniel Walks Apt. 405,Lake Janeburgh,Massachusetts,83886,2025-01-28,16,0
+collinsshannon,Jennifer Armstrong,laura67@example.org,787-983-1031x4564,394.62,Starbucks,1108,Mastercard,United States,75794 Spencer Grove,East Jasonmouth,Kentucky,34353,2025-05-27,17,0
+osmith,Brian Perez,christopher64@example.org,3602326753,140.83,Amazon,5600,Mastercard,United States,6310 Anthony Place Suite 546,East Marcfurt,Arizona,51422,2025-08-09,16,0
+brownscott,Jennifer Greene,ohampton@example.net,994.984.8170x36100,157.66,Target,2938,Mastercard,United States,77375 Larson Valleys,Port Veronica,Arizona,58716,2025-05-06,17,0
+huynhcharles,Michael Henderson,haneyjoshua@example.org,(814)944-1559,650.83,McDonalds,8889,Discover,United States,33849 Mercer Junctions Suite 239,South Kimberlytown,Indiana,95776,2025-02-25,9,0
+rebeccawalter,Emily Neal,paulpowell@example.com,561.697.7317,176.46,Walmart,7732,Visa,United States,248 Robbins Drive Apt. 858,Hodgebury,South Carolina,20611,2025-07-25,18,0
+qtran,Michael Ritter,joshuagonzalez@example.org,001-779-967-0605x58173,44.08,Shell,3639,Mastercard,United States,16250 Terry Radial,West Karen,Montana,40118,2025-04-05,17,0
+ssmith,Lori Murphy,osmith@example.net,001-734-427-1866x925,40.96,Shell,1916,Mastercard,United States,0926 Adrian Shores,Port Susanville,Texas,98784,2025-01-14,10,0
+roger61,Julia Hoffman,tammy98@example.org,(613)800-8823,738.73,Shell,1305,American Express,United States,867 James Forge,North Josephview,North Dakota,16867,2025-04-28,14,0
+pfry,Jennifer Santana,tara61@example.net,(521)388-2206,2258.08,Foreign ATM,8891,Mastercard,Malta,1761 Maria Drives Apt. 641,Lawsonchester,North Carolina,25309,2025-03-17,23,1
+gutierrezsteven,Russell Hernandez,marquezjessica@example.net,(852)582-6712,665.99,Shell,3979,American Express,United States,499 Singleton Expressway Apt. 529,Gillview,Maryland,90127,2025-05-04,10,0
+laurieburgess,Michael Weaver,wigginsnicole@example.org,933-306-4098x0587,582.11,Target,2127,Mastercard,United States,5906 Kimberly Pines Suite 902,Barbaraberg,Alaska,93986,2025-06-22,15,0
+dmckay,Jason Mercado,bfoster@example.org,(735)784-1802,314.51,Amazon,4315,Discover,United States,3793 Davila Walk Suite 519,West Jennifer,Louisiana,89916,2025-01-21,8,0
+mendozajay,Thomas Smith,whernandez@example.com,+1-276-211-2584x2330,488.35,Walmart,1639,Visa,United States,3082 Courtney Route Apt. 873,Port Daniel,New Mexico,90016,2025-06-19,15,0
+christopherfields,Jeffery Gomez,amy22@example.org,320.819.7084x2874,3187.84,Unknown Store,9835,Visa,Pitcairn Islands,9636 Jones Road,Michaelland,Utah,93480,2025-01-05,0,1
+nicole08,Eric Medina,jennifer26@example.org,500.736.0722,422.41,Target,9680,Discover,United States,83034 Natalie Route,Jamesmouth,Michigan,27332,2025-05-17,8,0
+jsaunders,Kristina Lin,pittsjenna@example.org,566-596-8740,751.35,Starbucks,7246,American Express,United States,5441 Perry Mews,Bakermouth,Alabama,04515,2025-06-12,20,0
+kelly58,Gary Rios,jrussell@example.net,(828)809-2411x50509,645.65,McDonalds,2600,Discover,United States,315 Jeanette Landing,Lake John,Hawaii,17954,2025-06-06,17,0
+nguyenmary,Jesus Wallace,jimmy40@example.net,001-347-762-5395x011,211.07,Walmart,5641,Discover,United States,5862 Griffin Plains,South Billy,Colorado,58846,2025-03-07,9,0
+montesandrew,Heather Barrera,mannbrittany@example.org,+1-761-642-2935,159.33,McDonalds,1116,Visa,United States,205 Elliott Mills Suite 779,North Erinmouth,Pennsylvania,72361,2025-02-22,19,0
+katherine76,Jessica Wright,millerpaul@example.net,001-458-397-0152,15.68,McDonalds,6175,Discover,United States,68960 Rose Flat,Stephenland,Florida,88531,2025-05-01,11,0
+adrianmcneil,James Rodriguez Jr.,jessicaarmstrong@example.net,799.427.1560x3387,94.2,Starbucks,5155,American Express,United States,898 Hunt Cove Suite 397,Hortonton,Virginia,75011,2025-01-03,18,0
+ruiztyler,Kevin Carr,kimberly57@example.net,+1-744-641-0769x2626,344.61,Target,5514,Discover,United States,7591 Johnson Union,Johnshire,Tennessee,68054,2025-02-19,17,0
+stephanie90,Larry Patton,ucox@example.com,937.556.8167x84340,336.45,Shell,3928,American Express,United States,1776 Nicole Spur,West Diane,Tennessee,82606,2025-01-01,15,0
+paulmoore,Mike Mason,alexander36@example.net,001-395-428-5023,448.38,Target,6641,Discover,United States,3273 Benson Station Suite 149,Mooreton,Illinois,18805,2025-08-18,12,0
+josephfreeman,Ricky Rivera,richardsjennifer@example.com,(557)802-0061x741,685.45,McDonalds,4764,Discover,United States,5947 Rodriguez Estate Apt. 893,Lake Dylantown,Nebraska,43089,2025-01-08,9,0
+jgarcia,Chase Good,dianachen@example.com,(744)268-5304x5555,89.22,Shell,6544,Visa,United States,3560 Jimenez Trafficway,Sandraborough,Iowa,85195,2025-02-02,14,0
+mhodge,Lindsay Baker,hjohnson@example.org,001-236-996-2690x222,317.39,McDonalds,2492,Mastercard,United States,0617 Ryan Mountain Apt. 151,North Brian,Pennsylvania,27866,2025-03-01,8,0
+bryantcarol,Susan Reyes,arnoldjames@example.org,001-239-919-2969x21053,741.43,Starbucks,2049,American Express,United States,26008 Nicole Pass,Lake Steven,West Virginia,37165,2025-02-13,9,0
+stewartchristine,Nicolas Nichols,jmccormick@example.org,8632228012,302.96,Shell,7296,Discover,United States,6658 Taylor Groves Suite 609,Cardenastown,Tennessee,56414,2025-07-30,8,0
+scott45,Joel Chavez,eneal@example.com,+1-784-907-0946,528.38,Target,1941,Mastercard,United States,0612 Ashley Drives Suite 268,Port Carolhaven,Georgia,53067,2025-06-12,19,0
+zimmermankatelyn,Jeffrey Smith,michellejones@example.net,(705)366-8803x16647,356.79,Walmart,9489,American Express,United States,9831 Kathleen Greens,New Gail,Kansas,49401,2025-06-09,18,0
+christopher60,Larry Rowland,angela87@example.org,001-917-308-6715x207,36.55,Shell,9451,Mastercard,United States,4043 Roger Plaza,Jessicafurt,New Hampshire,92171,2025-02-05,16,0
+robert05,Anna House,williamstaylor@example.org,485.502.0502x5497,143.89,Amazon,4919,Visa,United States,10297 Conway Turnpike,Adamsmouth,Utah,91310,2025-06-04,13,0
+danielle96,Sean Huerta,jonathan25@example.org,(694)220-4164x1537,78.61,Target,7544,American Express,United States,33793 Clarke Underpass Suite 997,Fergusonfurt,Wyoming,01129,2025-07-18,20,0
+matthew17,Matthew Marsh,christina68@example.net,744-899-0803,330.31,Walmart,1251,Visa,United States,0574 Rivera Port,Clarkview,Mississippi,32415,2025-03-17,16,0
+gdoyle,Bruce Holt,bartlettapril@example.net,584-466-8985,3423.57,Foreign ATM,6703,American Express,Belarus,9618 Brian Shoals,Cummingsborough,Tennessee,36545,2025-06-14,0,1
+richbill,Matthew Barnes,michaelfaulkner@example.com,+1-420-355-4829x87819,188.77,Walmart,7618,Visa,United States,4984 Torres Avenue Suite 293,Mullenfort,Washington,72281,2025-08-06,15,0
+lhatfield,Jeffrey Ellis,drogers@example.com,(929)926-7698x897,148.28,Shell,2185,American Express,United States,4584 Blake Cliff Apt. 401,Lake Shari,Vermont,28423,2025-04-09,9,0
+vazquezsydney,Michael Cook,travisbonnie@example.com,(538)890-1248x4479,758.14,Shell,9813,American Express,United States,1156 Taylor Curve Apt. 070,Rogersview,North Dakota,04466,2025-07-25,12,0
+curtisjohnson,Joanna Bradshaw,johnlewis@example.com,+1-327-418-6244x75631,773.18,Shell,4985,American Express,United States,80782 Ryan Union,South Robertmouth,Vermont,39666,2025-03-24,15,0
+william63,Gabriel Whitaker,millsanthony@example.net,+1-882-852-1288,548.46,Shell,8896,Visa,United States,9469 Thompson Parkway,Lake Mary,Maine,59353,2025-07-29,8,0
+eric31,Sara Jackson,udavis@example.org,420.936.6864,63.37,McDonalds,4610,Mastercard,United States,626 Lopez Divide Suite 603,North William,New Mexico,59330,2025-05-13,20,0
+samuel10,Maxwell Perez,josephschultz@example.net,001-257-635-6232x770,335.82,Target,9776,Visa,United States,58597 Bruce Crossroad Suite 322,Lisamouth,Alaska,41418,2025-06-18,16,0
+bobby25,Dylan Jenkins,tinaflynn@example.com,+1-604-811-6788x1596,206.12,Amazon,6603,Visa,United States,86569 Kenneth Harbors Suite 673,East Jennifer,South Carolina,09748,2025-08-17,14,0
+justinguzman,John Norris,smithmelinda@example.org,694.259.9426,745.8,Starbucks,6792,Mastercard,United States,0895 Brian Crossroad Apt. 339,Lake Davidhaven,New York,12443,2025-07-25,13,0
+othomas,Jeff Weber,patricia81@example.org,+1-701-853-3743,222.57,McDonalds,4115,Discover,United States,27728 Jones Island Suite 596,Stevenshire,Texas,39274,2025-03-25,18,0
+vpeterson,Jacqueline Richardson,mario36@example.org,001-517-714-8541,195.54,Walmart,4387,Mastercard,United States,525 Lisa Circle,Shannonhaven,Tennessee,66118,2025-02-08,12,0
+fosterlawrence,Lisa Mckinney,evansrebecca@example.com,545-220-3027x6947,669.6,Shell,3555,Visa,United States,0353 Jennifer Course,Lake Victoria,Maine,01760,2025-06-24,13,0
+brandilutz,Dylan Houston,johnstonchristopher@example.net,280-252-5795,4720.66,Foreign ATM,1108,Visa,Finland,412 Rebecca Islands Suite 601,Port Danielport,West Virginia,96165,2025-08-20,23,1
+laurie57,Daniel Wang,dholt@example.com,+1-361-427-3421,303.25,Target,5501,Discover,United States,91381 Benjamin Highway,Annburgh,South Carolina,69398,2025-08-14,15,0
+hawkinsdeanna,Laura Byrd,lisa23@example.org,001-519-790-8213,787.67,Shell,7518,Mastercard,United States,317 Jesus Meadows Suite 704,South Christopherborough,Vermont,72309,2025-08-02,12,0
+montgomerypamela,Karen Johnson,rodriguezjennifer@example.org,3346495607,111.31,Shell,7933,Discover,United States,5077 Potter Drives Suite 723,Port Nicholasborough,Delaware,52192,2025-01-07,20,0
+eileenmoyer,Angela Pearson,stewartpamela@example.com,9392963066,35.72,Target,3863,Discover,United States,9946 Sanders Rapids,Port Jennifer,Wyoming,32983,2025-02-21,14,0
+fbrown,Michael Mills,harringtonbethany@example.org,708-963-3234x306,3943.86,Suspicious Site,1137,Visa,French Polynesia,888 Cindy Run Apt. 375,Port Beckyburgh,Georgia,69261,2025-07-21,3,1
+robin25,Gail Hill,yolanda13@example.net,001-519-960-3482x36788,309.75,Amazon,6924,American Express,United States,9323 Antonio Square,South Jonathan,Mississippi,68511,2025-03-15,13,0
+rroach,Nancy Acevedo,corey37@example.org,(906)931-7552,443.37,Walmart,8722,American Express,United States,14584 William Creek Suite 415,Thompsonville,Virginia,41343,2025-06-18,12,0
+esnow,James Garcia,mlowery@example.com,718-692-6055,155.29,Starbucks,7866,American Express,United States,4268 Noah Terrace Suite 377,West Lindsayborough,Maine,89191,2025-03-06,11,0
+juan59,Jason Coleman,halladam@example.org,896-922-7238,684.92,Target,3947,Mastercard,United States,217 Peter Pines Apt. 850,Marymouth,Alaska,77240,2025-02-15,15,0
+normancassandra,Michael Meadows,stephenschad@example.com,001-240-234-8484x377,551.95,Amazon,5422,Mastercard,United States,79595 Kevin Falls Suite 449,Pattersonmouth,Maine,18613,2025-07-17,19,0
+skirby,Sarah Anderson,gary00@example.org,(317)834-4794x59235,351.45,Starbucks,3389,Mastercard,United States,326 Blankenship Passage,Higginston,Arkansas,12362,2025-04-16,11,0
+ghawkins,Michael Campbell,shane13@example.org,594-584-1423x552,646.48,Walmart,9185,Mastercard,United States,87567 Donna Causeway Apt. 656,Danafort,Connecticut,11352,2025-03-22,14,0
+nicoledaniel,Joseph Travis,rmoyer@example.net,+1-841-607-9116x114,431.85,Target,8972,American Express,United States,1198 Bruce Ports Suite 542,Morganfort,Indiana,96402,2025-07-12,20,0
+tara23,Nathan Webb IV,dellis@example.com,+1-481-325-3251,454.09,Shell,7527,Visa,United States,226 Armstrong Prairie,New Robertfurt,Nebraska,95923,2025-01-05,8,0
+uward,Kirsten Lewis,stephen64@example.com,001-982-210-0370x90703,57.43,Target,2577,Discover,United States,693 Benjamin Union Apt. 983,Williamberg,Utah,91628,2025-06-13,15,0
+isharp,Jason Sutton,ebailey@example.com,+1-445-365-7267x65419,215.22,Target,5222,American Express,United States,477 Smith Valley Apt. 345,Port Edward,Idaho,57840,2025-08-20,16,0
+ocarr,Calvin Paul,michael57@example.org,709.307.4063,2941.16,Suspicious Site,4259,Mastercard,Jersey,24767 Martinez Junctions Apt. 799,North Jenniferstad,Indiana,52856,2025-06-21,0,1
+nburke,Johnathan Hall,david85@example.net,(328)237-2372x2593,290.54,McDonalds,8987,Discover,United States,70089 Thomas Fords,Selenaton,Indiana,97895,2025-04-16,16,0
+james33,Lynn Medina,amandarichardson@example.net,001-712-357-8047x37198,2833.75,Suspicious Site,3373,Mastercard,Lesotho,680 Phillips Vista Suite 442,West Tracyside,Iowa,61261,2025-05-28,23,1
+ryanjohnson,Charles Holloway,deborahewing@example.net,(988)959-3428x83903,343.24,Shell,7631,Visa,United States,315 John Court,Katherinechester,Minnesota,48054,2025-07-04,17,0
+andersonalexander,Shawn Doyle,xlittle@example.org,(573)447-6714x9986,2067.0,Unknown Store,6191,American Express,Monaco,910 Allison Ferry Suite 276,East Dakota,Minnesota,74685,2025-06-29,3,1
+rebeccaalexander,Michael Perry,christina94@example.org,789.555.4656,488.25,Starbucks,8289,American Express,United States,0873 Brian Streets,North Eileenmouth,Indiana,50330,2025-06-09,12,0
+feliciadudley,James Norton,jenniferserrano@example.org,001-334-387-4939x1660,421.54,Starbucks,3741,Mastercard,United States,048 Foster Stream,Lake Scottberg,Nebraska,41073,2025-03-14,14,0
+jayala,Lori Gonzalez,npalmer@example.com,+1-641-776-0909x3716,1937.64,Unknown Store,2311,Mastercard,Northern Mariana Islands,45734 Graham Ports,Jonathanfort,Indiana,90765,2025-08-16,3,1
+ambertate,Natasha Hartman,david90@example.net,566-951-8378x47719,323.67,Amazon,8752,Visa,United States,45096 Montgomery Parkway Apt. 625,East Johnhaven,Oregon,85032,2025-05-21,9,0
+zramirez,Margaret Baker,kennethgolden@example.com,586-995-2121x560,4198.27,Foreign ATM,2702,American Express,Bahrain,803 Parrish Manor,Patricktown,Maryland,77493,2025-07-10,1,1
+thomasgreen,Jeffrey Sloan,sandovalnicole@example.com,722-715-0396,132.67,McDonalds,6068,Mastercard,United States,819 Bobby Village Suite 158,East Jay,Florida,71779,2025-04-09,14,0
+osmith,Emily Smith,jacksonmatthew@example.com,980.310.1245,592.7,Starbucks,3071,Mastercard,United States,8061 Lawson Trail,East Robinstad,Arizona,47194,2025-03-21,18,0
+powersjodi,Sandra Ray,bmiller@example.net,717.208.0492x9328,672.43,Amazon,6846,American Express,United States,196 Eric Ramp Apt. 321,West Barbara,Hawaii,18165,2025-01-10,8,0
+blake03,Michael Walls,hcrawford@example.net,(862)474-8066x112,379.08,Shell,9987,Discover,United States,306 Hahn Meadow,Tracyland,Hawaii,14940,2025-01-28,12,0
+pwilliams,Bradley Martinez,michellepage@example.org,+1-299-833-0255x98792,775.94,McDonalds,3900,Discover,United States,14596 Megan Prairie,Schultzshire,Wisconsin,53527,2025-07-23,16,0
+rasmussenmichael,Brandon Thomas,kirbylaura@example.org,916.341.8044x60819,353.63,McDonalds,9745,American Express,United States,83469 Baker Port Suite 060,Mariahaven,Arizona,54760,2025-07-16,18,0
+zbaker,Justin Sutton,ashley07@example.com,(794)914-2904,390.5,Walmart,2467,Discover,United States,2538 Gibson Terrace Suite 919,Jamesville,Montana,37947,2025-04-28,20,0
+smartinez,Jaime Stone,taylorkimberly@example.net,(229)576-1166x2866,298.97,Target,5973,Visa,United States,824 Walter Ranch Suite 701,Woodburgh,New York,98282,2025-04-27,10,0
+bradley15,Kathleen Anderson,lovedylan@example.org,623-852-5600x858,3331.61,Unknown Store,5698,Discover,Turkey,2150 Mejia Branch,Rebekahbury,Michigan,26612,2025-07-01,3,1
+jenniferrobertson,Jason Murphy,keithhernandez@example.org,(510)391-2944,16.57,Starbucks,8816,American Express,United States,140 Hunt Greens Apt. 779,Lake Morgan,Arizona,99634,2025-02-05,20,0
+simmonsalyssa,Daniel Dean,shawdenise@example.org,+1-796-924-2657x89635,4180.54,Suspicious Site,4788,Visa,Korea,2634 James Throughway Suite 254,Julieberg,South Dakota,42696,2025-02-18,0,1
+jonessteven,Kristin Lopez,riveratraci@example.com,853-888-2872x04767,305.18,Starbucks,8161,Discover,United States,082 Evans Squares Suite 120,Edwardsland,Utah,28700,2025-06-19,16,0
+mpeters,Jacob Brady,randydavis@example.net,2748144301,138.98,McDonalds,7385,Discover,United States,4529 Velazquez Knoll,Collinsborough,Indiana,09561,2025-05-22,18,0
+hdavis,Heidi Perez,paigefloyd@example.com,(596)697-0100,217.75,Starbucks,4924,American Express,United States,4997 Rodgers Plains,Lisachester,South Dakota,09521,2025-06-23,18,0
+masseythomas,Travis Ferrell,darrellarmstrong@example.org,594.537.6382x7490,522.28,Shell,5404,Discover,United States,22395 Hawkins Mill,West Shannonville,Maryland,96424,2025-08-12,20,0
+laurenpeters,John Garrison,adam03@example.com,(465)460-0762x2821,684.25,Walmart,5744,Visa,United States,386 Timothy Turnpike,Kathrynberg,Nevada,34766,2025-06-17,10,0
+carolgonzalez,Edwin Maxwell,qhudson@example.org,(566)704-8531x2344,498.01,Target,9060,Mastercard,United States,811 Jarvis Union Suite 512,Howardtown,Missouri,98721,2025-02-25,19,0
+wellsjasmine,Michael Hurley,hking@example.org,665-495-5859,25.32,Amazon,1362,Mastercard,United States,379 Sandra Fords,Leefurt,Michigan,76024,2025-04-28,16,0
+bross,Karen Diaz,michaelhansen@example.org,541.274.9195,2487.4,Unknown Store,1134,Mastercard,Mexico,67233 Erin Overpass Suite 150,North Charlesbury,South Carolina,14429,2025-03-21,23,1
+parkerisaac,Wesley Porter,katherinegreen@example.net,+1-601-308-6164x790,2027.39,Suspicious Site,6601,Discover,Guam,80679 Murray Fort Suite 720,Wilsonburgh,Wisconsin,25885,2025-04-19,2,1
+rtorres,Jack Lindsey,rpollard@example.com,+1-371-355-7932x770,630.72,Starbucks,8597,Visa,United States,9177 Colleen Falls Suite 096,Richardside,Vermont,70760,2025-07-25,13,0
+cwebster,Kelly Nunez,wgonzalez@example.net,(579)443-3644x7026,73.38,Walmart,5366,Discover,United States,7659 Stokes Union Suite 587,Cruzview,Pennsylvania,83471,2025-03-04,8,0
+wgarner,Mark Rodgers,melissa45@example.net,2246053772,3401.17,Unknown Store,5097,Discover,Philippines,3945 Joel Valley Suite 480,Warrenstad,Iowa,70243,2025-02-21,2,1
+sara93,Lawrence Wright,vturner@example.net,3407737304,1926.87,Foreign ATM,7304,Discover,Afghanistan,24051 Leah Divide Suite 583,Welchchester,Indiana,26989,2025-07-31,2,1
+pmcdonald,Michael Cuevas,vshields@example.org,332.773.9974,592.72,Amazon,8550,Visa,United States,94101 Harold Overpass,Williamsside,Delaware,89900,2025-07-27,11,0
+danny48,Stanley Alvarez,mharris@example.org,6619443575,536.15,Walmart,7375,American Express,United States,0526 Jacob Mountain,Lake Richardhaven,New Mexico,44294,2025-04-13,15,0
+fbrown,Suzanne Weaver,pughcarol@example.org,001-661-339-1237x7459,135.3,McDonalds,9534,Visa,United States,76870 Rangel Parkways,South Bethton,South Dakota,99307,2025-04-06,8,0
+david06,Jon Sheppard,kathleenbecker@example.com,884.783.0348x573,390.17,Target,6905,Visa,United States,044 Timothy Passage Apt. 903,Port Shannonhaven,Kansas,87430,2025-07-06,11,0
+john16,Joseph Reese MD,stacy40@example.net,+1-995-793-0320,778.89,Walmart,8113,American Express,United States,52699 David Lake Apt. 302,Jamesbury,Alaska,79196,2025-07-14,18,0
+reneehoward,Heather Costa,anthonyharper@example.net,354-402-7320,2085.76,Suspicious Site,2960,Discover,Tonga,18500 Anderson Common Apt. 068,Port Rebekah,Maryland,69752,2025-07-27,0,1
+knightrenee,Tyler Evans,jeanne38@example.com,379.773.9824x553,17.05,Amazon,8786,Mastercard,United States,272 Kathy Ways,South Sarah,Florida,77424,2025-03-26,17,0
+gordonjack,Matthew Jennings,rogersmatthew@example.org,608.919.6954,618.93,Walmart,9190,Visa,United States,50488 Richards Crescent Suite 089,Lake Jonathan,Nebraska,93803,2025-03-10,10,0
+samanthajohnson,Jennifer Conrad,kristen93@example.com,988-910-8227x75477,277.35,McDonalds,1979,American Express,United States,9254 David Passage Suite 249,South Caitlyn,South Carolina,05552,2025-01-05,8,0
+pagemorgan,Lindsay Mitchell,ashley67@example.com,001-716-562-3956x7125,564.05,Amazon,8992,Mastercard,United States,27674 Nicholas Crossing Apt. 272,Sandersborough,California,37597,2025-07-13,10,0
+steelejames,Terrence Walsh,brownjustin@example.com,583-545-5955x62168,785.52,McDonalds,6690,Discover,United States,766 Ann Tunnel Suite 049,North Wesleyton,Maine,26836,2025-01-19,20,0
+woodmark,Frank Moore,oaguilar@example.com,+1-760-293-1608,26.87,Starbucks,3207,American Express,United States,55839 Christopher Land,East Bradley,Montana,37861,2025-01-12,13,0
+ginagross,Teresa Hamilton,lmatthews@example.org,+1-638-987-8218x89384,3198.56,Suspicious Site,5828,Discover,Mali,7663 Gilmore Unions,Lake Alan,Iowa,39688,2025-05-02,0,1
+lopezjacob,Jessica Castillo,jessicagutierrez@example.com,8475832796,457.69,Shell,6303,Discover,United States,581 Wallace Walk Suite 499,West Paul,New Hampshire,87500,2025-01-21,13,0
+patrick93,Ms. Michele Wright,mark66@example.com,+1-623-894-0269x0896,695.45,Shell,3627,Visa,United States,8118 Mary Ports Apt. 324,Castroberg,Idaho,07376,2025-02-23,16,0
+jerrymann,Amy Hughes,harrisrobert@example.com,001-785-978-3045x596,132.47,Target,9873,American Express,United States,578 Hoffman Alley Apt. 551,South Dana,New Mexico,85915,2025-04-11,12,0
+shelia43,Suzanne Martin,richardsondaniel@example.com,(934)642-0042x186,10.57,McDonalds,7210,Mastercard,United States,152 John Corner Apt. 985,Port Matthewstad,South Dakota,13776,2025-02-25,16,0
+natasha85,Brandon Baker,ritawhitaker@example.net,001-287-666-3279,3669.07,Suspicious Site,4912,American Express,Brunei Darussalam,81060 Jill Overpass,North Michaelberg,Rhode Island,11186,2025-05-06,0,1
+stephen49,Jennifer Montgomery,cookdavid@example.org,001-525-299-6114x358,3804.01,Foreign ATM,4110,Discover,Georgia,775 Jeffrey Meadow,North Caitlinberg,Florida,14753,2025-04-06,23,1
+zroberts,Samantha Rodriguez,jallen@example.org,731-892-7431x2666,131.76,Target,7714,American Express,United States,33616 Morgan Brooks,Farmerview,New Jersey,43212,2025-03-20,13,0
+robertbentley,Megan Sullivan,jburgess@example.com,001-751-900-5687x0690,1836.9,Foreign ATM,1717,Mastercard,Zimbabwe,21816 Kane Rapid,Port Henry,Kansas,48339,2025-07-09,1,1
+autumnhall,Crystal Soto,joseph49@example.net,216-457-0794x32183,700.06,Walmart,8952,Mastercard,United States,64685 Stevenson Ports Apt. 204,Port Kimberlyland,Massachusetts,93574,2025-03-14,9,0
+maxwellcorey,Cheryl Myers,jennifer36@example.org,001-330-857-5437x00984,1611.36,Foreign ATM,9026,American Express,Sierra Leone,77021 Smith Summit Suite 701,West Jane,South Carolina,22733,2025-05-11,23,1
+michelleknapp,Krystal Ruiz,imay@example.com,(581)576-9750x5917,2782.24,Foreign ATM,1214,Mastercard,Antarctica (the territory South of 60 deg S),55916 John Run,South Briannafurt,Maine,84856,2025-04-29,1,1
+jennifer06,Mitchell Soto,maria59@example.org,(970)776-5094x620,743.44,Amazon,1994,American Express,United States,27192 Johnson Crossroad Suite 118,Hunttown,West Virginia,15907,2025-01-07,15,0
+ryansmith,Leah Richard,olsencarlos@example.com,7039276280,597.35,Starbucks,1955,American Express,United States,7014 Anderson Lights Apt. 119,Ronaldfurt,Maryland,57388,2025-01-07,13,0
+ocole,Kristopher Myers,mooneylisa@example.org,6514356397,42.12,Amazon,2276,Mastercard,United States,07516 Burgess Valleys Suite 735,New Davidville,New York,95782,2025-04-28,12,0
+sacevedo,Mr. James Mercer DVM,diamond43@example.net,756.499.9712,86.72,McDonalds,9710,Discover,United States,93064 Bowman Crossing,South Lisa,Delaware,76172,2025-01-22,11,0
+khayden,Jacob Gregory,courtneysanchez@example.net,783.705.6828x7533,162.56,McDonalds,3931,Discover,United States,2029 Rowe Overpass,Timothyville,Delaware,24919,2025-05-13,11,0
+qgarza,Donna Richardson,khall@example.org,(293)517-7865,4181.99,Foreign ATM,8515,Discover,Montenegro,750 Nguyen Orchard Suite 791,Turnerland,Florida,88229,2025-03-13,3,1
+danielle35,Tim Jones,troy09@example.org,720.894.8036x957,2083.83,Unknown Store,7579,American Express,Colombia,39168 Wu Turnpike Suite 088,Markfurt,Oregon,36188,2025-02-23,0,1
+joseph10,Andrea Evans,lchan@example.com,893-354-9210x181,431.78,Shell,6772,American Express,United States,93575 Allison Underpass,North Christopherfort,Arizona,25228,2025-03-12,15,0
+randall16,Timothy Mcdaniel,vlopez@example.com,562-602-1354x6922,793.26,Target,7755,Discover,United States,1734 Joshua Lights,Port Claudiamouth,Kentucky,62404,2025-06-12,13,0
+butlerlaura,Kenneth Castaneda,williamsbelinda@example.com,263-452-1412,490.65,Shell,4504,Discover,United States,1756 Patrick Canyon,Ryanland,North Dakota,96436,2025-08-15,16,0
+joseph33,Jessica Ward,taylormatthew@example.net,756-958-1791,741.66,Target,8412,Discover,United States,052 Watkins Extension,Port Brendaville,Tennessee,90360,2025-01-25,13,0
+ernest99,Brian Rodriguez,potterjavier@example.net,(269)393-9142x652,10.15,Amazon,1267,Mastercard,United States,017 Wu Drive,New Rachelport,Vermont,40769,2025-04-14,12,0
+npowell,Benjamin Daniels,zlopez@example.net,636-375-9164,15.19,Walmart,6159,Visa,United States,21801 James Path Suite 231,Richardside,Wyoming,22891,2025-07-30,11,0
+keithdaniels,Valerie Acosta,nicolemcdowell@example.com,(526)871-3202x5342,736.1,Shell,3534,Visa,United States,77604 Christine Street Apt. 987,Ericksonfort,Maryland,07291,2025-08-19,16,0
+itucker,Jerry Morgan,megan00@example.org,905.410.9724,3111.29,Unknown Store,5341,American Express,Guatemala,65416 Brittney Oval Suite 398,Hollybury,Oklahoma,86689,2025-01-25,2,1
+lauradixon,James Lee,kimberlystevens@example.net,(780)570-4235x73189,207.39,Target,5920,Visa,United States,69921 Lucas Inlet,Cortezstad,Alabama,62010,2025-08-22,20,0
+simpsonnicholas,Kristen Schroeder,ashley99@example.net,(735)776-8662x1380,325.84,Walmart,2264,American Express,United States,484 Ramirez Extension,West Brandi,Michigan,13715,2025-02-16,19,0
+jeannewton,Heather Davis,sclark@example.com,510-896-7451,146.59,McDonalds,2562,American Express,United States,5905 Johnathan Overpass,South Nicole,Georgia,18938,2025-02-26,19,0
+robertpark,Rachel Owens,kaiserjames@example.net,(538)712-8171,4057.76,Foreign ATM,2285,Visa,Western Sahara,752 Chad Estates Suite 596,Port Melissa,Indiana,09719,2025-01-21,23,1
+johntravis,Whitney Gordon,terribrown@example.com,001-659-740-0381x8036,284.86,Starbucks,2974,Mastercard,United States,002 Vincent Hollow,Lake Johnnyside,Colorado,59187,2025-01-11,14,0
+teresa16,Julie Griffin,isaiahbrown@example.net,+1-597-503-2043x474,743.64,McDonalds,7266,Visa,United States,2106 Jones Cape Apt. 460,North Cristinaville,Illinois,16486,2025-02-25,20,0
+matthew79,Anthony Kennedy,gabrielleanderson@example.org,+1-956-972-1761x898,424.26,Target,3450,American Express,United States,7751 Vincent Mountain Apt. 239,New Tashabury,South Carolina,60331,2025-06-02,16,0
+bobbyhunter,Donald Wilson,luis86@example.net,873-641-8807,561.24,Walmart,7436,Discover,United States,15758 Harvey Port,Port Traceymouth,Kansas,87228,2025-04-03,8,0
+antoniolester,Lindsay Saunders,shanecraig@example.com,306-738-5670x207,464.45,Amazon,8076,American Express,United States,8420 Howard Run,Jenniferbury,Utah,42392,2025-03-05,11,0
+colesheila,Linda Gutierrez,ghale@example.net,+1-292-621-0072,126.93,Target,8796,Visa,United States,471 Kimberly Hill,Garciamouth,Mississippi,88144,2025-04-27,9,0
+staffordjoshua,Allison Benson,andrea67@example.org,864.942.6244x70498,325.36,Amazon,9221,Discover,United States,01877 Jerry Estate,Steventon,Vermont,37891,2025-06-06,14,0
+kristijohnson,Eric Bennett,kbarton@example.net,449.603.0438x1779,612.01,Starbucks,4245,Discover,United States,247 Justin Pines Apt. 130,New Ronaldport,Kansas,18313,2025-02-28,16,0
+sandra65,Richard Martin,brooke70@example.org,943.674.3256,525.28,Walmart,9589,Mastercard,United States,536 Leslie Wells,East David,Michigan,34295,2025-01-26,16,0
+wilsonmary,Margaret Johnson,burnsjohn@example.com,+1-993-500-5221x4426,66.6,Starbucks,2467,Visa,United States,84256 David Lodge Apt. 599,Josephberg,Nebraska,92484,2025-01-21,13,0
+melissa55,Phillip Barajas,amanda26@example.net,(695)208-1499,344.6,Target,6254,American Express,United States,23585 Margaret Pass,Lake Jamiemouth,Tennessee,22966,2025-05-01,11,0
+rogerssara,Angel Crawford DDS,willisnicole@example.net,935.644.2524x777,527.77,Target,6729,Discover,United States,9649 Austin Meadow Suite 006,South Ashleyhaven,Florida,51641,2025-03-12,10,0
+vmartinez,Helen Diaz,tylerwheeler@example.net,(446)709-1210x407,125.2,Amazon,4271,American Express,United States,3960 Katelyn Circle Apt. 247,South Annefurt,Florida,47761,2025-06-08,11,0
+mannkenneth,James Brown,nathanbanks@example.org,001-794-439-8844x2789,608.61,Amazon,1893,Mastercard,United States,1794 Swanson Junction,Cassandrastad,Virginia,82182,2025-03-25,9,0
+hquinn,Neil Swanson,smckinney@example.net,001-527-818-3224x0239,742.12,Target,6624,Visa,United States,6176 Page Trafficway,Tiffanyview,Washington,51545,2025-03-21,8,0
+cory28,Jonathan Krueger,bellsharon@example.net,(789)420-7459,365.55,Amazon,4424,Mastercard,United States,6774 Jamie Fords,Hollyborough,Wisconsin,30547,2025-07-14,13,0
+ylee,Jeremiah Richmond,lcarrillo@example.org,951-400-2607,441.68,Target,8913,Mastercard,United States,3486 Mata Village,Jayfort,California,47843,2025-08-02,16,0
+bwright,Aaron Bradley,cameronchavez@example.org,+1-995-507-9337x73129,2818.12,Foreign ATM,1712,American Express,Tuvalu,48502 Santiago Landing Apt. 826,North Cathyfort,Georgia,23153,2025-01-07,0,1
+kmiller,Barbara Silva,michael39@example.net,001-959-760-2331x599,57.49,Walmart,5444,Visa,United States,5790 Gary Bridge,Port Ryantown,Rhode Island,37595,2025-08-11,20,0
+krogers,Morgan Martinez,sarahwilliams@example.net,+1-786-375-8755x8509,527.26,Amazon,7367,American Express,United States,0497 Rachel Lock Suite 946,South Gregory,Nevada,44949,2025-01-25,9,0
+robertshannah,Ricky Ellison,kathy50@example.net,001-646-321-7643x493,692.78,Amazon,7332,Mastercard,United States,674 Scott Springs Suite 985,Seanland,Wisconsin,11778,2025-01-13,12,0
+jellis,Donna Davis,pweber@example.net,589.353.7701x249,411.75,McDonalds,6168,Discover,United States,459 Sara Green Apt. 780,Scottport,Arizona,63739,2025-05-29,9,0
+pauljones,Jillian Long,valerieyoder@example.net,(403)727-3571,429.93,Walmart,9202,Discover,United States,2123 Anthony Tunnel Suite 789,Kristinville,Mississippi,31188,2025-02-03,11,0
+hunter66,Kevin Mueller,hutchinsonmatthew@example.com,+1-336-590-3034,741.82,Amazon,5053,American Express,United States,3298 Hamilton Plain Suite 997,Velasqueztown,West Virginia,65818,2025-07-09,8,0
+fwilliams,James Decker,johnwallace@example.org,591-974-4368x716,397.05,McDonalds,1301,American Express,United States,15774 Jocelyn Glens Suite 866,New Edwardside,Washington,65967,2025-03-14,10,0
+george85,Lori King,nthompson@example.net,392-712-2339x982,290.75,Target,9212,American Express,United States,71320 Higgins Pass,Sandrastad,Nebraska,59926,2025-08-07,11,0
+qjones,Nicholas Marshall,smyers@example.com,(889)739-1164x57677,3690.27,Suspicious Site,5590,Mastercard,Svalbard & Jan Mayen Islands,666 Castillo Lock Apt. 852,New Emilymouth,Tennessee,18808,2025-05-19,1,1
+mark52,Jack Roberts,lmoreno@example.net,272.875.4422x06185,280.01,Starbucks,3248,Visa,United States,873 Glover Harbor,North Noahfort,Florida,40515,2025-04-09,18,0
+charris,Robert Miller,briandavis@example.net,693.230.1118,421.37,McDonalds,4726,Discover,United States,4885 Mills Island Suite 245,New Philip,Michigan,10307,2025-03-07,17,0
+qfranklin,Michael Mills,charles79@example.net,887.513.5566,462.59,Starbucks,6395,Discover,United States,958 Beck Cliff,Valdezberg,Massachusetts,89959,2025-04-02,12,0
+schwartzcarol,Wendy Hampton,banderson@example.net,376-929-3684x2685,114.1,McDonalds,9869,Mastercard,United States,67990 Lisa Avenue Apt. 719,Lake Kristinmouth,Washington,97652,2025-06-10,10,0
+marylopez,Jordan Garcia,daviddalton@example.com,+1-219-304-5624x4622,254.11,McDonalds,3215,Discover,United States,6633 Tricia Knoll Apt. 824,Lake David,Florida,42841,2025-02-27,16,0
+bestalexis,Johnny Edwards,cameron42@example.org,(748)243-5074,528.42,Shell,6201,Visa,United States,328 Melissa Route,Johnsonview,Louisiana,01013,2025-03-13,10,0
+christophersolomon,John Caldwell,joemurphy@example.net,627.973.7655,431.04,McDonalds,4016,American Express,United States,72757 Matthew Inlet Apt. 471,South Richard,Connecticut,45011,2025-07-31,9,0
+bettylindsey,Sheila Lawson,stevenwilliams@example.org,250-813-4339,584.39,Target,7737,American Express,United States,9895 Patricia Valleys,Kennedyborough,Virginia,74552,2025-01-17,14,0
+carriemunoz,Jerry Rodriguez,hernandezscott@example.net,395.857.1421,599.03,McDonalds,5485,Mastercard,United States,06591 Adam Harbor,Jakeview,Indiana,51920,2025-03-05,19,0
+jason29,Jennifer Davis,ericwolf@example.net,7074227683,94.35,Walmart,5372,Mastercard,United States,087 Barnett Coves Apt. 933,Jefferytown,Arizona,77571,2025-01-11,8,0
+wadejason,Gloria Simon,ebrewer@example.com,646-658-6172x84703,193.42,McDonalds,6886,Visa,United States,332 Wilkins Knoll Suite 841,Kennethchester,West Virginia,26806,2025-03-20,8,0
+nedwards,William Jones,daniel76@example.net,+1-765-495-9656x00337,115.93,Shell,7126,Mastercard,United States,648 Walsh Corners,New Ernestberg,Massachusetts,12635,2025-06-23,15,0
+michael95,Christina Davidson,toddgutierrez@example.com,942-264-3029,398.24,Walmart,4166,Mastercard,United States,72298 David River,West Danielle,Georgia,41316,2025-07-31,10,0
+catherinemartin,Amanda Moran,ashley28@example.com,9765953908,2930.06,Unknown Store,7767,Mastercard,Palestinian Territory,6790 Stephanie Mill Apt. 446,Hooperfurt,Rhode Island,40950,2025-06-13,3,1
+ryansutton,Walter Schultz,aprilwagner@example.net,001-450-885-5925x6297,608.64,Amazon,8197,Discover,United States,232 West Via Apt. 734,Weeksburgh,New Mexico,07690,2025-06-22,10,0
+taylor33,David Rich,gbutler@example.org,(814)996-1806x862,694.75,Walmart,7633,Visa,United States,4940 Erin Underpass,Christopherchester,South Carolina,93205,2025-03-18,14,0
+hallkevin,Justin Fernandez,mistystephens@example.net,3164934769,590.91,Starbucks,6126,Discover,United States,7939 Christopher Spring,East Sarah,Alaska,10564,2025-04-02,19,0
+masonmichael,Mark Allen,coxjavier@example.org,363.414.0982,751.92,Shell,9784,Visa,United States,23189 Webb Bypass Apt. 295,Port Stacyville,Texas,60335,2025-04-26,17,0
+raymond90,Aaron Garcia,beannicholas@example.com,924.348.3438,96.36,Starbucks,5025,Discover,United States,54746 Daniel Road Apt. 870,South Donald,Idaho,04849,2025-07-19,8,0
+williamsjohn,Michelle Smith DVM,justinreeves@example.net,523-421-6005,3451.95,Foreign ATM,4110,American Express,Estonia,325 Jennifer Lights,West Dylan,Arizona,22000,2025-01-21,1,1
+garciatanner,Dylan Rice,garyhughes@example.net,9118678116,324.45,Target,5684,Discover,United States,025 Mason Parkways,Baxterburgh,Nevada,58490,2025-02-25,20,0
+jacksonbilly,Angela Jennings,jason04@example.net,7532198410,343.75,Shell,9470,Mastercard,United States,5084 Martin Highway Suite 770,Port Tyler,Kentucky,57669,2025-04-18,8,0
+awilliams,Molly Ferrell,qlong@example.com,4589355017,665.62,Starbucks,9202,Visa,United States,9732 Annette Crest,East Alex,Connecticut,12296,2025-06-28,9,0
+mckenziejonathan,Craig Reyes,joneschristine@example.org,(302)340-6511x747,625.2,McDonalds,3216,Discover,United States,64857 Gaines Point Suite 312,Mariamouth,West Virginia,87040,2025-05-24,16,0
+cynthia81,Kimberly Sandoval,rayrobin@example.org,001-845-267-6776x19524,265.53,Amazon,8433,Mastercard,United States,0921 Henderson Isle,South Mollymouth,Wisconsin,05759,2025-01-31,10,0
+elizabethpeters,William Bernard,shannon27@example.com,+1-925-532-0959x28489,81.24,Target,3686,Visa,United States,872 Bernard River Apt. 357,East Hollyview,Alaska,80770,2025-02-27,19,0
+mwade,Rebecca Parker,smitchell@example.com,(473)598-3565,1899.58,Suspicious Site,2397,Discover,Netherlands,867 Martin Drives,Wrightbury,Kansas,41361,2025-08-01,3,1
+dmccoy,Jennifer Lee,kimberly14@example.net,(515)863-4526,493.54,Walmart,7235,Visa,United States,862 James Mount,West Joshuastad,Mississippi,94427,2025-01-28,14,0
+james42,Brian Morgan,kelly95@example.com,+1-742-318-8424x6381,730.68,Shell,3459,Mastercard,United States,116 Goodwin Row,West Donna,Maine,23836,2025-05-20,18,0
+cthompson,Erica Pearson,pbrooks@example.net,753-300-7514,151.3,McDonalds,7874,American Express,United States,7923 Matthew Mountain,West Mark,Illinois,10491,2025-01-07,8,0
+taylorrichard,Travis Newton,tcase@example.org,001-801-546-0669x6106,586.83,Starbucks,3960,Visa,United States,9121 Harper Squares Apt. 650,Jonesview,New Hampshire,11448,2025-03-24,12,0
+garciarachel,Charles Ritter,perryaaron@example.com,001-202-872-8986x83212,768.74,Amazon,5146,Visa,United States,9842 Johnson Mountain,Hinesmouth,North Carolina,34745,2025-02-08,17,0
+hollandjustin,Derrick Scott,mayjeffrey@example.com,(738)661-5952,403.13,Starbucks,1094,Discover,United States,7637 Brittany Burgs Suite 577,Kellerside,Indiana,51612,2025-04-16,16,0
+harrisonjennifer,Jacob Robinson,jessica81@example.com,4437903560,181.33,McDonalds,8434,Discover,United States,660 Lewis Inlet Suite 607,Meganburgh,Colorado,07964,2025-01-21,15,0
+david22,Ryan Mitchell,foxnancy@example.org,559-740-8593x565,72.73,Shell,5009,American Express,United States,3779 Johnson Mission,Morsestad,Wyoming,42803,2025-04-19,8,0
+toddheath,Nicole Acosta,markjackson@example.com,001-484-667-9017x5227,506.62,Walmart,4028,Mastercard,United States,2396 Scott Well Apt. 203,Josephmouth,Alabama,08214,2025-05-13,8,0
+petersonjennifer,Diane Perry,terry53@example.net,+1-451-639-7635,3786.47,Unknown Store,1531,American Express,Israel,2620 Brown Knoll,North Raymond,Kansas,27304,2025-03-04,2,1
+hjones,Kelly Lopez,adriennecurtis@example.com,+1-233-580-4191x716,737.1,Amazon,7831,Mastercard,United States,308 Carter Corners,Johnchester,Arkansas,87659,2025-02-12,9,0
+mccoysamantha,John Tran,simongabrielle@example.org,9935676777,540.95,Shell,3906,Discover,United States,7645 Evans River Apt. 348,New Markview,Illinois,47454,2025-07-02,18,0
+rodriguezbrent,Dan Edwards,jimmywilliams@example.net,001-223-933-1351x4855,294.55,Amazon,5903,American Express,United States,64062 Smith Mill,Jennifermouth,South Dakota,16661,2025-06-26,9,0
+kevin87,Brian Mayer,jhaley@example.org,001-742-979-7302x9406,719.05,Amazon,8001,Visa,United States,2023 Hunter Ford,Murrayville,Hawaii,49553,2025-05-10,20,0
+alyssa89,Leslie Zamora,maria51@example.com,+1-459-591-9456x44645,381.95,Amazon,5496,American Express,United States,41524 Tiffany Wells,Simpsonstad,Michigan,34009,2025-04-28,19,0
+cobbwayne,John Watts,martinezgail@example.com,209.636.7250x280,336.87,Walmart,4425,Visa,United States,7073 Haynes Manors,Lake Johnchester,Connecticut,29541,2025-06-07,19,0
+francisbrenda,Michael Miller,michael52@example.com,(742)283-2867x851,3499.78,Foreign ATM,2436,Discover,Jamaica,815 Newton Creek Suite 566,Port Robertside,Pennsylvania,40021,2025-08-21,0,1
+robertfrancis,Jason Smith,lee61@example.org,739.356.3224,747.77,McDonalds,7996,American Express,United States,6961 Christopher Drive,Bergermouth,West Virginia,41381,2025-05-13,12,0
+jriley,John Molina,fstevenson@example.net,(330)852-7043x69225,425.06,Shell,3125,Discover,United States,30127 Sullivan Stravenue Apt. 176,North Karen,Colorado,75299,2025-07-15,13,0
+rsanchez,Sara Cox,jeremy60@example.com,(523)706-3567,586.06,Starbucks,3947,Mastercard,United States,5694 Katie Pike Suite 104,Port Territon,Indiana,98083,2025-02-07,15,0
+andrewgoodwin,Joseph Fletcher,michelle63@example.net,823-756-1188x20380,783.61,Amazon,1392,Discover,United States,18531 Clifford Estates Apt. 779,Port Sheilafurt,Nevada,50955,2025-04-04,9,0
+ncurtis,Christopher Jones,ericlynn@example.com,001-284-450-3379,4081.14,Unknown Store,7793,Discover,Papua New Guinea,37535 Elizabeth Coves Apt. 245,Port Hannah,Vermont,43757,2025-04-09,0,1
+perkinsmatthew,Sandra Dennis,woodwalter@example.net,6713265249,2668.27,Foreign ATM,1185,Mastercard,Macao,98388 Regina Station Apt. 514,Alexanderchester,Louisiana,75781,2025-01-22,2,1
+aswanson,Jessica Combs,williamcarney@example.org,001-661-695-4902x948,210.99,Amazon,5919,American Express,United States,457 Bass Lodge,Jonesbury,Ohio,70762,2025-07-20,12,0
+colleen00,Lauren Davis,brooke67@example.net,323.695.9360,1898.43,Suspicious Site,7488,Visa,Benin,706 Rodriguez Trail,Emilychester,Arizona,92968,2025-05-06,3,1
+carneysamuel,Charles Barrera,sarajoseph@example.net,+1-911-820-9966,163.27,Target,8849,Discover,United States,2037 Kenneth Glen,South Michael,New Mexico,00626,2025-04-20,18,0
+rileyheather,Matthew Nguyen,mary39@example.com,270.754.6739x3164,3759.78,Suspicious Site,8546,American Express,Faroe Islands,873 Kari Path Suite 810,West Jason,Connecticut,18405,2025-08-18,2,1
+robertokhan,Dillon Simpson,parksanna@example.net,9402146159,629.35,Starbucks,1917,American Express,United States,19007 April Island,Philipbury,South Dakota,41006,2025-06-22,19,0
+john69,Kenneth Montes,daniel19@example.net,696-471-8321x30542,582.72,Target,9779,Visa,United States,111 James Knoll Suite 094,Lake Barbara,California,24282,2025-03-16,16,0
+vhowell,Amanda Vega,johndaniels@example.com,+1-267-566-0628x95134,466.14,Target,6793,Visa,United States,387 Roberts Squares Apt. 081,South John,Vermont,99621,2025-05-15,20,0
+cynthiasalas,Michele White,kallen@example.org,915.848.1851x3311,231.56,Amazon,7147,Mastercard,United States,7767 Jones Dale,Port Arthur,Iowa,08244,2025-08-07,13,0
+cflores,Hunter Weber,johnhuff@example.org,(806)777-8719x24972,488.49,Walmart,2914,American Express,United States,1364 Woods Green Suite 145,South Michael,Idaho,47089,2025-04-16,17,0
+teresa48,Victoria Morris,mpena@example.net,9185511156,570.77,Target,2422,Discover,United States,515 Patterson Street,Snyderton,Tennessee,48770,2025-01-15,14,0

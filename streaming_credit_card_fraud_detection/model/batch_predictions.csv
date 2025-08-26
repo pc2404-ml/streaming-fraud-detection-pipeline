@@ -1,0 +1,11 @@
+is_fraud,fraud_probability,fraud_percentage,risk_level,recommendation,transaction_details,processing_status,transaction_id
+False,0.0,0.0,LOW,APPROVE,"{'amount': 89.99, 'merchant': 'Amazon', 'hour': 10}",SUCCESS,0
+True,1.0,100.0,HIGH,BLOCK,"{'amount': 1250.0, 'merchant': 'Best Buy', 'hour': 15}",SUCCESS,1
+False,0.0,0.0,LOW,APPROVE,"{'amount': 45.5, 'merchant': 'Starbucks', 'hour': 8}",SUCCESS,2
+True,1.0,100.0,HIGH,BLOCK,"{'amount': 2800.5, 'merchant': 'Tesla Supercharger', 'hour': 22}",SUCCESS,3
+False,0.0,0.0,LOW,APPROVE,"{'amount': 67.25, 'merchant': 'Whole Foods', 'hour': 12}",SUCCESS,4
+True,1.0,100.0,HIGH,BLOCK,"{'amount': 5000.0, 'merchant': 'Luxury Watch Store', 'hour': 2}",SUCCESS,5
+False,0.0,0.0,LOW,APPROVE,"{'amount': 123.75, 'merchant': 'Target', 'hour': 16}",SUCCESS,6
+False,0.0,0.0,LOW,APPROVE,"{'amount': 34.99, 'merchant': ""McDonald's"", 'hour': 19}",SUCCESS,7
+True,1.0,100.0,HIGH,BLOCK,"{'amount': 1899.0, 'merchant': 'Apple Store', 'hour': 11}",SUCCESS,8
+False,0.0,0.0,LOW,APPROVE,"{'amount': 75.5, 'merchant': 'Gas Station', 'hour': 7}",SUCCESS,9
