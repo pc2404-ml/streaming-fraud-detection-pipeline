@@ -89,7 +89,7 @@ class KafkaPipeline:
         except subprocess.CalledProcessError as e:
             print(f"Model training failed: {e}")
 
-    def step8_prediction(self):
+    def predictions(self):
         """Step 8: Run prediction using best model"""
         print()
         print("Running predictions using best model...")
@@ -102,7 +102,7 @@ class KafkaPipeline:
         except subprocess.CalledProcessError as e:
             print(f"Prediction failed: {e}")
 
-    def step9_cleanup(self):
+    def cleanup(self):
         """Step 7: Cleanup"""
         print()
         print("Cleaning up...")
@@ -119,13 +119,13 @@ class KafkaPipeline:
             self.run_consumer()
             self.show_results()
             self.model_training()
-            self.step8_prediction()
-            self.step9_cleanup()
+            self.predictions()
+            self.cleanup()
 
         except Exception as e:
             print(f"Pipeline failed: {e}")
         finally:
-            self.step9_cleanup()
+            self.cleanup()
 
 
 def main():
